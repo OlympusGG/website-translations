@@ -25,7 +25,7 @@ SERVER_INFO_STATUS: Server durumu
 CHANNEL: Kanal
 CHANNEL_STATUS_ONLINE: Açık
 CHANNEL_STATUS_OFFLINE: Kapalı
-FOOTER_NOSWINGS_DESCRIPTION: NosWings bir kazançsız projedir ve IT öğrencilerinden imal edilmişdir. Gameforge veya Entwell'den bağlısız ve onaylamasıziz bir yapımdır.
+FOOTER_NOSWINGS_DESCRIPTION: NosWings bir kazançsız projedir ve IT öğrencilerinden imal edilmişdir. Gameforge veya Entwell'den bağlısız ve onaylamasız bir yapımdır.
 FOOTER_NAVIGATION: Navigasyon
 FOOTER_SERVER: Server
 FOOTER_TERMS: Hizmet Şartları
