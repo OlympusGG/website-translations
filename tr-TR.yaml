@@ -1,0 +1,34 @@
+# tr-TR.yaml
+---
+NAVBAR_HOME: Ana Sayfa
+NAVBAR_NEWS: Yenilik
+NAVBAR_RANKING: Sınıflama
+NAVBAR_SUPPORT: Destek
+LOGIN_TITLE: Giriş yap
+LOGIN_USERNAME: Kullanıcı adı
+LOGIN_PASSWORD: Şifre
+LOGIN_REMEMBER: Şifremi unuttum ?
+LOGIN_MODAL_BUTTON: Giriş yap
+REGISTER_TITLE: Kayıt ol
+REGISTER_USERNAME: Kullanıcı adı
+REGISTER_EMAIL: E-posta adresi
+REGISTER_PASSWORD: Şifre
+REGISTER_CONFIRM_PASSWORD: Şifreyi tekrarla
+REGISTER_MODAL_BUTTON: Kayıt ol
+NEWS_TITLE: Yenilik
+PLAY_NOW: Şimdi Oyna!
+DOWNLOAD_LAUNCHER_BUTTON: Bize Katılın
+HOME: ANA SAYFA
+JOIN_DISCORD_BUTTON: Discord'umuza katılın
+SERVER_INFO_TITLE: Server
+SERVER_INFO_STATUS: Server durumu
+CHANNEL: Kanal
+CHANNEL_STATUS_ONLINE: Açık
+CHANNEL_STATUS_OFFLINE: Kapalı
+FOOTER_NOSWINGS_DESCRIPTION: NosWings bir kazançsız projedir ve IT öğrencilerinden imal edilmişdir. Gameforge veya Entwell'den bağlısız ve onaylamasız bir yapımdır.
+FOOTER_NAVIGATION: Navigasyon
+FOOTER_SERVER: Server
+FOOTER_TERMS: Hizmet Şartları
+FOOTER_PRIVACY: Gizlilik Politikası
+FOOTER_CONTACT: Irtibat
+FOOTER_COPYRIGHT: © Copyright 2020 NosWings. Tüm hakları saklıdır.
