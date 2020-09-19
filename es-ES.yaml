@@ -1,34 +1,30 @@
 # es-ES.yaml
 ---
-NAVBAR_HOME: Inicio
-NAVBAR_NEWS: Noticias
-NAVBAR_RANKING: Clasificación
-NAVBAR_SUPPORT: Soporte
-LOGIN_TITLE: Entrar
-LOGIN_USERNAME: Usuario
-LOGIN_PASSWORD: Contraseña
-LOGIN_REMEMBER: Recuérdame
-LOGIN_MODAL_BUTTON: Entrar
-REGISTER_TITLE: Registrarse
-REGISTER_USERNAME: Usuario
-REGISTER_EMAIL: Correo electrónico
-REGISTER_PASSWORD: Contraseña
-REGISTER_CONFIRM_PASSWORD: Confirmar contraseña
-REGISTER_MODAL_BUTTON: Registrarse
-NEWS_TITLE: Noticias
-PLAY_NOW: ¡Juega ahora!
-DOWNLOAD_LAUNCHER_BUTTON: Descargar Launcher
-HOME: INICIO
-JOIN_DISCORD_BUTTON: Únete a nuestro Discord
-SERVER_INFO_TITLE: Información del servidor
-SERVER_INFO_STATUS: Estado del servidor
+CONTACT: Contacto
+COPYRIGHT: © Copyright 2020 NosWings. Todos los derechos reservados.
 CHANNEL: Canal
-CHANNEL_STATUS_ONLINE: Conectado
-CHANNEL_STATUS_OFFLINE: Desconectado
-FOOTER_NOSWINGS_DESCRIPTION: NosWings es un proyecto sin ánimo de lucro creado por estudiantes de TI. No estamos afiliados ni avalados por Gameforge o Enwell.
-FOOTER_NAVIGATION: Navegación
-FOOTER_SERVER: Servidor
-FOOTER_TERMS: Términos de servicio
-FOOTER_PRIVACY: Declaración de privacidad
-FOOTER_CONTACT: Contacto
-FOOTER_COPYRIGHT: © Copyright 2020 NosWings. Todos los derechos reservados.
+DESCRIPTION: NosWings es un proyecto sin ánimo de lucro creado por estudiantes de TI. No estamos afiliados ni avalados por Gameforge o Entwell.
+ENTER: Entrar
+FORMS:
+  CONFIRM_PASSWORD: Confirmar contraseña
+  EMAIL: Correo electrónico
+  PASSWORD: Contraseña
+  USERNAME: Usuario
+HOME: Inicio
+JOIN_DISCORD: Únete a nuestro Discord
+JOIN_US: null
+LOGIN: Entrar
+NAVIGATION: Navegación
+NEWS: Noticias
+ONLINE: Conectado
+OFFLINE: Desconectado
+PLAY_NOW: ¡Juega ahora!
+PRIVACY: Declaración de privacidad
+RANKING: Clasificación
+REGISTER: Registrarse
+SERVER:
+  INFO: Información del servidor
+  TITLE: Servidor
+  STATUS: Estado del servidor
+SUPPORT: Soporte
+TOS: Términos de servicio

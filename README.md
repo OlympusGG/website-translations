@@ -1,8 +1,8 @@
-# website-translations
+# NosWings.Website.Translations
 
 [![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/RUk4r4T)
 
-This is our website translations repository
+This is our Website translations repository.
 
 ## How to
 
@@ -18,10 +18,13 @@ We are working with Pull Requests. If you want to participate and you don't know
 
 + All non-translated keys will fallback to EN.
 + You also need to provide the modified file **as-is** without **any extensions modifications** or **renames**.
-+ Every special character, especially line-breaks (\n) and tabulations (\t) must be respected and shouldn't be deleted.
-+ If the keys has parameters (player's name, amount...) use [string.Format documentation](https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=netframework-4.8#inserting-a-string) and do not hesitate to ask for help if needed
 + Only **values** of keys must be modified.
-+ I'll change the keys if needed.
+* If you know don't know the translation of a string: please insert `null` as a value. \
+If the key you want to translate is exactly the same in English: please insert `~` as a value.
+
+    **NEVER USE AN EMPTY VALUE**
+
+Don't hesitate to fix missing values!
 
 Thanks in advance, \
 NosWings Team.

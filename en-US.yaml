@@ -1,34 +1,30 @@
 # en-US.yaml
 ---
-NAVBAR_HOME: Home
-NAVBAR_NEWS: News
-NAVBAR_RANKING: Ranking
-NAVBAR_SUPPORT: Support
-LOGIN_TITLE: Log In
-LOGIN_USERNAME: Username
-LOGIN_PASSWORD: Password
-LOGIN_REMEMBER: Remember me
-LOGIN_MODAL_BUTTON: Enter
-REGISTER_TITLE: Register
-REGISTER_USERNAME: Username
-REGISTER_EMAIL: E-mail
-REGISTER_PASSWORD: Password
-REGISTER_CONFIRM_PASSWORD: Confirm password
-REGISTER_MODAL_BUTTON: Register
-NEWS_TITLE: News
-PLAY_NOW: Play now!
-DOWNLOAD_LAUNCHER_BUTTON: Join us
-HOME: HOME
-JOIN_DISCORD_BUTTON: Join our Discord
-SERVER_INFO_TITLE: Server information
-SERVER_INFO_STATUS: Server status
+CONTACT: Contact us!
+COPYRIGHT: © Copyright 2020 NosWings. All rights reserved.
 CHANNEL: Channel
-CHANNEL_STATUS_ONLINE: Online
-CHANNEL_STATUS_OFFLINE: Offline
-FOOTER_NOSWINGS_DESCRIPTION: NosWings is a non-profit project made by IT students. We are not affiliated or endorsed by Gameforge or Entwell.
-FOOTER_NAVIGATION: Navigation
-FOOTER_SERVER: Server
-FOOTER_TERMS: Terms of services
-FOOTER_PRIVACY: Privacy statement
-FOOTER_CONTACT: Contact
-FOOTER_COPYRIGHT: © Copyright 2020 NosWings. All rights reserved.
+DESCRIPTION: NosWings is a non-profit project made by IT students. We are not affiliated nor endorsed by Gameforge or Entwell.
+ENTER: Enter
+FORMS:
+  CONFIRM_PASSWORD: Confirm password
+  EMAIL: E-mail
+  PASSWORD: Password
+  USERNAME: Username
+HOME: Home
+JOIN_DISCORD: Join Discord
+JOIN_US: Join us!
+LOGIN: Log In
+NAVIGATION: Navigation
+NEWS: News
+ONLINE: Online
+OFFLINE: Offline
+PLAY_NOW: Play now!
+PRIVACY: Privacy Policy
+RANKING: Ranking
+REGISTER: Register
+SERVER:
+  INFO: Server Information
+  TITLE: Server
+  STATUS: Server Status
+SUPPORT: Support
+TOS: Terms of Services
