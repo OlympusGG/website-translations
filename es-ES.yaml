@@ -8,13 +8,12 @@ DESCRIPTION: NosWings es un proyecto sin ánimo de lucro creado por estudiantes 
 ENTER: Entrar
 FORMS:
   CONFIRM_PASSWORD: Confirmar contraseña
-  CONFIRM_PASSWORD_ERROR: null
   EMAIL: Correo electrónico
   EMAIL_ERROR: null
   PASSWORD: Contraseña
   PASSWORD_ERROR: null
   PASSWORD_MATCH_ERROR: null
-  REQUIRED: null # { type } is required
+  REQUIRED: null
   USERNAME: Usuario
   USERNAME_ERROR: null
 HOME: Inicio
