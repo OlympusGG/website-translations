@@ -19,10 +19,10 @@ We are working with Pull Requests. If you want to participate and you don't know
 + All non-translated keys will fallback to EN.
 + You also need to provide the modified file **as-is** without **any extensions modifications** or **renames**.
 + Only **values** of keys must be modified.
-* No key should be added.
-* `null` value means the actual transition of a key is **unknown**
-* `~` value means the key is the same in English
-* Variables **SHOULD NOT BE TRANSLATED** (values between curly braces)
++ No key should be added.
++ `null` value means the actual transition of a key is **unknown**
++ `~` value means the key is the same in English
++ Variables **SHOULD NOT BE TRANSLATED** (values between curly braces)
 
 **NEVER USE AN EMPTY VALUE WHEN TRANSLATING A KEY**
 
