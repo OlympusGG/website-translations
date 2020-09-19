@@ -1,5 +1,7 @@
 # NosWings.Website.Translations
 
+## PLEASE READ RULES BEFORE TRANSLATING.
+
 [![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/RUk4r4T)
 
 This is our Website translations repository.
