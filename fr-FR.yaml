@@ -1,5 +1,6 @@
 # fr-FR.yaml
 ---
+COOKIE_DESCRIPTION: null
 CONTACT: Contactez-nous!
 COPYRIGHT: © Copyright 2020 NosWings. Tous droits reservés.
 CHANNEL: Canal
@@ -8,8 +9,13 @@ ENTER: Entrer
 FORMS:
   CONFIRM_PASSWORD: Confirmer le mot de passe
   EMAIL: Email
+  EMAIL_ERROR: Email non valide
   PASSWORD: Mot de passe
+  PASSWORD_ERROR: Le mot de passe doit être entre 5 et 26 caractères
+  PASSWORD_MATCH_ERROR: Les mots de passe doivent être identiques
+  REQUIRED: Obligatoire
   USERNAME: Identifiant
+  USERNAME_ERROR: L'identifiant doit être entre 5 et 26 caractères
 HOME: Accueil
 JOIN_DISCORD: Rejoignez notre Discord
 JOIN_US: Rejoignez-nous!
@@ -21,7 +27,9 @@ OFFLINE: Hors ligne
 PLAY_NOW: Jouez maintenant!
 PRIVACY: Déclaration de confidentialité
 RANKING: Classement
+READ_MORE: Lire la suite
 REGISTER: S'inscrire
+REMEMBER_ME: Se souvenir de moi
 SERVER:
   INFO: Information du serveur
   TITLE: Serveur

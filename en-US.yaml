@@ -1,5 +1,6 @@
 # en-US.yaml
 ---
+COOKIE_DESCRIPTION: We use cookies on this site to enhance your user experience. By continuing to use this website you are giving consent to cookies being used.
 CONTACT: Contact us!
 COPYRIGHT: © Copyright 2020 NosWings. All rights reserved.
 CHANNEL: Channel
@@ -7,9 +8,14 @@ DESCRIPTION: NosWings is a non-profit project made by IT students. We are not af
 ENTER: Enter
 FORMS:
   CONFIRM_PASSWORD: Confirm password
-  EMAIL: E-mail
+  EMAIL: Email
+  EMAIL_ERROR: Email must be valid
   PASSWORD: Password
+  PASSWORD_ERROR: Password must be between 6 and 26 characters
+  PASSWORD_MATCH_ERROR: Passwords must match
+  REQUIRED: Required
   USERNAME: Username
+  USERNAME_ERROR: Username must be between 5 and 26 characters
 HOME: Home
 JOIN_DISCORD: Join Discord
 JOIN_US: Join us!
@@ -21,7 +27,9 @@ OFFLINE: Offline
 PLAY_NOW: Play now!
 PRIVACY: Privacy Policy
 RANKING: Ranking
+READ_MORE: Read more
 REGISTER: Register
+REMEMBER_ME: Remember me
 SERVER:
   INFO: Server Information
   TITLE: Server

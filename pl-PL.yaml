@@ -1,5 +1,6 @@
 # pl-PL.yaml
 ---
+COOKIE_DESCRIPTION: null
 CONTACT: Kontakt
 COPYRIGHT: © Copyright 2020 NosWings. Wszystkie prawa zastrzeżone.
 CHANNEL: Kanał
@@ -7,9 +8,14 @@ DESCRIPTION: NosWings jest projektem non-profit stworzony przez studentów IT. N
 ENTER: Wejdź
 FORMS:
   CONFIRM_PASSWORD: Potwierdź hasło
-  EMAIL: E-mail
+  EMAIL: E-Mail
+  EMAIL_ERROR: null
   PASSWORD: Hasło
+  PASSWORD_ERROR: null
+  PASSWORD_MATCH_ERROR: null
+  REQUIRED: null
   USERNAME: Nazwa użytkownika
+  USERNAME_ERROR: null
 HOME: ~
 JOIN_DISCORD: Dołącz na nasz Discord!
 JOIN_US: null
@@ -21,7 +27,9 @@ OFFLINE: ~
 PLAY_NOW: Zagraj teraz!
 PRIVACY: Oświadczenie o ochronie prywatności
 RANKING: ~
+READ_MORE: null
 REGISTER: Registrieren
+REMEMBER_ME: null
 SERVER:
   INFO: Informacje o serwerze
   TITLE: Serwer

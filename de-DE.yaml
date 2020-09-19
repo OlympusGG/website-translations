@@ -1,5 +1,6 @@
 # de-DE.yaml
 ---
+COOKIE_DESCRIPTION: null
 CONTACT: Kontakt
 COPYRIGHT: ~
 CHANNEL: ~
@@ -8,8 +9,13 @@ ENTER: ~
 FORMS:
   CONFIRM_PASSWORD: Passwort bestätigen
   EMAIL: E-Mail
+  EMAIL_ERROR: null
   PASSWORD: Passwort
+  PASSWORD_ERROR: null
+  PASSWORD_MATCH_ERROR: null
+  REQUIRED: null
   USERNAME: Benutzername
+  USERNAME_ERROR: null
 HOME: ~
 JOIN_DISCORD: Discord beitreten!
 JOIN_US: null
@@ -21,7 +27,9 @@ OFFLINE: ~
 PLAY_NOW: Spielen!
 PRIVACY: Datenschutzerklärung
 RANKING: ~
+READ_MORE: null
 REGISTER: Registrieren
+REMEMBER_ME: null
 SERVER:
   INFO: ~
   TITLE: ~
