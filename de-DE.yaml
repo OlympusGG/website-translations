@@ -1,38 +1,38 @@
 # de-DE.yaml
 ---
-COOKIE_DESCRIPTION: null
+COOKIE_DESCRIPTION: Wir verwenden Cookies auf dieser Website, um die Benutzererfahrung zu verbessern. Wenn diese Website weiterhin genutzt wird, wird der Verwendung von Cookies zugestimmt.
 CONTACT: Kontakt
-COPYRIGHT: ~
+COPYRIGHT: © Copyright 2020 NosWings. Alle Rechte vorbehalten. 
 CHANNEL: ~
 DESCRIPTION: NosWings ist ein gemeinnütziges Projekt von IT-Studenten. Wir sind keine Partner von Gameforge oder Entwell. Wir stehen in keiner Relation zu ihnen.
-ENTER: ~
+ENTER: Einloggen
 FORMS:
   CONFIRM_PASSWORD: Passwort bestätigen
   EMAIL: E-Mail
-  EMAIL_ERROR: null
+  EMAIL_ERROR: Die E-Mail muss gültig sein.
   PASSWORD: Passwort
-  PASSWORD_ERROR: null
-  PASSWORD_MATCH_ERROR: null
-  REQUIRED: null
+  PASSWORD_ERROR: Das Passwort muss zwischen 6 und 26 Zeichen lang sein.
+  PASSWORD_MATCH_ERROR: Die Passwörter müssen übereinstimmen.
+  REQUIRED: Benötigt
   USERNAME: Benutzername
-  USERNAME_ERROR: null
-HOME: ~
+  USERNAME_ERROR: Der Benutzername muss zwischen 5 und 26 Zeichen lang sein.
+HOME: Start
 JOIN_DISCORD: Discord beitreten!
-JOIN_US: null
+JOIN_US: Tritt uns bei!
 LOGIN: Anmelden
-NAVIGATION: ~
-NEWS: ~
+NAVIGATION: Navigation
+NEWS: Neuigkeiten
 ONLINE: ~
 OFFLINE: ~
 PLAY_NOW: Spielen!
 PRIVACY: Datenschutzerklärung
-RANKING: ~
-READ_MORE: null
+RANKING: Rangliste
+READ_MORE: Weiterlesen
 REGISTER: Registrieren
-REMEMBER_ME: null
+REMEMBER_ME: Angemeldet bleiben
 SERVER:
   INFO: ~
   TITLE: ~
   STATUS: ~
-SUPPORT: ~
+SUPPORT: Support
 TOS: Nutzungsbedingungen
