@@ -1,25 +1,45 @@
 # pl-PL.yaml
 ---
+2FA:
+  MANAGE: null
+  DISPLAY_DESCRIPTION: null
+  SCAN_DESCRIPTION: null
+ACTIVATE: null
+BECOME_VIP: null
 COOKIE_DESCRIPTION: null
 CONTACT: Kontakt
 COPYRIGHT: © Copyright 2020 NosWings. Wszystkie prawa zastrzeżone.
 CHANNEL: Kanał
+CHARACTERS: null
+DEACTIVATE: null
 DESCRIPTION: NosWings jest projektem non-profit stworzony przez studentów IT. Nie jesteśmy powiązani z Gameforge oraz Entwell.
 ENTER: Wejdź
 FORMS:
-  CONFIRM_PASSWORD: Potwierdź hasło
-  EMAIL: E-Mail
-  EMAIL_ERROR: null
-  PASSWORD: Hasło
-  PASSWORD_ERROR: null
-  PASSWORD_MATCH_ERROR: null
+  EMAIL:
+    CURRENT: null
+    ERROR: null
+    LABEL: E-Mail
+    NEW: null
+    UPDATE: null
+  ENTER_CODE: null
+  PASSWORD:
+    CONFIRM: Potwierdź hasło
+    CONFIRM_NEW: null
+    ERROR: null
+    ERROR_MATCH: null
+    LABEL: Hasło
+    OLD: null
+    NEW: null
+    UPDATE: null
   REQUIRED: null
-  USERNAME: Nazwa użytkownika
-  USERNAME_ERROR: null
+  USERNAME:
+    ERROR: null
+    LABEL: Nazwa użytkownika
 HOME: ~
 JOIN_DISCORD: Dołącz na nasz Discord!
 JOIN_US: null
 LOGIN: Zaloguj
+MANAGE_ACCOUNT: null
 NAVIGATION: Nawigacja
 NEWS: Nowości
 ONLINE: ~
@@ -28,6 +48,8 @@ PLAY_NOW: Zagraj teraz!
 PRIVACY: Oświadczenie o ochronie prywatności
 RANKING: ~
 READ_MORE: null
+REDEEM: null
+REDEEM_COUPON: null
 REGISTER: Registrieren
 REMEMBER_ME: null
 SERVER:
@@ -35,4 +57,7 @@ SERVER:
   TITLE: Serwer
   STATUS: Status serwera
 SUPPORT: Wsparcie
-TOS: Warunki korzystania z usług
+TOS:
+  ACCEPT: null
+  ACCEPT_SHORT: null
+  LABEL: Warunki korzystania z usług

@@ -1,25 +1,45 @@
 # tr-TR.yaml
 ---
+2FA:
+  MANAGE: null
+  DISPLAY_DESCRIPTION: null
+  SCAN_DESCRIPTION: null
+ACTIVATE: null
+BECOME_VIP: null
 COOKIE_DESCRIPTION: null
 CONTACT: Irtibat
 COPYRIGHT: © Copyright 2020 NosWings. Tüm hakları saklıdır.
 CHANNEL: Kanal
+CHARACTERS: null
+DEACTIVATE: null
 DESCRIPTION: NosWings bir kazançsız projedir ve IT öğrencilerinden imal edilmişdir. Gameforge veya Entwell'den bağlısız ve onaylamasız bir yapımdır.
 ENTER: ~
 FORMS:
-  CONFIRM_PASSWORD: Şifreyi tekrarla
-  EMAIL: E-posta adresi
-  EMAIL_ERROR: null
-  PASSWORD: Şifre
-  PASSWORD_ERROR: null
-  PASSWORD_MATCH_ERROR: null
+  EMAIL:
+    CURRENT: null
+    ERROR: null
+    LABEL: E-posta adresi
+    NEW: null
+    UPDATE: null
+  ENTER_CODE: null
+  PASSWORD:
+    CONFIRM: Şifreyi tekrarla
+    CONFIRM_NEW: null
+    ERROR: null
+    ERROR_MATCH: null
+    LABEL: Şifre
+    OLD: null
+    NEW: null
+    UPDATE: null
   REQUIRED: null
-  USERNAME: Kullanıcı adı
-  USERNAME_ERROR: null
+  USERNAME:
+    ERROR: null
+    LABEL: Kullanıcı adı
 HOME: Ana Sayfa
 JOIN_DISCORD: Discord'umuza katılın
 JOIN_US: null
 LOGIN: Giriş yap
+MANAGE_ACCOUNT: null
 NAVIGATION: Navigasyon
 NEWS: Yenilik
 ONLINE: Açık
@@ -28,11 +48,15 @@ PLAY_NOW: Spielen!
 PRIVACY: Gizlilik Politikası
 RANKING: Sınıflama
 READ_MORE: null
-REMEMBER_ME: null
+REDEEM: null
+REDEEM_COUPON: null
 REGISTER: Kayıt ol
 SERVER:
   INFO: ~
   TITLE: ~
   STATUS: Server durumu
 SUPPORT: Destek
-TOS: Hizmet Şartları
+TOS:
+  ACCEPT: null
+  ACCEPT_SHORT: null
+  LABEL: Hizmet Şartları
