@@ -1,25 +1,45 @@
 # en-US.yaml
 ---
+2FA:
+  MANAGE: Manage 2FA
+  DISPLAY_DESCRIPTION: After scanning the barcode image, the app will display a six digit code that you need to enter below
+  SCAN_DESCRIPTION: Scan the image above with the two factor app on your phone to be able to generate your codes
+ACTIVATE: Activate
+BECOME_VIP: Become VIP
 COOKIE_DESCRIPTION: We use cookies on this site to enhance your user experience. By continuing to use this website you are giving consent to cookies being used.
 CONTACT: Contact us!
 COPYRIGHT: © Copyright 2020 NosWings. All rights reserved.
 CHANNEL: Channel
+CHARACTERS: Your characters
+DEACTIVATE: Deactivate
 DESCRIPTION: NosWings is a non-profit project made by IT students. We are not affiliated nor endorsed by Gameforge or Entwell.
 ENTER: Enter
 FORMS:
-  CONFIRM_PASSWORD: Confirm password
-  EMAIL: Email
-  EMAIL_ERROR: Email must be valid
-  PASSWORD: Password
-  PASSWORD_ERROR: Password must be between 6 and 26 characters
-  PASSWORD_MATCH_ERROR: Passwords must match
+  EMAIL:
+    CURRENT: Current Email
+    ERROR: Email must be valid
+    LABEL: Email
+    NEW: New email
+    UPDATE: Update Email
+  ENTER_CODE: Enter your code here
+  PASSWORD:
+    CONFIRM: Confirm password
+    CONFIRM_NEW: Confirm new password
+    ERROR: Password must be between 6 and 26 characters
+    ERROR_MATCH: Passwords must match
+    LABEL: Password
+    OLD: Old password
+    NEW: New password
+    UPDATE: Update Password
   REQUIRED: Required
-  USERNAME: Username
-  USERNAME_ERROR: Username must be between 5 and 26 characters
+  USERNAME:
+    ERROR: Username must be between 5 and 26 characters
+    LABEL: Username
 HOME: Home
 JOIN_DISCORD: Join Discord
 JOIN_US: Join us!
 LOGIN: Log In
+MANAGE_ACCOUNT: Manage Account
 NAVIGATION: Navigation
 NEWS: News
 ONLINE: Online
@@ -28,6 +48,8 @@ PLAY_NOW: Play now!
 PRIVACY: Privacy Policy
 RANKING: Ranking
 READ_MORE: Read more
+REDEEM: Redeem
+REDEEM_COUPON: Redeem coupon
 REGISTER: Register
 REMEMBER_ME: Remember me
 SERVER:
@@ -35,4 +57,7 @@ SERVER:
   TITLE: Server
   STATUS: Server Status
 SUPPORT: Support
-TOS: Terms of Services
+TOS:
+  ACCEPT: Accept Terms of Services
+  ACCEPT_SHORT: Accept ToS
+  LABEL: Terms of Services

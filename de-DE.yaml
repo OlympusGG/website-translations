@@ -1,25 +1,45 @@
 # de-DE.yaml
 ---
+2FA:
+  MANAGE: null
+  DISPLAY_DESCRIPTION: null
+  SCAN_DESCRIPTION: null
+ACTIVATE: null
+BECOME_VIP: null
 COOKIE_DESCRIPTION: Wir verwenden Cookies auf dieser Website, um die Benutzererfahrung zu verbessern. Wenn diese Website weiterhin genutzt wird, wird der Verwendung von Cookies zugestimmt.
 CONTACT: Kontakt
 COPYRIGHT: © Copyright 2020 NosWings. Alle Rechte vorbehalten. 
 CHANNEL: ~
+CHARACTERS: null
+DEACTIVATE: null
 DESCRIPTION: NosWings ist ein gemeinnütziges Projekt von IT-Studenten. Wir sind keine Partner von Gameforge oder Entwell. Wir stehen in keiner Relation zu ihnen.
 ENTER: Einloggen
 FORMS:
-  CONFIRM_PASSWORD: Passwort bestätigen
-  EMAIL: E-Mail
-  EMAIL_ERROR: Die E-Mail muss gültig sein.
-  PASSWORD: Passwort
-  PASSWORD_ERROR: Das Passwort muss zwischen 6 und 26 Zeichen lang sein.
-  PASSWORD_MATCH_ERROR: Die Passwörter müssen übereinstimmen.
+  EMAIL:
+    CURRENT: null
+    ERROR: Die E-Mail muss gültig sein.
+    LABEL:  E-Mail
+    NEW: null
+    UPDATE: null
+  ENTER_CODE: null
+  PASSWORD:
+    CONFIRM: Passwort bestätigen
+    CONFIRM_NEW: null
+    ERROR: Das Passwort muss zwischen 6 und 26 Zeichen lang sein.
+    ERROR_MATCH: Die Passwörter müssen übereinstimmen.
+    LABEL: Passwort
+    OLD: null
+    NEW: null
+    UPDATE: null
   REQUIRED: Benötigt
-  USERNAME: Benutzername
-  USERNAME_ERROR: Der Benutzername muss zwischen 5 und 26 Zeichen lang sein.
+  USERNAME:
+    ERROR: Der Benutzername muss zwischen 5 und 26 Zeichen lang sein.
+    LABEL: Benutzername
 HOME: Start
 JOIN_DISCORD: Discord beitreten!
 JOIN_US: Tritt uns bei!
 LOGIN: Anmelden
+MANAGE_ACCOUNT: null
 NAVIGATION: Navigation
 NEWS: Neuigkeiten
 ONLINE: ~
@@ -28,6 +48,8 @@ PLAY_NOW: Spielen!
 PRIVACY: Datenschutzerklärung
 RANKING: Rangliste
 READ_MORE: Weiterlesen
+REDEEM: null
+REDEEM_COUPON: null
 REGISTER: Registrieren
 REMEMBER_ME: Angemeldet bleiben
 SERVER:
@@ -35,4 +57,7 @@ SERVER:
   TITLE: ~
   STATUS: ~
 SUPPORT: Support
-TOS: Nutzungsbedingungen
+TOS:
+  ACCEPT: null
+  ACCEPT_SHORT: null
+  LABEL: Nutzungsbedingungen

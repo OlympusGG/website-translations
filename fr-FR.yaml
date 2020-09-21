@@ -1,25 +1,45 @@
 # fr-FR.yaml
 ---
-COOKIE_DESCRIPTION: null
+2FA:
+  MANAGE: Gérer votre 2FA
+  DISPLAY_DESCRIPTION: Après avoir scan le QRCode, l'application affichera un code a 6 caractères, merci de l'entrer ci-dessous
+  SCAN_DESCRIPTION: Scannez le QR Code au-dessus avec votre application sur votre téléphone pour générer un code
+ACTIVATE: Activer
+BECOME_VIP: Devenez VIP
+COOKIE_DESCRIPTION: Nous utiisons les cookies pour améliorer votre expérience sur le site. En continuant sur ce site, vous acceptez que les cookies soient utilisés.
 CONTACT: Contactez-nous!
 COPYRIGHT: © Copyright 2020 NosWings. Tous droits reservés.
 CHANNEL: Canal
+CHARACTERS: Vos personnages
+DEACTIVATE: Désactiver
 DESCRIPTION:  NosWings est un projet non lucratif fait par des étudiants en informatique. Nous ne sommes pas affiliés ni approuvés par Gameforge ou Entwell.
 ENTER: Entrer
 FORMS:
-  CONFIRM_PASSWORD: Confirmer le mot de passe
-  EMAIL: Email
-  EMAIL_ERROR: Email non valide
-  PASSWORD: Mot de passe
-  PASSWORD_ERROR: Le mot de passe doit être entre 5 et 26 caractères
-  PASSWORD_MATCH_ERROR: Les mots de passe doivent être identiques
+  EMAIL:
+    CURRENT: Email actuel
+    ERROR: Email non valide
+    LABEL: Email
+    NEW: Nouvel email
+    UPDATE: Mettre à jour l'email
+  ENTER_CODE: Entrez votre code
+  PASSWORD:
+    CONFIRM: Confirmer le mot de passe
+    CONFIRM_NEW: Confirmer le nouveau mot de passe
+    ERROR: Le mot de passe doit être entre 5 et 26 caractères
+    ERROR_MATCH: Les mots de passe doivent être identiques
+    LABEL: Mot de passe
+    OLD: Mot de passe actuel
+    NEW: Nouveau mot de passe
+    UPDATE: Mettre à jour le mot de passe
   REQUIRED: Obligatoire
-  USERNAME: Identifiant
-  USERNAME_ERROR: L'identifiant doit être entre 5 et 26 caractères
+  USERNAME:
+    ERROR: L'identifiant doit être entre 5 et 26 caractères
+    LABEL: Identifiant
 HOME: Accueil
 JOIN_DISCORD: Rejoignez notre Discord
 JOIN_US: Rejoignez-nous!
 LOGIN: Se connecter
+MANAGE_ACCOUNT: Gérez votre compte
 NAVIGATION: Navigation
 NEWS: Nouveautés
 ONLINE: En ligne
@@ -28,6 +48,8 @@ PLAY_NOW: Jouez maintenant!
 PRIVACY: Déclaration de confidentialité
 RANKING: Classement
 READ_MORE: Lire la suite
+REDEEM: Utiliser
+REDEEM_COUPON: Utiliser un coupon
 REGISTER: S'inscrire
 REMEMBER_ME: Se souvenir de moi
 SERVER:
@@ -35,4 +57,7 @@ SERVER:
   TITLE: Serveur
   STATUS: Statut du serveur
 SUPPORT: Support
-TOS: Conditions de service
+TOS: 
+  ACCEPT: J'accepte les Conditions de Service (CGU)
+  ACCEPT_SHORT: J'accepte les CGU
+  LABEL: Conditions de service
