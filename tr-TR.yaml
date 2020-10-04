@@ -12,7 +12,7 @@ COPYRIGHT: © Copyright 2020 NosWings. Tüm hakları saklıdır.
 CHANNEL: Kanal
 CHARACTERS: null
 DEACTIVATE: null
-DESCRIPTION: NosWings bir kazançsız projedir ve IT öğrencilerinden imal edilmişdir. Gameforge veya Entwell'den bağlısız ve onaylamasız bir yapımdır.
+DESCRIPTION: NosWings bir kazançsız projedir ve IT öğrencilerinden imal edilmişdir. Gameforge veya Entwell'den bağımsız ve onaylamasız bir yapımdır.
 ENTER: ~
 FORMS:
   EMAIL:
@@ -41,10 +41,10 @@ JOIN_US: null
 LOGIN: Giriş yap
 MANAGE_ACCOUNT: null
 NAVIGATION: Navigasyon
-NEWS: Yenilik
-ONLINE: Açık
-OFFLINE: Kapalı
-PLAY_NOW: Spielen!
+NEWS: Yenilikler
+ONLINE: Çevrimiçi
+OFFLINE: Çevrimdışı
+PLAY_NOW: Hemen Oyna!
 PRIVACY: Gizlilik Politikası
 RANKING: Sınıflama
 READ_MORE: null
@@ -53,8 +53,8 @@ REDEEM_COUPON: null
 REGISTER: Kayıt ol
 SERVER:
   INFO: ~
-  TITLE: ~
-  STATUS: Server durumu
+  TITLE: Sunucu Durumu
+  STATUS: 
 SUPPORT: Destek
 TOS:
   ACCEPT: null
