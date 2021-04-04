@@ -1,10 +1,10 @@
-# NosWings.Website.Translations
+# NosWings.Dashboard.Translations
 
 ## PLEASE READ RULES BEFORE TRANSLATING.
 
 [![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/RUk4r4T)
 
-This is our Website translations repository.
+This is our Dashboard translations repository.
 
 ## How to
 
