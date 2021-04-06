@@ -1,63 +1,131 @@
-# en-US.yaml
----
-2FA:
-  MANAGE: Manage 2FA
-  DISPLAY_DESCRIPTION: After scanning the barcode image, the app will display a six digit code that you need to enter below
-  SCAN_DESCRIPTION: Scan the image above with the two factor app on your phone to be able to generate your codes
-ACTIVATE: Activate
-BECOME_VIP: Become VIP
-COOKIE_DESCRIPTION: We use cookies on this site to enhance your user experience. By continuing to use this website you are giving consent to cookies being used.
-CONTACT: Contact us!
-COPYRIGHT: © Copyright 2020 NosWings. All rights reserved.
-CHANNEL: Channel
-CHARACTERS: Your characters
-DEACTIVATE: Deactivate
-DESCRIPTION: NosWings is a non-profit project made by IT students. We are not affiliated nor endorsed by Gameforge or Entwell.
-ENTER: Enter
-FORMS:
-  EMAIL:
-    CURRENT: Current Email
-    ERROR: Email must be valid
-    LABEL: Email
-    NEW: New email
-    UPDATE: Update Email
-  ENTER_CODE: Enter your code here
-  PASSWORD:
-    CONFIRM: Confirm password
-    CONFIRM_NEW: Confirm new password
-    ERROR: Password must be between 6 and 26 characters
-    ERROR_MATCH: Passwords must match
-    LABEL: Password
-    OLD: Old password
-    NEW: New password
-    UPDATE: Update Password
-  REQUIRED: Required
-  USERNAME:
-    ERROR: Username must be between 5 and 26 characters
-    LABEL: Username
+2FA_CODE: Code
+2FA_DISABLE: Disable 2FA
+2FA_DISABLE_SUCCESS_MSG: 2FA has been disabled successfully
+2FA_ENABLE: Enable 2FA
+2FA_ENABLE_SUCCESS_MSG: 2FA has been enabled successfully
+2FA_HOW_TO_DISABLE: How to disable 2FA?
+2FA_HOW_TO_DISABLE_STEP_1: Get the 6 digits code on the app you used to enable 2FA and enter it below
+2FA_HOW_TO_DISABLE_STEP_2: Click on the button!
+2FA_HOW_TO_DISABLE_STEP_3: Delete the NosWings:YourUsername key on the app to be able to scan the code again.
+2FA_HOW_TO_ENABLE: How to enable 2FA?
+2FA_HOW_TO_ENABLE_STEP_1:  Download an 2FA Authenticator App
+2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
+2FA_HOW_TO_ENABLE_STEP_3: You will have a 6 digits code. Enter it below.
+2FA_HOW_TO_ENABLE_STEP_4: Click on the button!
+2FA_MANAGE: Manage 2FA
+ABOUT: About
+ACCOUNT: Account
+ACCOUNT_ALREADY_CREATED: Already have an account?
+ACCOUNT_CREATE: Create an account
+ACCOUNT_CREATED: Account created!
+ACCOUNT_ID: Account ID
+ACCOUNT_SUCCESSFULLY_ACTIVATED: Your account has been successfully activated! Login below.
+ACCOUNT_VERIFICATION_LINK_ERROR: An error occurred. Please verify your activation link.
+ADMIN: Administration
+AGREE_TO_TOS_AND_PP: I agree to {tos} and {pp}
+ALL_RIGHTS_RESERVED: All rights reserved
+AMOUNT: Amount
+ARE_YOU_NEW: Are you new?
+AUTHORITY: Authority
+BACK_TO_LOGIN: Back to login
+BUY_NWC: Buy NWC
+CHARACTERS: Characters
+CONNECT: Connect
+CONNECTIONS: Connections
+COPYRIGHT: Copyright
+COUPON_ADDED: The coupon {coupon} has been added to your coupon inventory.
+COUPON_CLAIM: Claim a coupon
+COUPON_CLAIM_NOTHING: You have no coupons available
+COUPON_INFORMATION:
+COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
+COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
+COUPON_INVENTORY: Coupon Inventory
+COUPON_PLACEHOLDER: Enter coupon's code
+COUPON_REDEEM: Redeem a coupon
+CUSTOMIZE: Customize
+DISABLED: Disabled
+DISCONNECT: Disconnect
+DOWNLOAD_LAUNCHER: Download Launcher
+DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_x64_VERSION: Download x64 version
+DOWNLOAD_LAUNCHER_x86_VERSION: Download x84 version
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x84 version
+EMAIL:
+  CONFIRM_NEW: Confirm new email
+  CURRENT: Current email
+  NEW: New email
+  TITLE: Email
+  UPDATE: Update Email
+ENABLED: Enabled
+GAME_ACCOUNTS: Game Accounts
+GENERAL: General
 HOME: Home
-JOIN_DISCORD: Join Discord
-JOIN_US: Join us!
-LOGIN: Log In
-MANAGE_ACCOUNT: Manage Account
-NAVIGATION: Navigation
-NEWS: News
-ONLINE: Online
-OFFLINE: Offline
-PLAY_NOW: Play now!
-PRIVACY: Privacy Policy
-RANKING: Ranking
-READ_MORE: Read more
+LANGUAGE_CZECH: Czech
+LANGUAGE_ENGLISH: English
+LANGUAGE_FRENCH: French
+LANGUAGE_GERMAN: German
+LANGUAGE_ITALIAN: Italian
+LANGUAGE_POLISH: Polish
+LANGUAGE_SPANISH: Spanish
+LANGUAGE_TURKISH: Turkish
+LOGIN: Login
+LOGOUT: Logout
+LOGS: Logs
+LOGS_DONATION: Donation Logs
+LOGS_SHOP: Shop Logs
+NO_RECORDS_FOUND: No records found
+NUMBER_OF_CHARACTERS: Number of characters
+PAGINATION_TOTAL_COUNT: Showing from {min} to {max} of {total} entries
+PASSWORD:
+  CONFIRM: Confirm password
+  CONFIRM_NEW: Confirm new password
+  CURRENT: Current password
+  FORGOT: Forgot password?
+  FORGOT_INSTRUCTIONS: Enter your email and we will send you instructions to reset your password
+  NEW: New password
+  TITLE: Password
+  UPDATE: Update password
+PRIVACY_POLICY: Privacy Policy
+PURCHASE: Purchase
+PURCHASE_ERRORS_UNDEFINED: An error occurred.
+PURCHASE_ERRORS_AMOUNT: Please select an amount.
+PURCHASE_LEAVE_MESSAGE: Don't leave the page.
+PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} NWC to your account.
+PURCHASE_TOS_MESSAGE: By purchasing, you have read and agreed to our {toslink}.
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verifying the current transaction...
+PROFILE: Profile
+PROFILE_SECTION_TITLE: My profile
 REDEEM: Redeem
-REDEEM_COUPON: Redeem coupon
+REFRESH_DATA: Refresh data
 REGISTER: Register
-REMEMBER_ME: Remember me
-SERVER:
-  INFO: Server Information
-  TITLE: Server
-  STATUS: Server Status
-SUPPORT: Support
-TOS:
-  ACCEPT: Accept Terms of Services
-  ACCEPT_SHORT: Accept ToS
-  LABEL: Terms of Services
+RESET: Reset 
+SAVE: Save
+SAVE_CHANGES: Save changes
+SELECT_NWC_AMOUNT: Select NWC amount
+SELECT_PURCHASE_METHOD: Select purchase method
+SEND_RESET_LINK: Send reset link
+SECURITY: Security
+SESSION_EXPIRED: Your session has expired. Please login again.
+SETTINGS: Settings
+SHOP: Shop
+SHOP_FILTERS: Filters
+SHOP_FILTERS_CATEGORIES: Categories
+SHOP_FILTERS_PRICE: Price
+SHOP_FILTERS_SEARCH: Search
+SHOP_FILTERS_SEARCH_PLACEHOLDER: Enter item name
+SHOP_FILTERS_SORT_BY: Sort by
+SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alphabetical (A-Z)
+SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alphabetical (Z-A)
+SHOP_FILTERS_SORT_BY_PRICE_ASC: Price (ascending)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Price (descending)
+SHOP_RESET_FILTERS: Reset filters
+STAY_LOGGED_IN: Stay logged in?
+TERMS_OF_SERVICE: Terms of Service
+USERNAME: Username
+SHOP_SECTION_TITLE: NosWings Shop
+UPDATE_BACKGROUND_TITLE: Update backgorund
+UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
+WELCOME: Welcome to NosWings!
+WELCOME_BACK: Welcome back to NosWings!
+WELCOME_BACK_DESCRIPTION: Don't forget to join our {link} server to be aware of our latest news, updates and more!
+YOUR_CHARACTERS: Your characters

@@ -1,63 +1,129 @@
-# fr-FR.yaml
----
-2FA:
-  MANAGE: Gérer votre 2FA
-  DISPLAY_DESCRIPTION: Après avoir scan le QRCode, l'application affichera un code a 6 caractères, merci de l'entrer ci-dessous
-  SCAN_DESCRIPTION: Scannez le QR Code au-dessus avec votre application sur votre téléphone pour générer un code
-ACTIVATE: Activer
-BECOME_VIP: Devenez VIP
-COOKIE_DESCRIPTION: Nous utiisons les cookies pour améliorer votre expérience sur le site. En continuant sur ce site, vous acceptez que les cookies soient utilisés.
-CONTACT: Contactez-nous!
-COPYRIGHT: © Copyright 2020 NosWings. Tous droits reservés.
-CHANNEL: Canal
-CHARACTERS: Vos personnages
-DEACTIVATE: Désactiver
-DESCRIPTION:  NosWings est un projet non lucratif fait par des étudiants en informatique. Nous ne sommes pas affiliés ni approuvés par Gameforge ou Entwell.
-ENTER: Entrer
-FORMS:
-  EMAIL:
-    CURRENT: Email actuel
-    ERROR: Email non valide
-    LABEL: Email
-    NEW: Nouvel email
-    UPDATE: Mettre à jour l'email
-  ENTER_CODE: Entrez votre code
-  PASSWORD:
-    CONFIRM: Confirmer le mot de passe
-    CONFIRM_NEW: Confirmer le nouveau mot de passe
-    ERROR: Le mot de passe doit être entre 5 et 26 caractères
-    ERROR_MATCH: Les mots de passe doivent être identiques
-    LABEL: Mot de passe
-    OLD: Mot de passe actuel
-    NEW: Nouveau mot de passe
-    UPDATE: Mettre à jour le mot de passe
-  REQUIRED: Obligatoire
-  USERNAME:
-    ERROR: L'identifiant doit être entre 5 et 26 caractères
-    LABEL: Identifiant
+2FA_CODE: Code
+2FA_DISABLE: Désactiver l'A2F
+2FA_DISABLE_SUCCESS_MSG: L'A2F a été désactivée
+2FA_ENABLE: Activer l'A2F
+2FA_ENABLE_SUCCESS_MSG: L'A2F a été activée
+2FA_HOW_TO_DISABLE: Comment désactiver l'A2F ?
+2FA_HOW_TO_DISABLE_STEP_1: Récupérez le code depuis l'application et entrez le ci-dessous
+2FA_HOW_TO_DISABLE_STEP_2: Cliquez sur le bouton
+2FA_HOW_TO_DISABLE_STEP_3: Supprimez la clé NosWings:YourUsername sur l'application pour pouvoir rescanner le QR Code si besoin
+2FA_HOW_TO_ENABLE: Comment activer l'A2F ?
+2FA_HOW_TO_ENABLE_STEP_1: Téléchargez une application qui gère l'A2F
+2FA_HOW_TO_ENABLE_STEP_2: Scannez le QR Code ci-dessous grâce à l'application précédemment téléchargée
+2FA_HOW_TO_ENABLE_STEP_3: Vous allez avoir un code. Entrez le ci-dessous
+2FA_HOW_TO_ENABLE_STEP_4: Cliquez sur le bouton !
+2FA_MANAGE: Gérer l'A2F
+ABOUT: A propos
+ACCOUNT: Mon compte
+ACCOUNT_ALREADY_CREATED: Vous possédez déjà un compte?
+ACCOUNT_CREATE: Créer un compte
+ACCOUNT_CREATED: Votre compte a été créé !
+ACCOUNT_ID: ID du compte
+ACCOUNT_SUCCESSFULLY_ACTIVATED: Votre compte à été activé.
+ACCOUNT_VERIFICATION_LINK_ERROR: Une erreur est survenue. Merci de vérifier votre lien d'activation.
+ADMIN: Admininstration
+AGREE_TO_TOS_AND_PP:
+ALL_RIGHTS_RESERVED: Tous droits réservés
+AMOUNT: Quantité
+ARE_YOU_NEW: Êtes-vous nouveau?
+AUTHORITY: Rôle
+BACK_TO_LOGIN: Retour à la page de connexion
+BUY_NWC: Acheter des NWC
+CHARACTERS: Personnages
+CONNECT: Connecter
+CONNECTIONS: Connexions
+COPYRIGHT: Droits d'auteur
+COUPON_ADDED: Le coupon {coupon} à été ajouté à votre inventaire de coupons.
+COUPON_CLAIM: Utiliser un coupon
+COUPON_CLAIM_NOTHING: Vous n'avez aucun coupon disponible.
+COUPON_INFORMATION: 
+COUPON_NOT_VALID: Le coupon {coupon} n'est pas valide ou à déjà été utilisé.
+COUPON_NWC_ADDED: Un montant de {coins} NWC ont été ajoutés à votre compte.
+COUPON_INVENTORY: Inventaire de coupons
+COUPON_PLACEHOLDER: Entrez le code du coupon
+COUPON_REDEEM: Utiliser un coupon
+CUSTOMIZE: Personnaliser
+DISABLED: Désactivé
+DISCONNECT: Se déconnecter
+DOWNLOAD_LAUNCHER: Télécharger le launcher
+DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_x64_VERSION: Téléchargez la version x64
+DOWNLOAD_LAUNCHER_x86_VERSION: Téléchargez la version x84
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x84
+EMAIL:
+  CONFIRM_NEW: Confirmer la nouvelle adresse e-mail
+  CURRENT: Adresse e-mail actuelle
+  NEW: Nouvelle adresse e-mail
+  TITLE: E-mail
+  UPDATE: Mettre à jour l'adresse e-mail
+ENABLED: Activé
+GAME_ACCOUNTS: Comptes jeu
+GENERAL: Général
 HOME: Accueil
-JOIN_DISCORD: Rejoignez notre Discord
-JOIN_US: Rejoignez-nous!
+LANGUAGE_CZECH: Tchèque
+LANGUAGE_ENGLISH: Anglais
+LANGUAGE_FRENCH: Français
+LANGUAGE_GERMAN: Allemand
+LANGUAGE_ITALIAN: Italien
+LANGUAGE_POLISH: Polonais
+LANGUAGE_SPANISH: Espagnol
+LANGUAGE_TURKISH: Turc
 LOGIN: Se connecter
-MANAGE_ACCOUNT: Gérez votre compte
-NAVIGATION: Navigation
-NEWS: Nouveautés
-ONLINE: En ligne
-OFFLINE: Hors ligne
-PLAY_NOW: Jouez maintenant!
-PRIVACY: Déclaration de confidentialité
-RANKING: Classement
-READ_MORE: Lire la suite
-REDEEM: Utiliser
-REDEEM_COUPON: Utiliser un coupon
+LOGOUT: Se déconnecter
+LOGS: Historique
+LOGS_DONATION: Donations
+LOGS_SHOP: Achats
+NO_RECORDS_FOUND: Aucun résultat trouvé.
+NUMBER_OF_CHARACTERS: Nombre de personnage
+PAGINATION_TOTAL_COUNT: Affichage de {min} à {max} de {total} entrées
+PASSWORD:
+  CONFIRM: Confirmer le mot de passe
+  CONFIRM_NEW: Confirmer le nouveau mot de passe
+  CURRENT: Mot de passe actuel
+  FORGOT: Mot de passe oublié ?
+  FORGOT_INSTRUCTIONS: Entrez votre adresse e-mail et nous vous enverrons les instructions à suivre pour réinitialiser votre mot de passe.
+  NEW: Nouveau mot de passe
+  TITLE: Mot de passe
+  UPDATE: Mettre à jour le mot de passe
+PURCHASE: Acheter des NWC
+PURCHASE_ERRORS_UNDEFINED: Une erreur est survenue.
+PURCHASE_ERRORS_AMOUNT: Merci de choisir un montant.
+PURCHASE_LEAVE_MESSAGE: Merci de ne pas quitter la page
+PURCHASE_SUCCESS: Merci pour votre achat ! Votre compte a été crédité de {amount} NWC.
+PURCHASE_TOS_MESSAGE:
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Vérification de la transaction...
+PROFILE: Profil
+PROFILE_SECTION_TITLE: Mon profil
+REDEEM: Récupérer
+REFRESH_DATA: Actualiser
 REGISTER: S'inscrire
-REMEMBER_ME: Se souvenir de moi
-SERVER:
-  INFO: Information du serveur
-  TITLE: Serveur
-  STATUS: Statut du serveur
-SUPPORT: Support
-TOS: 
-  ACCEPT: J'accepte les Conditions de Service (CGU)
-  ACCEPT_SHORT: J'accepte les CGU
-  LABEL: Conditions de service
+RESET: Réinitialiser
+SAVE: Sauvegarder
+SAVE_CHANGES: Sauvegarder les changements
+SELECT_NWC_AMOUNT: Sélectionnez un montant de NWC
+SELECT_PURCHASE_METHOD: Sélectionnez un moyen de paiement
+SEND_RESET_LINK: Envoyer un lien de réinitialisation
+SECURITY: Sécurité
+SESSION_EXPIRED: Session expirée
+SETTINGS: Paramètres
+SHOP: Boutique
+SHOP_FILTERS: Filtres
+SHOP_FILTERS_CATEGORIES: Catégories
+SHOP_FILTERS_PRICE: Prix
+SHOP_FILTERS_SEARCH: Chercher par nom
+SHOP_FILTERS_SEARCH_PLACEHOLDER: Nom de l'objet
+SHOP_FILTERS_SORT_BY: Trier par
+SHOP_FILTERS_SORT_BY_ALPHA_ASC: Trier par ordre alphabétique (A-Z)
+SHOP_FILTERS_SORT_BY_ALPHA_DESC: Trier par ordre alphabétique (Z-A)
+SHOP_FILTERS_SORT_BY_PRICE_ASC: Trier par prix (croissant)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Trier par prix (décroissant)
+SHOP_RESET_FILTERS: Réinitialiser les filtres
+STAY_LOGGED_IN: Rester connecté ?
+USERNAME: Nom d'utilisateur
+SHOP_SECTION_TITLE: NosWings Shop
+UPDATE_BACKGROUND_TITLE: Mettre à jour la bannière
+UPDATE_BACKGROUND_DESC: Choisissez une bannière (couleur orange par défaut)
+WELCOME: Bienvenue sur NosWings !
+WELCOME_BACK: De retour ?
+WELCOME_BACK_DESCRIPTION:
+YOUR_CHARACTERS: Vos personnages

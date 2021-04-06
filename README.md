@@ -22,6 +22,8 @@ We are working with Pull Requests. If you want to participate and you don't know
 + You also need to provide the modified file **as-is** without **any extensions modifications** or **renames**.
 + Only **values** of keys must be modified.
 + No key should be added.
++ A reference key file is provided (keys.yaml)
++ **CURRENT LANGUAGES YOU CAN ADD:** CZ, DE, ES, IT, PL, TR. If you add a new language, please format your file as: `<LanguageCode>.yaml`
 + `null` value means the actual transition of a key is **unknown**
 + `~` value means the key is the same in English. Don't replace it to add an English translation, it'll fallback to EN anyway.
 + Variables **SHOULD NOT BE TRANSLATED** (values between curly braces)
