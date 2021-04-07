@@ -60,14 +60,14 @@ ENABLED: Activé
 GAME_ACCOUNTS: Comptes jeu
 GENERAL: Général
 HOME: Accueil
-LANGUAGE_CZECH: Tchèque
-LANGUAGE_ENGLISH: Anglais
-LANGUAGE_FRENCH: Français
-LANGUAGE_GERMAN: Allemand
-LANGUAGE_ITALIAN: Italien
-LANGUAGE_POLISH: Polonais
-LANGUAGE_SPANISH: Espagnol
-LANGUAGE_TURKISH: Turc
+LANGUAGE_CZ: Tchèque
+LANGUAGE_DE: Allemand
+LANGUAGE_EN: Anglais
+LANGUAGE_ES: Espagnol
+LANGUAGE_FR: Français
+LANGUAGE_IT: Italien
+LANGUAGE_PL: Polonais
+LANGUAGE_TR: Turc
 LOGIN: Se connecter
 LOGOUT: Se déconnecter
 LOGS: Historique
