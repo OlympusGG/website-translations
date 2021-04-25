@@ -8,7 +8,7 @@
 2FA_HOW_TO_DISABLE_STEP_2: Klikněte na tlačítko!
 2FA_HOW_TO_DISABLE_STEP_3: Chcete-li kód znovu naskenovat, odstraňte v aplikaci klíč NosWings:VašeUživateslkéJméno.
 2FA_HOW_TO_ENABLE: Jak povolit 2FA?
-2FA_HOW_TO_ENABLE_STEP_1: Stáhněte si 2FA autentifikační aplikaci.
+2FA_HOW_TO_ENABLE_STEP_1: Stáhněte si 2FA ověřovací aplikaci.
 2FA_HOW_TO_ENABLE_STEP_2: Naskenujte QR kód s použitím předešle stažené aplikace.
 2FA_HOW_TO_ENABLE_STEP_3: Budete mít šesti-místný kód. Níže jej musíte vložit.
 2FA_HOW_TO_ENABLE_STEP_4: Klikněte na tlačítko!
@@ -49,7 +49,7 @@ DOWNLOAD_LAUNCHER: Stáhnout Launcher
 DOWNLOAD_LAUNCHER_VERSION: Stáhnout Launcher NosWings (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Stáhnout verzi x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Stáhnout verzi x84
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Pokud nemáte představu který zvolit, stáhněte si verzi x84
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Pokud nemáte představu kterou zvolit, stáhněte si verzi x84
 EMAIL:
   CONFIRM_NEW: Potvrdit nový e-mail
   CURRENT: Současný e-mail
@@ -110,7 +110,7 @@ SETTINGS: Nastavení
 SHOP: Obchod
 SHOP_FILTERS: Filtry
 SHOP_FILTERS_CATEGORIES: Kategorie
-SHOP_FILTERS_PRICE: Cnea
+SHOP_FILTERS_PRICE: Cena
 SHOP_FILTERS_SEARCH: Hledat
 SHOP_FILTERS_SEARCH_PLACEHOLDER: Vložte název předmětu
 SHOP_FILTERS_SORT_BY: Seřadit podle
