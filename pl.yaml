@@ -1,43 +1,43 @@
-2FA_CODE: Code
-2FA_DISABLE: Disable 2FA
-2FA_DISABLE_SUCCESS_MSG: 2FA has been disabled successfully
-2FA_ENABLE: Enable 2FA
-2FA_ENABLE_SUCCESS_MSG: 2FA has been enabled successfully
-2FA_HOW_TO_DISABLE: How to disable 2FA?
-2FA_HOW_TO_DISABLE_STEP_1: Get the 6 digits code on the app you used to enable 2FA and enter it below
-2FA_HOW_TO_DISABLE_STEP_2: Click on the button!
+2FA_CODE: Kod
+2FA_DISABLE: Włącz 2FA
+2FA_DISABLE_SUCCESS_MSG: 2FA została wyłączona pomyślnie
+2FA_ENABLE: Wyłącz 2FA
+2FA_ENABLE_SUCCESS_MSG: 2FA hzostała wyłączona pomyślnie
+2FA_HOW_TO_DISABLE: Jak wyłączyć 2FA?
+2FA_HOW_TO_DISABLE_STEP_1: Wpisz sześcio cyfrowy kod z aplikacji którego użyłeś do włączenia 2FA i wpisz ponizej
+2FA_HOW_TO_DISABLE_STEP_2: Kliknij przycisk!
 2FA_HOW_TO_DISABLE_STEP_3: Delete the NosWings:YourUsername key on the app to be able to scan the code again.
-2FA_HOW_TO_ENABLE: How to enable 2FA?
-2FA_HOW_TO_ENABLE_STEP_1:  Download an 2FA Authenticator App
-2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
-2FA_HOW_TO_ENABLE_STEP_3: You will have a 6 digits code. Enter it below.
-2FA_HOW_TO_ENABLE_STEP_4: Click on the button!
-2FA_MANAGE: Manage 2FA
+2FA_HOW_TO_ENABLE: Jak włączyć 2FA?
+2FA_HOW_TO_ENABLE_STEP_1:  Pobierz aplikację do 2FA 
+2FA_HOW_TO_ENABLE_STEP_2: zeskanuj kod QR pobraną aplikacją.
+2FA_HOW_TO_ENABLE_STEP_3: Otrzymasz sześcio cyfrowy kod. Wpisz go poniżej.
+2FA_HOW_TO_ENABLE_STEP_4: Kliknij przycisk!
+2FA_MANAGE: Zarządzaj 2FA
 ABOUT: About
-ACCOUNT: Account
-ACCOUNT_ALREADY_CREATED: Already have an account?
-ACCOUNT_CREATE: Create an account
-ACCOUNT_CREATED: Account created!
-ACCOUNT_ID: Account ID
-ACCOUNT_SUCCESSFULLY_ACTIVATED: Your account has been successfully activated! Login below.
-ACCOUNT_VERIFICATION_LINK_ERROR: An error occurred. Please verify your activation link.
-ADMIN: Administration
-AGREE_TO_TOS_AND_PP: I agree to {tos} and {pp}
-ALL_RIGHTS_RESERVED: All rights reserved
-AMOUNT: Amount
-ARE_YOU_NEW: Are you new?
+ACCOUNT: Konto
+ACCOUNT_ALREADY_CREATED: Posiadasz już konto?
+ACCOUNT_CREATE: Stwórz konto
+ACCOUNT_CREATED: Konto utworzone!
+ACCOUNT_ID: Nazwa urzytkownika
+ACCOUNT_SUCCESSFULLY_ACTIVATED: Twoje konto ozstało pomyślnie aktywowane. Zaloguj się!
+ACCOUNT_VERIFICATION_LINK_ERROR: Wystąpił błąd. Zweryfikuj link aktywacyjny.
+ADMIN: Administracja
+AGREE_TO_TOS_AND_PP: Zgadzam się {tos} i {pp}
+ALL_RIGHTS_RESERVED: Wszystkie prawa zastrzeżone
+AMOUNT: Ilość
+ARE_YOU_NEW: Jesteś nowy?
 AUTHORITY: Authority
-BACK_TO_LOGIN: Back to login
-BUY_NWC: Buy NWC
-CHARACTERS: Characters
-CONNECT: Connect
-CONNECTIONS: Connections
-COPYRIGHT: Copyright
-COUPON_ADDED: The coupon {coupon} has been added to your coupon inventory.
-COUPON_CLAIM: Claim a coupon
-COUPON_CLAIM_NOTHING: You have no coupons available
+BACK_TO_LOGIN: Powrót do logowania
+BUY_NWC: Kup NWC
+CHARACTERS: Postacie
+CONNECT: Połącz
+CONNECTIONS: Połączenia
+COPYRIGHT: Prawa autorskie
+COUPON_ADDED: Kupon {coupon} został dodany do twojego ekwipunku kuponów.
+COUPON_CLAIM: Odbierz kupon.
+COUPON_CLAIM_NOTHING: Nie masz dostępnych kuponów
 COUPON_INFORMATION:
-COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
+COUPON_NOT_VALID: Kupon {coupon} jest nie ważny lub zostal już użyty
 COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
 COUPON_INVENTORY: Coupon Inventory
 COUPON_PLACEHOLDER: Enter coupon's code
