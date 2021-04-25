@@ -1,0 +1,131 @@
+2FA_CODE: Kod
+2FA_DISABLE: 2FA'yı devre dışı bırak
+2FA_DISABLE_SUCCESS_MSG: 2FA devre dışı bırakıldı.
+2FA_ENABLE: 2FA'yı etkinleştir
+2FA_ENABLE_SUCCESS_MSG: 2FA etkinleştirildi.
+2FA_HOW_TO_DISABLE: 2FA nasıl devre dışı bırakılır?
+2FA_HOW_TO_DISABLE_STEP_1: 2FA'yı etkinleştirmek için uygulamadaki 6 basamaklı kodu aşağıdaki alana gir.
+2FA_HOW_TO_DISABLE_STEP_2: Butona basın.
+2FA_HOW_TO_DISABLE_STEP_3: Kodu tekrar taratabilmek için uygulamadan NosWings:YourUsername anahtarını silin.
+2FA_HOW_TO_ENABLE: 2FA nasıl etkinleştirilir?
+2FA_HOW_TO_ENABLE_STEP_1:  Telefonunuza bir 2FA uygulaması indirin.
+2FA_HOW_TO_ENABLE_STEP_2: Uygulamaya girip QR kodunu okutun.
+2FA_HOW_TO_ENABLE_STEP_3: Size verilen 6 basamaklı kodu aşağıya girin.
+2FA_HOW_TO_ENABLE_STEP_4: Butona basın!
+2FA_MANAGE: 2FA Ayarları
+ABOUT: Hakkında
+ACCOUNT: Hesap
+ACCOUNT_ALREADY_CREATED: Zaten bir hesabın mı var?
+ACCOUNT_CREATE: Hesap oluştur
+ACCOUNT_CREATED: Hesap oluşturuldu!
+ACCOUNT_ID: Hesap ID
+ACCOUNT_SUCCESSFULLY_ACTIVATED: Hesabın başarılı bir şekilde etkineştirildi. Giriş yapabilirsin.
+ACCOUNT_VERIFICATION_LINK_ERROR: Bir hata oluştu. Lütfen hesabınızı size gönderilen linkten onaylayın.
+ADMIN: Yönetim
+AGREE_TO_TOS_AND_PP: "{tos} ve {pp}'nı okudum ve onaylıyorum."
+ALL_RIGHTS_RESERVED: Tüm hakları saklıdır.
+AMOUNT: Miktar
+ARE_YOU_NEW: Yeni misin?
+AUTHORITY: Yetki
+BACK_TO_LOGIN: Girişe geri dön
+BUY_NWC: NWC satın al
+CHARACTERS: Karakterler
+CONNECT: Bağlan
+CONNECTIONS: Bağlantılar
+COPYRIGHT: Telif hakkı
+COUPON_ADDED: "{coupon} kuponu envanterine eklendi."
+COUPON_CLAIM: Kuponu al
+COUPON_CLAIM_NOTHING: Mevcut bir kuponun yok.
+COUPON_INFORMATION: 
+COUPON_NOT_VALID: "{coupon} kuponu geçerli değil veya daha önce kullanıldı."
+COUPON_NWC_ADDED: "{coins}NWC hesabına eklendi."
+COUPON_INVENTORY: Kupon envanteri
+COUPON_PLACEHOLDER: Kupon kodunu gir
+COUPON_REDEEM: Kuponu kullan
+CUSTOMIZE: Özelleştir
+DISABLED: Devre dışı
+DISCONNECT: Bağlantıyı kes
+DOWNLOAD_LAUNCHER: İndir
+DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_x64_VERSION: x64 versiyonunu indir
+DOWNLOAD_LAUNCHER_x86_VERSION: x86 versiyonunu indir
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Hangi versiyonu kullanman gerektiğini bilmiyorsan x86'yı indirmeni öneririrz.
+EMAIL:
+  CONFIRM_NEW: Yeni email adresini onayla
+  CURRENT: Güncem email
+  NEW: Yeni email
+  TITLE: Email
+  UPDATE: Email'i Değiştir
+ENABLED: Aktif
+GAME_ACCOUNTS: Oyun Hesapları
+GENERAL: Genel
+HOME: Anasayfa
+LANGUAGE_CZ: Çekçe
+LANGUAGE_DE: Almanca
+LANGUAGE_EN: İngilizce
+LANGUAGE_ES: İspanyolca
+LANGUAGE_FR: Fransızca
+LANGUAGE_IT: İtalyanca
+LANGUAGE_PL: Lehçe
+LANGUAGE_TR: Türkçe
+LOGIN: Giriş
+LOGOUT: Çıkış
+LOGS: Kayıtlar
+LOGS_DONATION: Ödeme Kayıtları
+LOGS_SHOP: Dükkan Kayıtları
+NO_RECORDS_FOUND: Kayıt bulunamadı
+NUMBER_OF_CHARACTERS: Karakter sayısı
+PAGINATION_TOTAL_COUNT: "{min}-{max} arası toplam {total} kayıt gösteriliyor."
+PASSWORD:
+  CONFIRM: Şifreni onayla
+  CONFIRM_NEW: Yeni şifreni onayla
+  CURRENT: Eski şifren
+  FORGOT: Şifremi unuttum
+  FORGOT_INSTRUCTIONS: Şifrenizi sıfırlaman için talimatları email'inize göndereceğiz.
+  NEW: Yeni şifre
+  TITLE: Şifre
+  UPDATE: Şifreyi değiştir
+PRIVACY_POLICY: Gizlilik Politikası
+PURCHASE: Satın al
+PURCHASE_ERRORS_UNDEFINED: Bir hata oluştu.
+PURCHASE_ERRORS_AMOUNT: Lütfen miktar seçin.
+PURCHASE_LEAVE_MESSAGE: Lütfen sayfayı kapatmayın.
+PURCHASE_SUCCESS: Desteğin için teşekkürler! Hesabına {amount}NWC ekledik.
+PURCHASE_TOS_MESSAGE: Satın aldığınzda {toslink} belgesini okuduğunu ve kabul ettiğini onaylamış olursun.
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Mevcut işlem doğrulanıyor...
+PROFILE: Profil
+PROFILE_SECTION_TITLE: Profilim
+REDEEM: Kullan
+REFRESH_DATA: Verileri yenile
+REGISTER: Kayıt ol
+RESET: Sıfırla 
+SAVE: Kaydet
+SAVE_CHANGES: Değişiklikleri kaydet
+SELECT_NWC_AMOUNT: NWC miktarını seç
+SELECT_PURCHASE_METHOD: Alım yöntemini seç
+SEND_RESET_LINK: Sıfırlama link'ini gönder
+SECURITY: Güvenlik
+SESSION_EXPIRED: Oturumunuz sona erdi. Lütfen tekrar giriş yapın
+SETTINGS: Ayarlar
+SHOP: Dükkan
+SHOP_FILTERS: Filtreler
+SHOP_FILTERS_CATEGORIES: Kategoriler
+SHOP_FILTERS_PRICE: Fiyat
+SHOP_FILTERS_SEARCH: Ara
+SHOP_FILTERS_SEARCH_PLACEHOLDER: Eşya adı gir
+SHOP_FILTERS_SORT_BY: Sırala
+SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alfabetik (A-Z)
+SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetik (Z-A)
+SHOP_FILTERS_SORT_BY_PRICE_ASC: Fiyat (yükselen)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Fiyat (azalan)
+SHOP_RESET_FILTERS: Filtreleri sıfırla
+STAY_LOGGED_IN: Beni hatırla
+TERMS_OF_SERVICE: Kullanım Şartları
+USERNAME: Kullanıcı Adı
+SHOP_SECTION_TITLE: NosWings Dükkanı
+UPDATE_BACKGROUND_TITLE: Arkaplanı yenile
+UPDATE_BACKGROUND_DESC: Bir sembol seçin (varsayılan turuncu)
+WELCOME: NosWings'e hoş geldin!
+WELCOME_BACK: NosWings'e tekrar hoş geldin! 
+WELCOME_BACK_DESCRIPTION: Duyurulardan ve yeniliklerden haberdar olmak için {link} sunucumuza katılmayı unutmayın! 
+YOUR_CHARACTERS: Karakterlerin
