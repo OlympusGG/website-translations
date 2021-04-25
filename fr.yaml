@@ -48,8 +48,8 @@ DISCONNECT: Se déconnecter
 DOWNLOAD_LAUNCHER: Télécharger le launcher
 DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Téléchargez la version x64
-DOWNLOAD_LAUNCHER_x86_VERSION: Téléchargez la version x84
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x84
+DOWNLOAD_LAUNCHER_x86_VERSION: Téléchargez la version x86
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x86
 EMAIL:
   CONFIRM_NEW: Confirmer la nouvelle adresse e-mail
   CURRENT: Adresse e-mail actuelle
@@ -125,5 +125,5 @@ UPDATE_BACKGROUND_TITLE: Mettre à jour la bannière
 UPDATE_BACKGROUND_DESC: Choisissez une bannière (couleur orange par défaut)
 WELCOME: Bienvenue sur NosWings !
 WELCOME_BACK: De retour ?
-WELCOME_BACK_DESCRIPTION:
+WELCOME_BACK_DESCRIPTION: N'hésite pas à rejoindre notre {link} serveur pour te tenir au courant des dernières news, mises à jour et plus encore!
 YOUR_CHARACTERS: Vos personnages
