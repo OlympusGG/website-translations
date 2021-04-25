@@ -48,8 +48,8 @@ DISCONNECT: Disconnect
 DOWNLOAD_LAUNCHER: Download Launcher
 DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Download x64 version
-DOWNLOAD_LAUNCHER_x86_VERSION: Download x84 version
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x84 version
+DOWNLOAD_LAUNCHER_x86_VERSION: Download x86 version
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x86 version
 EMAIL:
   CONFIRM_NEW: Confirm new email
   CURRENT: Current email
@@ -123,7 +123,7 @@ STAY_LOGGED_IN: Stay logged in?
 TERMS_OF_SERVICE: Terms of Service
 USERNAME: Username
 SHOP_SECTION_TITLE: NosWings Shop
-UPDATE_BACKGROUND_TITLE: Update backgorund
+UPDATE_BACKGROUND_TITLE: Update background
 UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
 WELCOME: Welcome to NosWings!
 WELCOME_BACK: Welcome back to NosWings!
