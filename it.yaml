@@ -1,131 +1,130 @@
-2FA_CODE: Code
-2FA_DISABLE: Disable 2FA
-2FA_DISABLE_SUCCESS_MSG: 2FA has been disabled successfully
-2FA_ENABLE: Enable 2FA
-2FA_ENABLE_SUCCESS_MSG: 2FA has been enabled successfully
-2FA_HOW_TO_DISABLE: How to disable 2FA?
-2FA_HOW_TO_DISABLE_STEP_1: Get the 6 digits code on the app you used to enable 2FA and enter it below
-2FA_HOW_TO_DISABLE_STEP_2: Click on the button!
-2FA_HOW_TO_DISABLE_STEP_3: Delete the NosWings:YourUsername key on the app to be able to scan the code again.
-2FA_HOW_TO_ENABLE: How to enable 2FA?
-2FA_HOW_TO_ENABLE_STEP_1:  Download an 2FA Authenticator App
-2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
-2FA_HOW_TO_ENABLE_STEP_3: You will have a 6 digits code. Enter it below.
-2FA_HOW_TO_ENABLE_STEP_4: Click on the button!
-2FA_MANAGE: Manage 2FA
-ABOUT: About
+2FA_CODE: Codice
+2FA_DISABLE: Disabilita il 2FA
+2FA_DISABLE_SUCCESS_MSG: Il 2FA è stato disabilitato con successo
+2FA_ENABLE: Abilita il 2FA
+2FA_ENABLE_SUCCESS_MSG: Il 2FA è stato abilitato con successo
+2FA_HOW_TO_DISABLE: Come disabilitare il 2FA?
+2FA_HOW_TO_DISABLE_STEP_1: Prendi il codice a 6 cifre dall'app che usi per abilitare il 2FA e scrivilo qui sotto
+2FA_HOW_TO_DISABLE_STEP_2: Clicca sul pulsante!
+2FA_HOW_TO_DISABLE_STEP_3: Cancella la chiave di NosWings:YourUsername sull'applicazione per poter scansionare il codice di nuovo.
+2FA_HOW_TO_ENABLE: Come abilitare il 2FA?
+2FA_HOW_TO_ENABLE_STEP_1:  Scarica un'applicazione di autenticazione 2FA
+2FA_HOW_TO_ENABLE_STEP_2: Scansiona il codice QR usando l'applicazione precedentemente scaricata.
+2FA_HOW_TO_ENABLE_STEP_3: Riceverai un codice a 6 cifre. Scrivilo qui sotto.
+2FA_HOW_TO_ENABLE_STEP_4: Clicca sul pulsante!
+2FA_MANAGE: Gestici il 2FA
+ABOUT: Riguardante
 ACCOUNT: Account
-ACCOUNT_ALREADY_CREATED: Already have an account?
-ACCOUNT_CREATE: Create an account
-ACCOUNT_CREATED: Account created!
-ACCOUNT_ID: Account ID
-ACCOUNT_SUCCESSFULLY_ACTIVATED: Your account has been successfully activated! Login below.
-ACCOUNT_VERIFICATION_LINK_ERROR: An error occurred. Please verify your activation link.
-ADMIN: Administration
-AGREE_TO_TOS_AND_PP: I agree to {tos} and {pp}
-ALL_RIGHTS_RESERVED: All rights reserved
-AMOUNT: Amount
-ARE_YOU_NEW: Are you new?
-AUTHORITY: Authority
-BACK_TO_LOGIN: Back to login
-BUY_NWC: Buy NWC
-CHARACTERS: Characters
-CONNECT: Connect
-CONNECTIONS: Connections
-COPYRIGHT: Copyright
-COUPON_ADDED: The coupon {coupon} has been added to your coupon inventory.
-COUPON_CLAIM: Claim a coupon
-COUPON_CLAIM_NOTHING: You have no coupons available
+ACCOUNT_ALREADY_CREATED: Hai gia un account?
+ACCOUNT_CREATE: Crea un account
+ACCOUNT_CREATED: Account creato!
+ACCOUNT_ID: ID Account
+ACCOUNT_SUCCESSFULLY_ACTIVATED: Il tuo account è stato attivato con successo! Accedi qui sotto.
+ACCOUNT_VERIFICATION_LINK_ERROR: Si è verificato un errore. Perfavore verifica il link d'attivazione.
+ADMIN: Amministrazione
+AGREE_TO_TOS_AND_PP: Sono d'accordo con il {tos} e il {pp}
+ALL_RIGHTS_RESERVED: Tutti i diritti riservati
+AMOUNT: Quantità
+ARE_YOU_NEW: Sei nuovo?
+AUTHORITY: Autorità
+BACK_TO_LOGIN: Ritorna al login
+BUY_NWC: Compra i NWC
+CHARACTERS: Personaggi
+CONNECT: Connettiti
+CONNECTIONS: Connessioni
+COPYRIGHT: Diritto d'autore
+COUPON_ADDED: Il coupon {coupon} è stato aggiunto sul proprio inventario dei coupon.
+COUPON_CLAIM: Ritira un coupon
+COUPON_CLAIM_NOTHING: Non hai nessun coupon a disposizione
 COUPON_INFORMATION:
-COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
-COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
-COUPON_INVENTORY: Coupon Inventory
-COUPON_PLACEHOLDER: Enter coupon's code
-COUPON_REDEEM: Redeem a coupon
-CUSTOMIZE: Customize
-DISABLED: Disabled
-DISCONNECT: Disconnect
-DOWNLOAD_LAUNCHER: Download Launcher
-DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
-DOWNLOAD_LAUNCHER_x64_VERSION: Download x64 version
-DOWNLOAD_LAUNCHER_x86_VERSION: Download x86 version
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x86 version
+COUPON_NOT_VALID: Il coupon {coupon} non è valido o è già stato utilizzato
+COUPON_NWC_ADDED: La quantità di {coins} NWC son stati aggiunti sul proprio account.
+COUPON_INVENTORY: Inventario Coupon
+COUPON_PLACEHOLDER: Inserire il codice del coupon
+COUPON_REDEEM: Ritira un coupon
+CUSTOMIZE: Personalizza
+DISABLED: Disabilitato
+DISCONNECT: Disconnettiti
+DOWNLOAD_LAUNCHER: Scarica il Launcher
+DOWNLOAD_LAUNCHER_VERSION: Scarica il launcher di NosWings (v.{version})
+DOWNLOAD_LAUNCHER_x64_VERSION: Scarica la versione x64
+DOWNLOAD_LAUNCHER_x86_VERSION: Scarica la versione x86
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Se non hai idea della nostra architettura, perfavore scarica la versione x86
 EMAIL:
-  CONFIRM_NEW: Confirm new email
-  CURRENT: Current email
-  NEW: New email
+  CONFIRM_NEW: Conferma la nuova email
+  CURRENT: Email corrente
+  NEW: Nuova email
   TITLE: Email
-  UPDATE: Update Email
-ENABLED: Enabled
-GAME_ACCOUNTS: Game Accounts
-GENERAL: General
+  UPDATE: Aggiorna l'email
+ENABLED: Abilitato
+GAME_ACCOUNTS: Accounts di gioco
+GENERAL: Generale
 HOME: Home
-LANGUAGE_CZ: Czech
-LANGUAGE_DE: German
-LANGUAGE_EN: English
-LANGUAGE_ES: Spanish
-LANGUAGE_FR: French
-LANGUAGE_IT: Italian
-LANGUAGE_PL: Polish
-LANGUAGE_TR: Turkish
+LANGUAGE_CZ: Ceco
+LANGUAGE_DE: Tedesco
+LANGUAGE_EN: Inglese
+LANGUAGE_ES: Spagnolo
+LANGUAGE_FR: Francese
+LANGUAGE_IT: Italiano
+LANGUAGE_PL: Polacco
+LANGUAGE_TR: Turco
 LOGIN: Login
 LOGOUT: Logout
-LOGS: Logs
-LOGS_DONATION: Donation Logs
-LOGS_SHOP: Shop Logs
-NO_RECORDS_FOUND: No records found
-NUMBER_OF_CHARACTERS: Number of characters
-PAGINATION_TOTAL_COUNT: Showing from {min} to {max} of {total} entries
+LOGS: Registri
+LOGS_DONATION: Registro delle donazioni
+LOGS_SHOP: Registro del negozio
+NO_RECORDS_FOUND: Nessun registro trovato
+NUMBER_OF_CHARACTERS: Numero di caratteri
+PAGINATION_TOTAL_COUNT: Mostrando da {min} a {max} fino a {total} di voci
 PASSWORD:
-  CONFIRM: Confirm password
-  CONFIRM_NEW: Confirm new password
-  CURRENT: Current password
-  FORGOT: Forgot password?
-  FORGOT_INSTRUCTIONS: Enter your email and we will send you instructions to reset your password
-  NEW: New password
+  CONFIRM: Conferma la password
+  CONFIRM_NEW: Conferma la nuova password
+  CURRENT: Password corrente
+  FORGOT: Dimenticato la password?
+  FORGOT_INSTRUCTIONS: Scrivi la tua email e ti manderemo instruzioni per riprisinate la password
+  NEW: Nuova password
   TITLE: Password
-  UPDATE: Update password
-PRIVACY_POLICY: Privacy Policy
-PURCHASE: Purchase
-PURCHASE_ERRORS_UNDEFINED: An error occurred.
-PURCHASE_ERRORS_AMOUNT: Please select an amount.
-PURCHASE_LEAVE_MESSAGE: Don't leave the page.
-PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} NWC to your account.
-PURCHASE_TOS_MESSAGE: By purchasing, you have read and agreed to our {toslink}.
-PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verifying the current transaction...
-PROFILE: Profile
-PROFILE_SECTION_TITLE: My profile
-REDEEM: Redeem
-REFRESH_DATA: Refresh data
-REGISTER: Register
-RESET: Reset 
-SAVE: Save
-SAVE_CHANGES: Save changes
-SELECT_NWC_AMOUNT: Select NWC amount
-SELECT_PURCHASE_METHOD: Select purchase method
-SEND_RESET_LINK: Send reset link
-SECURITY: Security
-SESSION_EXPIRED: Your session has expired. Please login again.
-SETTINGS: Settings
-SHOP: Shop
-SHOP_FILTERS: Filters
-SHOP_FILTERS_CATEGORIES: Categories
-SHOP_FILTERS_PRICE: Price
-SHOP_FILTERS_SEARCH: Search
-SHOP_FILTERS_SEARCH_PLACEHOLDER: Enter item name
-SHOP_FILTERS_SORT_BY: Sort by
-SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alphabetical (A-Z)
-SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alphabetical (Z-A)
-SHOP_FILTERS_SORT_BY_PRICE_ASC: Price (ascending)
-SHOP_FILTERS_SORT_BY_PRICE_DESC: Price (descending)
-SHOP_RESET_FILTERS: Reset filters
-STAY_LOGGED_IN: Stay logged in?
-TERMS_OF_SERVICE: Terms of Service
-USERNAME: Username
-SHOP_SECTION_TITLE: NosWings Shop
-UPDATE_BACKGROUND_TITLE: Update background
-UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
-WELCOME: Welcome to NosWings!
-WELCOME_BACK: Welcome back to NosWings!
-WELCOME_BACK_DESCRIPTION: Don't forget to join our {link} server to be aware of our latest news, updates and more!
-YOUR_CHARACTERS: Your characters
+  UPDATE: Aggiorna password
+PRIVACY_POLICY: Politica sulla privacy
+PURCHASE: Compra
+PURCHASE_ERRORS_UNDEFINED: Si è verificato un errore.
+PURCHASE_ERRORS_AMOUNT: Perfavore seleziona una quantità.
+PURCHASE_LEAVE_MESSAGE: Non abbandonare questa pagina.
+PURCHASE_SUCCESS: Grazie dell'acquisto! Abbiamo aggiunto {amount} NWC al tuo account.
+PURCHASE_TOS_MESSAGE: Comprando, hai letto e concordato con il nostro {toslink}.
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Controllando la transazione corrente...
+PROFILE: Profilo
+PROFILE_SECTION_TITLE: Il mio profilo
+REDEEM: Ritira
+REFRESH_DATA: Aggiorna i dati
+REGISTER: Registrazione
+RESET: Reimpostazione
+SAVE: Salva
+SAVE_CHANGES: Salva i cambiamenti
+SELECT_NWC_AMOUNT: Seleziona la quantità di NWC
+SELECT_PURCHASE_METHOD: Seleziona il metedo d'acquisto
+SEND_RESET_LINK: Manda il link per la reimpostazione
+SECURITY: Sicurezza
+SESSION_EXPIRED: La tua sessione è scaduta. Perfavore accedi di nuovo.
+SHOP: Negozio
+SHOP_FILTERS: Filtri
+SHOP_FILTERS_CATEGORIES: Categorie
+SHOP_FILTERS_PRICE: Prezzo
+SHOP_FILTERS_SEARCH: Cerca
+SHOP_FILTERS_SEARCH_PLACEHOLDER: Scrivi il nome dell'oggetto
+SHOP_FILTERS_SORT_BY: Ordina per
+SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alfabetico (A-Z)
+SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetico (Z-A)
+SHOP_FILTERS_SORT_BY_PRICE_ASC: Prezzo (ascending)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Prezzo (descending)
+SHOP_RESET_FILTERS: Reimposta i filtri
+STAY_LOGGED_IN: Rimani connesso?
+TERMS_OF_SERVICE: Termini di Servizio
+USERNAME: Nome Utente
+SHOP_SECTION_TITLE: Shop di NosWings
+UPDATE_BACKGROUND_TITLE: Aggiorna lo sfondo
+UPDATE_BACKGROUND_DESC: Scegli un banner (Arancione come colore di base)
+WELCOME: Benvenuto su NosWings!
+WELCOME_BACK: Ben ritornato su NosWings!
+WELCOME_BACK_DESCRIPTION: Non dimenticarti di entrare sul nostro {link} server per essere al corrente delle ultime informazioni, aggiornamenti e molto altro!
+YOUR_CHARACTERS: I tuoi personaggi
