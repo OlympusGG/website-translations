@@ -5,7 +5,7 @@
 2FA_ENABLE_SUCCESS_MSG: Die 2FA wurde erfolgreich aktiviert.
 2FA_HOW_TO_DISABLE: Wie deaktiviere ich die 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Get the 6 digits code on the app you used to enable 2FA and enter it below. 
-2FA_HOW_TO_DISABLE_STEP_2: Klicke auf die Schaltfläche!
+2FA_HOW_TO_DISABLE_STEP_2: Klicke auf den Button!
 2FA_HOW_TO_DISABLE_STEP_3: Delete the NosWings:YourUsername key on the app to be able to scan the code again.
 2FA_HOW_TO_ENABLE: Wie aktiviere ich die 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Lade die App zur Zwei-Faktor-Authentifizierung herunter
