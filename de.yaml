@@ -1,44 +1,44 @@
 2FA_CODE: Code
-2FA_DISABLE: Disable 2FA
-2FA_DISABLE_SUCCESS_MSG: 2FA has been disabled successfully
-2FA_ENABLE: Enable 2FA
-2FA_ENABLE_SUCCESS_MSG: 2FA has been enabled successfully
-2FA_HOW_TO_DISABLE: How to disable 2FA?
+2FA_DISABLE: Deaktiviere die Zwei-Faktor-Authentifizierung
+2FA_DISABLE_SUCCESS_MSG: Zwei-Faktor-Authentifizierung wurde erfolgreich deaktiviert
+2FA_ENABLE: Aktiviere die Zwei-Faktor-Authentifizierung
+2FA_ENABLE_SUCCESS_MSG: Zwei-Faktor-Authentifizierung wurde erfolgreich aktiviert
+2FA_HOW_TO_DISABLE: Wie deaktiviere ich die Zwei-Faktor-Authentifizierung?
 2FA_HOW_TO_DISABLE_STEP_1: Get the 6 digits code on the app you used to enable 2FA and enter it below
 2FA_HOW_TO_DISABLE_STEP_2: Click on the button!
 2FA_HOW_TO_DISABLE_STEP_3: Delete the NosWings:YourUsername key on the app to be able to scan the code again.
-2FA_HOW_TO_ENABLE: How to enable 2FA?
-2FA_HOW_TO_ENABLE_STEP_1:  Download an 2FA Authenticator App
+2FA_HOW_TO_ENABLE: Wie aktiviere ich die Zwei-Faktor-Authentifizierung?
+2FA_HOW_TO_ENABLE_STEP_1: Lade die App zur Zwei-Faktor-Authentifizierung herunter
 2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
 2FA_HOW_TO_ENABLE_STEP_3: You will have a 6 digits code. Enter it below.
 2FA_HOW_TO_ENABLE_STEP_4: Click on the button!
-2FA_MANAGE: Manage 2FA
+2FA_MANAGE: Verwalte deine Zwei-Faktor-Authentifizierung
 ABOUT: About
 ACCOUNT: Account
-ACCOUNT_ALREADY_CREATED: Already have an account?
-ACCOUNT_CREATE: Create an account
-ACCOUNT_CREATED: Account created!
+ACCOUNT_ALREADY_CREATED: Hast du bereits einen Account?
+ACCOUNT_CREATE: Erstelle einen Account
+ACCOUNT_CREATED: Account erstellt!
 ACCOUNT_ID: Account ID
-ACCOUNT_SUCCESSFULLY_ACTIVATED: Your account has been successfully activated! Login below.
-ACCOUNT_VERIFICATION_LINK_ERROR: An error occurred. Please verify your activation link.
+ACCOUNT_SUCCESSFULLY_ACTIVATED: Dein Account wurde erfolgreich aktiviert. Weiter unten kannst du dich anmelden.
+ACCOUNT_VERIFICATION_LINK_ERROR: Ein Fehler ist aufgetreten. Bitte verifiziere deinen Aktivierungslink.
 ADMIN: Administration
 AGREE_TO_TOS_AND_PP: I agree to {tos} and {pp}
 ALL_RIGHTS_RESERVED: All rights reserved
-AMOUNT: Amount
-ARE_YOU_NEW: Are you new?
+AMOUNT: Menge
+ARE_YOU_NEW: Bist du neu hier?
 AUTHORITY: Authority
-BACK_TO_LOGIN: Back to login
-BUY_NWC: Buy NWC
+BACK_TO_LOGIN: Zurück zur Anmeldung
+BUY_NWC: Kaufe NWC
 CHARACTERS: Characters
-CONNECT: Connect
-CONNECTIONS: Connections
+CONNECT: Verbinden
+CONNECTIONS: Verbindungen
 COPYRIGHT: Copyright
 COUPON_ADDED: The coupon {coupon} has been added to your coupon inventory.
-COUPON_CLAIM: Claim a coupon
-COUPON_CLAIM_NOTHING: You have no coupons available
+COUPON_CLAIM: Erhalte einen Gutschein
+COUPON_CLAIM_NOTHING: Du verfügst über keine Gutscheine
 COUPON_INFORMATION:
-COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
-COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
+COUPON_NOT_VALID: Dein Gutschein {coupon} ist nicht gültig oder wurde bereits benutzt.
+COUPON_NWC_ADDED: {coins} NWC wurden deinem Account hinzugefügt.
 COUPON_INVENTORY: Coupon Inventory
 COUPON_PLACEHOLDER: Enter coupon's code
 COUPON_REDEEM: Redeem a coupon
@@ -51,10 +51,10 @@ DOWNLOAD_LAUNCHER_x64_VERSION: Download x64 version
 DOWNLOAD_LAUNCHER_x86_VERSION: Download x86 version
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x86 version
 EMAIL:
-  CONFIRM_NEW: Confirm new email
-  CURRENT: Current email
-  NEW: New email
-  TITLE: Email
+  CONFIRM_NEW: Bestätige deine neue E-Mailadresse
+  CURRENT: Derzeitige E-Mailadresse
+  NEW: Neue E-Mailadresse
+  TITLE: E-Mailadresse
   UPDATE: Update Email
 ENABLED: Enabled
 GAME_ACCOUNTS: Game Accounts
@@ -68,8 +68,8 @@ LANGUAGE_FR: French
 LANGUAGE_IT: Italian
 LANGUAGE_PL: Polish
 LANGUAGE_TR: Turkish
-LOGIN: Login
-LOGOUT: Logout
+LOGIN: Anmeldung
+LOGOUT: Abmeldung
 LOGS: Logs
 LOGS_DONATION: Donation Logs
 LOGS_SHOP: Shop Logs
@@ -77,41 +77,41 @@ NO_RECORDS_FOUND: No records found
 NUMBER_OF_CHARACTERS: Number of characters
 PAGINATION_TOTAL_COUNT: Showing from {min} to {max} of {total} entries
 PASSWORD:
-  CONFIRM: Confirm password
-  CONFIRM_NEW: Confirm new password
+  CONFIRM: Bestätige dein Passwort
+  CONFIRM_NEW: Bestätige dein neues Passwort
   CURRENT: Current password
-  FORGOT: Forgot password?
+  FORGOT: Passwort vergessen?
   FORGOT_INSTRUCTIONS: Enter your email and we will send you instructions to reset your password
-  NEW: New password
-  TITLE: Password
+  NEW: Neues Passwort
+  TITLE: Passwort
   UPDATE: Update password
 PRIVACY_POLICY: Privacy Policy
-PURCHASE: Purchase
-PURCHASE_ERRORS_UNDEFINED: An error occurred.
+PURCHASE: Kaufen
+PURCHASE_ERRORS_UNDEFINED: Ein Fehler ist aufgetreten.
 PURCHASE_ERRORS_AMOUNT: Please select an amount.
-PURCHASE_LEAVE_MESSAGE: Don't leave the page.
-PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} NWC to your account.
+PURCHASE_LEAVE_MESSAGE: Verlasse diese Seite nicht!
+PURCHASE_SUCCESS: Danke für deinen Einkauf! Deinem Account wurden {amount} NWC hinzugefügt.
 PURCHASE_TOS_MESSAGE: By purchasing, you have read and agreed to our {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verifying the current transaction...
-PROFILE: Profile
-PROFILE_SECTION_TITLE: My profile
+PROFILE: Profil
+PROFILE_SECTION_TITLE: Mein Profil
 REDEEM: Redeem
 REFRESH_DATA: Refresh data
-REGISTER: Register
-RESET: Reset 
-SAVE: Save
+REGISTER: Registrieren
+RESET: Zurücksetzen 
+SAVE: Speichern
 SAVE_CHANGES: Save changes
 SELECT_NWC_AMOUNT: Select NWC amount
-SELECT_PURCHASE_METHOD: Select purchase method
+SELECT_PURCHASE_METHOD: Wähle eine Bezahlungsmethode aus
 SEND_RESET_LINK: Send reset link
 SECURITY: Security
-SESSION_EXPIRED: Your session has expired. Please login again.
-SETTINGS: Settings
+SESSION_EXPIRED: Deine Sitzung ist abgelaufen. Bitte melde dich erneut an.
+SETTINGS: Einstellungen
 SHOP: Shop
-SHOP_FILTERS: Filters
-SHOP_FILTERS_CATEGORIES: Categories
-SHOP_FILTERS_PRICE: Price
-SHOP_FILTERS_SEARCH: Search
+SHOP_FILTERS: Filter
+SHOP_FILTERS_CATEGORIES: Kategorien
+SHOP_FILTERS_PRICE: Preis
+SHOP_FILTERS_SEARCH: Suchen
 SHOP_FILTERS_SEARCH_PLACEHOLDER: Enter item name
 SHOP_FILTERS_SORT_BY: Sort by
 SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alphabetical (A-Z)
