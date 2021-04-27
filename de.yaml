@@ -87,45 +87,45 @@ PASSWORD:
   UPDATE: Update password
 PRIVACY_POLICY: Privacy Policy
 PURCHASE: Purchase
-PURCHASE_ERRORS_UNDEFINED: An error occurred.
-PURCHASE_ERRORS_AMOUNT: Please select an amount.
-PURCHASE_LEAVE_MESSAGE: Don't leave the page.
-PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} NWC to your account.
-PURCHASE_TOS_MESSAGE: By purchasing, you have read and agreed to our {toslink}.
-PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verifying the current transaction...
-PROFILE: Profile
-PROFILE_SECTION_TITLE: My profile
-REDEEM: Redeem
-REFRESH_DATA: Refresh data
-REGISTER: Register
-RESET: Reset 
-SAVE: Save
-SAVE_CHANGES: Save changes
-SELECT_NWC_AMOUNT: Select NWC amount
-SELECT_PURCHASE_METHOD: Select purchase method
-SEND_RESET_LINK: Send reset link
-SECURITY: Security
-SESSION_EXPIRED: Your session has expired. Please login again.
-SETTINGS: Settings
-SHOP: Shop
-SHOP_FILTERS: Filters
-SHOP_FILTERS_CATEGORIES: Categories
-SHOP_FILTERS_PRICE: Price
-SHOP_FILTERS_SEARCH: Search
-SHOP_FILTERS_SEARCH_PLACEHOLDER: Enter item name
-SHOP_FILTERS_SORT_BY: Sort by
-SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alphabetical (A-Z)
-SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alphabetical (Z-A)
-SHOP_FILTERS_SORT_BY_PRICE_ASC: Price (ascending)
-SHOP_FILTERS_SORT_BY_PRICE_DESC: Price (descending)
-SHOP_RESET_FILTERS: Reset filters
-STAY_LOGGED_IN: Stay logged in?
-TERMS_OF_SERVICE: Terms of Service
-USERNAME: Username
-SHOP_SECTION_TITLE: NosWings Shop
-UPDATE_BACKGROUND_TITLE: Update background
-UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
-WELCOME: Welcome to NosWings!
-WELCOME_BACK: Welcome back to NosWings!
-WELCOME_BACK_DESCRIPTION: Don't forget to join our {link} server to be aware of our latest news, updates and more!
-YOUR_CHARACTERS: Your characters
+PURCHASE_ERRORS_UNDEFINED: Ein Fehler ist aufgetaucht.
+PURCHASE_ERRORS_AMOUNT: Bitte wähle eine Menge aus.
+PURCHASE_LEAVE_MESSAGE: Verlass nicht die Seite.
+PURCHASE_SUCCESS: Wir haben {amount} NWC zu deinem Account hinzugefügt.
+PURCHASE_TOS_MESSAGE: Beim Einkaufen stimmst du unseren Regeln zu {toslink}
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Die aktuelle Transaktion wird überprüft.
+PROFILE: Profil
+PROFILE_SECTION_TITLE: Mein Profil
+REDEEM: Einlösen
+REFRESH_DATA: Daten erneuern
+REGISTER: Registrieren
+RESET: Erneuern 
+SAVE: Sicher
+SAVE_CHANGES: Veränderungen speichern
+SELECT_NWC_AMOUNT: Wähle NWC Menge
+SELECT_PURCHASE_METHOD: Kaufmethode auswählen
+SEND_RESET_LINK: Sende Erneuerungslink 
+SECURITY: Sicherheitsdienst
+SESSION_EXPIRED: Deine Sitzung ist abgelaufen. Versuche es später erneut.
+SETTINGS: Einstellungen
+SHOP: Laden
+SHOP_FILTERS: Filter
+SHOP_FILTERS_CATEGORIES: Kategorien
+SHOP_FILTERS_PRICE: Preis
+SHOP_FILTERS_SEARCH: Suchen
+SHOP_FILTERS_SEARCH_PLACEHOLDER: Name des Gegenstands eingeben
+SHOP_FILTERS_SORT_BY: Sortiert bei
+SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alphabetisch (A-Z)
+SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alphabetisch (Z-A)
+SHOP_FILTERS_SORT_BY_PRICE_ASC: Preis (Aufsteigend)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Preis (Absteigend)
+SHOP_RESET_FILTERS: Filter erneuern?
+STAY_LOGGED_IN: Eingeloggt bleiben?
+TERMS_OF_SERVICE: Nutzungsbedingungen
+USERNAME: Benutzername
+SHOP_SECTION_TITLE: NosWings Laden
+UPDATE_BACKGROUND_TITLE: Update Hintergrung
+UPDATE_BACKGROUND_DESC: Choose a banner (orange by default) Wähle ein Banner (Orange ist Standart)
+WELCOME: Willkommen zu NosWings!
+WELCOME_BACK: Willkommen zurück zu NosWings!
+WELCOME_BACK_DESCRIPTION: Vergiss nicht unserem Server {link} beizutreten um auf dem neusten Stand zu sein!
+YOUR_CHARACTERS: Deine Charaktere
