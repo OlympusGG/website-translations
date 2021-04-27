@@ -17,3 +17,5 @@ jobs:
             line-length: disable
             empty-values: enable
             trailing-spaces: disable
+          ignore: |
+            keys.yaml
