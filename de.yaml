@@ -1,5 +1,5 @@
 2FA_CODE: Code
-2FA_DISABLE: Deaktiviere die 2FA
+2FA_DISABLE: 2FA deaktivieren
 2FA_DISABLE_SUCCESS_MSG: Die 2FA wurde erfolgreich deaktiviert.
 2FA_ENABLE: Aktiviere die 2FA
 2FA_ENABLE_SUCCESS_MSG: Die 2FA wurde erfolgreich aktiviert.
