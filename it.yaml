@@ -13,7 +13,7 @@
 2FA_HOW_TO_ENABLE_STEP_3: Riceverai un codice a 6 cifre. Scrivilo qui sotto.
 2FA_HOW_TO_ENABLE_STEP_4: Clicca sul pulsante!
 2FA_MANAGE: Gestici il 2FA
-ABOUT: Riguardo a
+ABOUT: A riguardo
 ACCOUNT: Account
 ACCOUNT_ALREADY_CREATED: Hai gia un account?
 ACCOUNT_CREATE: Crea un account
@@ -106,6 +106,7 @@ SELECT_PURCHASE_METHOD: Seleziona il metedo d'acquisto
 SEND_RESET_LINK: Manda il link per la reimpostazione
 SECURITY: Sicurezza
 SESSION_EXPIRED: La tua sessione è scaduta. Perfavore accedi di nuovo.
+SETTINGS: Impostazioni
 SHOP: Negozio
 SHOP_FILTERS: Filtri
 SHOP_FILTERS_CATEGORIES: Categorie
