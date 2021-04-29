@@ -117,7 +117,7 @@ SHOP_FILTERS_SORT_BY: Sortuj
 SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alfabetycznie (A-Z)
 SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetycznie (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Cena (rosnąco)
-SHOP_FILTERS_SORT_BY_PRICE_DESC: Cena (descending)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Cena (malejąco)
 SHOP_RESET_FILTERS: Resetuj filtry
 STAY_LOGGED_IN: Czy pozostać zalogowanym?
 TERMS_OF_SERVICE: Warunki świadczenia usług
