@@ -90,7 +90,7 @@ PURCHASE: Zakup
 PURCHASE_ERRORS_UNDEFINED: Wystąpił błąd.
 PURCHASE_ERRORS_AMOUNT: Proszę wybrać ilość.
 PURCHASE_LEAVE_MESSAGE: Nie zamykaj strony.
-PURCHASE_SUCCESS: Dziękujemy za zakup! Dodaliśmy {amount} NWC do Twojego konta.
+PURCHASE_SUCCESS: Dziękujemy za zakup! Dodaliśmy {amount} NWC do twojego konta.
 PURCHASE_TOS_MESSAGE: Dokonując zakupu, zapoznano się i wyrażono zgodę na nasze {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Weryfikuję aktulaną transakcję...
 PROFILE: Profil
