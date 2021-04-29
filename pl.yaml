@@ -38,7 +38,7 @@ COUPON_CLAIM: Odbierz kupon.
 COUPON_CLAIM_NOTHING: Nie masz dostępnych kuponów
 COUPON_INFORMATION:
 COUPON_NOT_VALID: Kupon {coupon} jest już nieważny lub został już użyty
-COUPON_NWC_ADDED: Ilość {coins} NWC została dodana do twojego konta.
+COUPON_NWC_ADDED: Dodano {coins} NWC do twojego konta.
 COUPON_INVENTORY: Ekwipunek Kuponów
 COUPON_PLACEHOLDER: Wpisz kod kuponu
 COUPON_REDEEM: Zrealizuj kupon
