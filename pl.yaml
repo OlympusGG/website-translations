@@ -72,7 +72,7 @@ LOGIN: Zaloguj
 LOGOUT: Wyloguj
 LOGS: Historia
 LOGS_DONATION: Historia Darowizn
-LOGS_SHOP: Histora Sklepu
+LOGS_SHOP: Historia Sklepu
 NO_RECORDS_FOUND: Nie znaleziono żadnych pozycji
 NUMBER_OF_CHARACTERS: Ilość postaci
 PAGINATION_TOTAL_COUNT: Wyświetlenie od {min} do {max} z {total} pozycji
