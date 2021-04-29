@@ -6,7 +6,7 @@
 2FA_HOW_TO_DISABLE: Jak wyłączyć 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Wpisz sześciocyfrowy kod, który został wygenerowany w aplikacji i wpisz go poniżej
 2FA_HOW_TO_DISABLE_STEP_2: Kliknij przycisk!
-2FA_HOW_TO_DISABLE_STEP_3: Usuń klucz NosWings:<NazwaUżytkownika> z aplikacji aby móc ponownie zeskanować kod.
+2FA_HOW_TO_DISABLE_STEP_3: Usuń klucz NosWings:<NazwaUżytkownika> z aplikacji, aby móc ponownie zeskanować kod.
 2FA_HOW_TO_ENABLE: Jak włączyć 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Pobierz aplikację, która wygeneruje kod dla 2FA
 2FA_HOW_TO_ENABLE_STEP_2: Za pomocą zainstalowanej aplikacji zeskanuj kod QR.
