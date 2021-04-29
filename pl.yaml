@@ -92,7 +92,7 @@ PURCHASE_ERRORS_AMOUNT: Proszę wybrać ilość.
 PURCHASE_LEAVE_MESSAGE: Nie zamykaj strony.
 PURCHASE_SUCCESS: Dziękujemy za zakup! Dodaliśmy {amount} NWC do twojego konta.
 PURCHASE_TOS_MESSAGE: Dokonując zakupu oświadczasz, że zapoznałeś(-aś) się i wyraziłeś(-aś) zgodę na nasze {toslink}.
-PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Weryfikuję aktulaną transakcję...
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Weryfikuję aktualną transakcję...
 PROFILE: Profil
 PROFILE_SECTION_TITLE: Mój profil
 REDEEM: Zrealizuj
