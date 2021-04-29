@@ -74,7 +74,7 @@ LOGS: Logs
 LOGS_DONATION: Donation Logs
 LOGS_SHOP: Shop Logs
 NO_RECORDS_FOUND: No records found
-NUMBER_OF_CHARACTERS: Number of characters
+NUMBER_OF_CHARACTERS: Anzahl der Charaktere 
 PAGINATION_TOTAL_COUNT: Showing from {min} to {max} of {total} entries
 PASSWORD:
   CONFIRM: Bestätige dein Passwort
