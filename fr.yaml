@@ -49,7 +49,7 @@ DOWNLOAD_LAUNCHER: Télécharger le launcher
 DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Téléchargez la version x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Téléchargez la version x86
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x86
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x64
 EMAIL:
   CONFIRM_NEW: Confirmer la nouvelle adresse e-mail
   CURRENT: Adresse e-mail actuelle
