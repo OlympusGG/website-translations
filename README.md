@@ -1,6 +1,6 @@
 # NosWings.Dashboard.Translations
 
-## PLEASE READ RULES BEFORE TRANSLATING.
+## **PLEASE READ RULES BEFORE TRANSLATING.**
 
 [![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/RUk4r4T)
 
@@ -8,7 +8,7 @@ This is our Dashboard translations repository.
 
 ## How to
 
-We are working with Pull Requests. If you want to participate and you don't know how to do it, feel free to read those articles which explains it :
+We are working with Pull Requests. If you want to participate and you don't know how to do it, feel free to read those articles which explains it:
 
 [First contributions](https://github.com/firstcontributions/first-contributions)
 
@@ -18,17 +18,13 @@ We are working with Pull Requests. If you want to participate and you don't know
 
 ## Rules
 
-+ All non-translated keys (keys with `null` or `~` as values) will fallback to EN.
-+ You also need to provide the modified file **as-is** without **any extensions modifications** or **renames**.
-+ Only **values** of keys must be modified.
++ All non-translated keys (keys with `null` as value) will fallback to EN.
 + No key should be added.
++ Only **values** of keys must be modified.
 + A reference key file is provided (keys.yaml)
-+ **CURRENT LANGUAGES YOU CAN ADD:** CZ, DE, ES, IT, PL, TR. If you add a new language, please format your file as: `<LanguageCode>.yaml`
-+ `null` value means the actual transition of a key is **unknown**
-+ `~` value means the key is the same in English. Don't replace it to add an English translation, it'll fallback to EN anyway.
-+ Variables **SHOULD NOT BE TRANSLATED** (values between curly braces)
++ Be careful about values with **curly-braces**: they represent variables **and THEY MUST NOT BE MODIFIED NOR TRANSLATED**.
 
-**NEVER USE AN EMPTY VALUE WHEN TRANSLATING A KEY**
+### **NEVER USE AN EMPTY VALUE WHEN TRANSLATING A KEY IF YOU DON'T KNOW HOW TO TRANSLATE IT FOR SOME REASON, USE `null` INSTEAD**.
 
 Don't hesitate to fix missing values!
 
