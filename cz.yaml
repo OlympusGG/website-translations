@@ -36,20 +36,20 @@ COPYRIGHT: Copyright
 COUPON_ADDED: Kupón {coupon} byl přidán do vašeho inventáře kupónů.
 COUPON_CLAIM: Vyzvednout kupón
 COUPON_CLAIM_NOTHING: Nemáte dostupné žádné kupóny
-COUPON_INFORMATION:
+COUPON_INFORMATION: null
+COUPON_INVENTORY: Inventář kupónů
 COUPON_NOT_VALID: Kupón {coupon} není platný nebo byl již použit
 COUPON_NWC_ADDED: Množství {coins} NWC bylo přidáno na váš účet.
-COUPON_INVENTORY: Inventář kupónů
 COUPON_PLACEHOLDER: Vložte kód kupónu
 COUPON_REDEEM: Vyzvednout kupón
 CUSTOMIZE: Přizpůsobit
 DISABLED: Zakázáno
 DISCONNECT: Odpojit se
 DOWNLOAD_LAUNCHER: Stáhnout Launcher
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Pokud nemáte představu kterou zvolit, stáhněte si verzi x64
 DOWNLOAD_LAUNCHER_VERSION: Stáhnout Launcher NosWings (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Stáhnout verzi x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Stáhnout verzi x84
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Pokud nemáte představu kterou zvolit, stáhněte si verzi x84
 EMAIL:
   CONFIRM_NEW: Potvrdit nový e-mail
   CURRENT: Současný e-mail
@@ -86,25 +86,25 @@ PASSWORD:
   TITLE: Heslo
   UPDATE: Aktualizovat heslo
 PRIVACY_POLICY: Zásady ochrany osobních údajů
+PROFILE: Profil
+PROFILE_SECTION_TITLE: Můj profil
 PURCHASE: Koupit
-PURCHASE_ERRORS_UNDEFINED: Vyskytla se chyba.
 PURCHASE_ERRORS_AMOUNT: Prosím vyberte množství.
+PURCHASE_ERRORS_UNDEFINED: Vyskytla se chyba.
 PURCHASE_LEAVE_MESSAGE: Neopouštějte stránku.
 PURCHASE_SUCCESS: Děkujeme za vaši koupi! Na váš účet přistálo {amount} NWC.
 PURCHASE_TOS_MESSAGE: Zakoupením jste si přečetli a souhlasili s našimi {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Ověřuji současnou transakci...
-PROFILE: Profil
-PROFILE_SECTION_TITLE: Můj profil
 REDEEM: Vyzvednout
 REFRESH_DATA: Obnovit data
 REGISTER: Registrovat
 RESET: Resetovat
 SAVE: Uložit
 SAVE_CHANGES: Uložit změny
+SECURITY: Zabezpečení
 SELECT_NWC_AMOUNT: Vybrat množství NWC
 SELECT_PURCHASE_METHOD: Vyberte způsob platby
 SEND_RESET_LINK: Odeslat resetovací odkaz
-SECURITY: Zabezpečení
 SESSION_EXPIRED: Vaše relace vypršela. Přihlaste se prosím znovu.
 SETTINGS: Nastavení
 SHOP: Obchod
@@ -119,12 +119,12 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Abecedně (od Z do A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Od nejlevnějšího (vzestupně)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Od nejdražšího (sestupně)
 SHOP_RESET_FILTERS: Resetovat filtry
+SHOP_SECTION_TITLE: NosWings Obchod
 STAY_LOGGED_IN: Zůstat přihlášen?
 TERMS_OF_SERVICE: Podmínky služby
-USERNAME: Uživatelské jméno
-SHOP_SECTION_TITLE: NosWings Obchod
-UPDATE_BACKGROUND_TITLE: Aktualizovat pozadí
 UPDATE_BACKGROUND_DESC: Vybrat banner (základním je oranžový)
+UPDATE_BACKGROUND_TITLE: Aktualizovat pozadí
+USERNAME: Uživatelské jméno
 WELCOME: Vítejte v NosWings!
 WELCOME_BACK: Vítejte zpátky v NosWings!
 WELCOME_BACK_DESCRIPTION: Nezapomeňte se připojit k našemu serveru {link}, aby vám neunikla žádná novinka!

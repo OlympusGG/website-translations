@@ -22,7 +22,7 @@ ACCOUNT_ID: ID du compte
 ACCOUNT_SUCCESSFULLY_ACTIVATED: Votre compte à été activé.
 ACCOUNT_VERIFICATION_LINK_ERROR: Une erreur est survenue. Merci de vérifier votre lien d'activation.
 ADMIN: Admininstration
-AGREE_TO_TOS_AND_PP:
+AGREE_TO_TOS_AND_PP: J'ai lu et j'accepte les {tos} ainsi que notre {pp}.
 ALL_RIGHTS_RESERVED: Tous droits réservés
 AMOUNT: Quantité
 ARE_YOU_NEW: Êtes-vous nouveau?
@@ -36,20 +36,20 @@ COPYRIGHT: Droits d'auteur
 COUPON_ADDED: Le coupon {coupon} à été ajouté à votre inventaire de coupons.
 COUPON_CLAIM: Utiliser un coupon
 COUPON_CLAIM_NOTHING: Vous n'avez aucun coupon disponible.
-COUPON_INFORMATION: 
+COUPON_INFORMATION: null
+COUPON_INVENTORY: Inventaire de coupons
 COUPON_NOT_VALID: Le coupon {coupon} n'est pas valide ou à déjà été utilisé.
 COUPON_NWC_ADDED: Un montant de {coins} NWC ont été ajoutés à votre compte.
-COUPON_INVENTORY: Inventaire de coupons
 COUPON_PLACEHOLDER: Entrez le code du coupon
 COUPON_REDEEM: Utiliser un coupon
 CUSTOMIZE: Personnaliser
 DISABLED: Désactivé
 DISCONNECT: Se déconnecter
 DOWNLOAD_LAUNCHER: Télécharger le launcher
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x64
 DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Téléchargez la version x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Téléchargez la version x86
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x64
 EMAIL:
   CONFIRM_NEW: Confirmer la nouvelle adresse e-mail
   CURRENT: Adresse e-mail actuelle
@@ -85,25 +85,26 @@ PASSWORD:
   NEW: Nouveau mot de passe
   TITLE: Mot de passe
   UPDATE: Mettre à jour le mot de passe
-PURCHASE: Acheter des NWC
-PURCHASE_ERRORS_UNDEFINED: Une erreur est survenue.
-PURCHASE_ERRORS_AMOUNT: Merci de choisir un montant.
-PURCHASE_LEAVE_MESSAGE: Merci de ne pas quitter la page
-PURCHASE_SUCCESS: Merci pour votre achat ! Votre compte a été crédité de {amount} NWC.
-PURCHASE_TOS_MESSAGE:
-PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Vérification de la transaction...
+PRIVACY_POLICY: Politique de confidentialité
 PROFILE: Profil
 PROFILE_SECTION_TITLE: Mon profil
+PURCHASE: Acheter des NWC
+PURCHASE_ERRORS_AMOUNT: Merci de choisir un montant.
+PURCHASE_ERRORS_UNDEFINED: Une erreur est survenue.
+PURCHASE_LEAVE_MESSAGE: Merci de ne pas quitter la page
+PURCHASE_SUCCESS: Merci pour votre achat ! Votre compte a été crédité de {amount} NWC.
+PURCHASE_TOS_MESSAGE: null
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Vérification de la transaction...
 REDEEM: Récupérer
 REFRESH_DATA: Actualiser
 REGISTER: S'inscrire
 RESET: Réinitialiser
 SAVE: Sauvegarder
 SAVE_CHANGES: Sauvegarder les changements
+SECURITY: Sécurité
 SELECT_NWC_AMOUNT: Sélectionnez un montant de NWC
 SELECT_PURCHASE_METHOD: Sélectionnez un moyen de paiement
 SEND_RESET_LINK: Envoyer un lien de réinitialisation
-SECURITY: Sécurité
 SESSION_EXPIRED: Session expirée
 SETTINGS: Paramètres
 SHOP: Boutique
@@ -118,11 +119,12 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Trier par ordre alphabétique (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Trier par prix (croissant)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Trier par prix (décroissant)
 SHOP_RESET_FILTERS: Réinitialiser les filtres
-STAY_LOGGED_IN: Rester connecté ?
-USERNAME: Nom d'utilisateur
 SHOP_SECTION_TITLE: NosWings Shop
-UPDATE_BACKGROUND_TITLE: Mettre à jour la bannière
+STAY_LOGGED_IN: Rester connecté ?
+TERMS_OF_SERVICE: conditions générales d'utilisation
 UPDATE_BACKGROUND_DESC: Choisissez une bannière (couleur orange par défaut)
+UPDATE_BACKGROUND_TITLE: Mettre à jour la bannière
+USERNAME: Nom d'utilisateur
 WELCOME: Bienvenue sur NosWings !
 WELCOME_BACK: De retour ?
 WELCOME_BACK_DESCRIPTION: N'hésite pas à rejoindre notre {link} serveur pour te tenir au courant des dernières news, mises à jour et plus encore!

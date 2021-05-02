@@ -36,20 +36,20 @@ COPYRIGHT: Prawa autorskie
 COUPON_ADDED: Kupon {coupon} został dodany do twojego ekwipunku kuponów.
 COUPON_CLAIM: Odbierz kupon.
 COUPON_CLAIM_NOTHING: Nie masz dostępnych kuponów
-COUPON_INFORMATION:
+COUPON_INFORMATION: null
+COUPON_INVENTORY: Ekwipunek Kuponów
 COUPON_NOT_VALID: Kupon {coupon} jest już nieważny lub został już użyty
 COUPON_NWC_ADDED: Dodano {coins} NWC do twojego konta.
-COUPON_INVENTORY: Ekwipunek Kuponów
 COUPON_PLACEHOLDER: Wpisz kod kuponu
 COUPON_REDEEM: Zrealizuj kupon
 CUSTOMIZE: Spersonalizuj
 DISABLED: Wyłączone
 DISCONNECT: Odłącz
 DOWNLOAD_LAUNCHER: Pobierz Launcher
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Jeśli nie masz pojęcia jaką architekturę wybrać, wybierz wersję x64
 DOWNLOAD_LAUNCHER_VERSION: Pobierz NosWings Launcher (wersja {version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Pobierz wersję x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Pobierz wersję x86
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Jeśli nie masz pojęcia jaką architekturę wybrać, wybierz wersję x64
 EMAIL:
   CONFIRM_NEW: Potwierdź nowy e-mail
   CURRENT: Aktualny e-mail
@@ -86,25 +86,25 @@ PASSWORD:
   TITLE: Hasło
   UPDATE: Zaktualizuj hasło
 PRIVACY_POLICY: Polityka Prywatności
+PROFILE: Profil
+PROFILE_SECTION_TITLE: Mój profil
 PURCHASE: Zakup
-PURCHASE_ERRORS_UNDEFINED: Wystąpił błąd.
 PURCHASE_ERRORS_AMOUNT: Proszę wybrać ilość.
+PURCHASE_ERRORS_UNDEFINED: Wystąpił błąd.
 PURCHASE_LEAVE_MESSAGE: Nie zamykaj strony.
 PURCHASE_SUCCESS: Dziękujemy za zakup! Dodaliśmy {amount} NWC do twojego konta.
 PURCHASE_TOS_MESSAGE: Dokonując zakupu oświadczasz, że zapoznałeś(-aś) się i wyraziłeś(-aś) zgodę na nasze {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Weryfikuję aktualną transakcję...
-PROFILE: Profil
-PROFILE_SECTION_TITLE: Mój profil
 REDEEM: Zrealizuj
 REFRESH_DATA: Odśwież dane
 REGISTER: Zarejestruj
-RESET: Reset 
+RESET: Reset
 SAVE: Zapisz
 SAVE_CHANGES: Zapisz zmiany
+SECURITY: Bezpieczeństwo
 SELECT_NWC_AMOUNT: Wybierz ilość NWC
 SELECT_PURCHASE_METHOD: Wybierz formę płatności
 SEND_RESET_LINK: Wyślij link resetujący
-SECURITY: Bezpieczeństwo
 SESSION_EXPIRED: Twoja sesja wygasła. Proszę zalogować się ponownie.
 SETTINGS: Ustawienia
 SHOP: Sklep
@@ -119,12 +119,12 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetycznie (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Cena (rosnąco)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Cena (malejąco)
 SHOP_RESET_FILTERS: Resetuj filtry
+SHOP_SECTION_TITLE: Sklep NosWings
 STAY_LOGGED_IN: Czy pozostać zalogowanym?
 TERMS_OF_SERVICE: Warunki świadczenia usług
-USERNAME: Nazwa użytkownika
-SHOP_SECTION_TITLE: Sklep NosWings
-UPDATE_BACKGROUND_TITLE: Zaktualizuj tło
 UPDATE_BACKGROUND_DESC: Wybierz banner (domyślnie jest to pomarańczowy)
+UPDATE_BACKGROUND_TITLE: Zaktualizuj tło
+USERNAME: Nazwa użytkownika
 WELCOME: Witamy w NosWings!
 WELCOME_BACK: Witamy z powrotem w NosWings!
 WELCOME_BACK_DESCRIPTION: Nie zapomnij dołączyć do naszego serwera {link}, aby śledzić nasze najnowsze wiadomości, aktualizacje i więcej!

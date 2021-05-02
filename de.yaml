@@ -8,7 +8,7 @@
 2FA_HOW_TO_DISABLE_STEP_2: Click on the button!
 2FA_HOW_TO_DISABLE_STEP_3: Delete the NosWings:YourUsername key on the app to be able to scan the code again.
 2FA_HOW_TO_ENABLE: How to enable 2FA?
-2FA_HOW_TO_ENABLE_STEP_1:  Download an 2FA Authenticator App
+2FA_HOW_TO_ENABLE_STEP_1: Download an 2FA Authenticator App
 2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
 2FA_HOW_TO_ENABLE_STEP_3: You will have a 6 digits code. Enter it below.
 2FA_HOW_TO_ENABLE_STEP_4: Click on the button!
@@ -36,20 +36,20 @@ COPYRIGHT: Copyright
 COUPON_ADDED: The coupon {coupon} has been added to your coupon inventory.
 COUPON_CLAIM: Claim a coupon
 COUPON_CLAIM_NOTHING: You have no coupons available
-COUPON_INFORMATION:
+COUPON_INFORMATION: null
+COUPON_INVENTORY: Coupon Inventory
 COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
 COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
-COUPON_INVENTORY: Coupon Inventory
 COUPON_PLACEHOLDER: Enter coupon's code
 COUPON_REDEEM: Redeem a coupon
 CUSTOMIZE: Customize
 DISABLED: Disabled
 DISCONNECT: Disconnect
 DOWNLOAD_LAUNCHER: Download Launcher
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x64 version
 DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Download x64 version
 DOWNLOAD_LAUNCHER_x86_VERSION: Download x86 version
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x86 version
 EMAIL:
   CONFIRM_NEW: Confirm new email
   CURRENT: Current email
@@ -86,25 +86,25 @@ PASSWORD:
   TITLE: Password
   UPDATE: Update password
 PRIVACY_POLICY: Privacy Policy
+PROFILE: Profile
+PROFILE_SECTION_TITLE: My profile
 PURCHASE: Purchase
-PURCHASE_ERRORS_UNDEFINED: An error occurred.
 PURCHASE_ERRORS_AMOUNT: Please select an amount.
+PURCHASE_ERRORS_UNDEFINED: An error occurred.
 PURCHASE_LEAVE_MESSAGE: Don't leave the page.
 PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} NWC to your account.
 PURCHASE_TOS_MESSAGE: By purchasing, you have read and agreed to our {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verifying the current transaction...
-PROFILE: Profile
-PROFILE_SECTION_TITLE: My profile
 REDEEM: Redeem
 REFRESH_DATA: Refresh data
 REGISTER: Register
-RESET: Reset 
+RESET: Reset
 SAVE: Save
 SAVE_CHANGES: Save changes
+SECURITY: Security
 SELECT_NWC_AMOUNT: Select NWC amount
 SELECT_PURCHASE_METHOD: Select purchase method
 SEND_RESET_LINK: Send reset link
-SECURITY: Security
 SESSION_EXPIRED: Your session has expired. Please login again.
 SETTINGS: Settings
 SHOP: Shop
@@ -119,12 +119,12 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alphabetical (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Price (ascending)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Price (descending)
 SHOP_RESET_FILTERS: Reset filters
+SHOP_SECTION_TITLE: NosWings Shop
 STAY_LOGGED_IN: Stay logged in?
 TERMS_OF_SERVICE: Terms of Service
-USERNAME: Username
-SHOP_SECTION_TITLE: NosWings Shop
-UPDATE_BACKGROUND_TITLE: Update background
 UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
+UPDATE_BACKGROUND_TITLE: Update background
+USERNAME: Username
 WELCOME: Welcome to NosWings!
 WELCOME_BACK: Welcome back to NosWings!
 WELCOME_BACK_DESCRIPTION: Don't forget to join our {link} server to be aware of our latest news, updates and more!
