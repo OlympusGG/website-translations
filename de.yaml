@@ -4,10 +4,10 @@
 2FA_ENABLE: 2FA aktivieren
 2FA_ENABLE_SUCCESS_MSG: 2FA wurde erfolgreich aktiviert
 2FA_HOW_TO_DISABLE: Wie deaktiviere ich die 2FA?
-2FA_HOW_TO_DISABLE_STEP_1: Trage den 6-stelligen Code aus deiner für die Aktivierung von 2FA genutzten App unten ein.
+2FA_HOW_TO_DISABLE_STEP_1: Trage den 6-stelligen Code aus deiner 2FA App unten ein.
 2FA_HOW_TO_DISABLE_STEP_2: Klicke auf den Knopf!
-2FA_HOW_TO_DISABLE_STEP_3: Entferne den NosWings:Benutzername Eintrag in deiner 2FA App um ihn später wieder einscannen zu können.
-2FA_HOW_TO_ENABLE: Wie aktiviere ich die 2FA?
+2FA_HOW_TO_DISABLE_STEP_3: Entferne den NosWings:Benutzername Eintrag in deiner 2FA App um ihn später erneut einscannen zu können.
+2FA_HOW_TO_ENABLE: Wie aktiviere ich 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Lade eine 2FA App herunter
 2FA_HOW_TO_ENABLE_STEP_2: Scanne den QR Code mit der zuvor heruntergeladenen 2FA App
 2FA_HOW_TO_ENABLE_STEP_3: Du erhälst einen 6-stelligen code. Trage ihn unten ein.
@@ -15,24 +15,24 @@
 2FA_MANAGE: 2FA Verwalten
 ABOUT: Über uns
 ACCOUNT: Konto
-ACCOUNT_ALREADY_CREATED: Du besitzt bereits einen Account?
+ACCOUNT_ALREADY_CREATED: Du besitzt bereits ein Konto?
 ACCOUNT_CREATE: Konto erstellen
 ACCOUNT_CREATED: Konto erstellt!
 ACCOUNT_ID: Konto ID
 ACCOUNT_SUCCESSFULLY_ACTIVATED: Dein Konto wurde erfolgreich aktivieret! Logge dich unten ein.
 ACCOUNT_VERIFICATION_LINK_ERROR: Ein Fehler ist aufgetreten. Bitte überprüfe deinen Aktivierungslink.
 ADMIN: Administration
-AGREE_TO_TOS_AND_PP: Ich stimme den {tos} und {pp}
+AGREE_TO_TOS_AND_PP: Ich stimme den {tos} und {pp} zu.
 ALL_RIGHTS_RESERVED: Alle Rechte vorbehalten
 AMOUNT: Menge
 ARE_YOU_NEW: Bist du neu?
 AUTHORITY: Autorität
-BACK_TO_LOGIN: Zurück zum
+BACK_TO_LOGIN: Zurück zum Login
 BUY_NWC: NWC kaufen
 CHARACTERS: Charaktere
 CONNECT: Verbinden
 CONNECTIONS: Verbindungen
-COPYRIGHT: Urheberrechte
+COPYRIGHT: Urheberrecht
 COUPON_ADDED: Der Gutschein {coupon} wurde deinem Gutscheininventar hinzugefügt.
 COUPON_CLAIM: Gutschein anfordern
 COUPON_CLAIM_NOTHING: Es sind keine Gutscheine verfügbar.
@@ -49,7 +49,7 @@ DOWNLOAD_LAUNCHER: Launcher herunterladen
 DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: x64 Version herunterladen
 DOWNLOAD_LAUNCHER_x86_VERSION: x86 Version herunterladen
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Solltest du dich mit Architekturen nicht auskennen, wähle die x86 Version aus
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Solltest du dich mit Architekturen nicht auskennen, wähle die x64 Version aus
 EMAIL:
   CONFIRM_NEW: Neue Email bestätigen
   CURRENT: Aktuelle Email
@@ -73,15 +73,15 @@ LOGOUT: Ausloggen
 LOGS: Protokolle
 LOGS_DONATION: Spenden Protokoll
 LOGS_SHOP: Shop Protokoll
-NO_RECORDS_FOUND: Keine Rekorde gefunden
+NO_RECORDS_FOUND: Keine Aufzeichnungen gefunden
 NUMBER_OF_CHARACTERS: Anzahl an Charakteren
-PAGINATION_TOTAL_COUNT: Anzeigen von {min} bis {max} der {total} Einträge
+PAGINATION_TOTAL_COUNT: Zeige {min} bis {max} der {total} Einträge
 PASSWORD:
   CONFIRM: Passwort bestätigen
   CONFIRM_NEW: Neues Passwort bestätigen
   CURRENT: Aktuelles Passwort
   FORGOT: Passwort vergessen?
-  FORGOT_INSTRUCTIONS: Trage deine Email ein und wir senden dir eine Anweisung, wie du dein Passwort zurücksetzen kannst.
+  FORGOT_INSTRUCTIONS: Trage deine Email ein und wir senden dir Anweisungen, wie du dein Passwort zurücksetzen kannst.
   NEW: Neues Passwort
   TITLE: Passwort
   UPDATE: Passwort ändern
