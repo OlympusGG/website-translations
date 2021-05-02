@@ -1,8 +1,16 @@
+2FA: null
+2FA_BACKUP_CODES_MSG: null
+2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: null
+2FA_BACKUP_CODE_WARNING_MSG: null
 2FA_CODE: Kód
 2FA_DISABLE: Zakázat 2FA
 2FA_DISABLE_SUCCESS_MSG: 2FA bylo úspěšně zakázáno
 2FA_ENABLE: Povolit 2FA
 2FA_ENABLE_SUCCESS_MSG: 2FA bylo úspěšně povoleno
+2FA_ENTER_BACKUP_CODE: null
+2FA_ENTER_CODE: null
+2FA_ENTER_CODE_OR_BACKUP_CODE: null
+2FA_ENTER_SECRET: null
 2FA_HOW_TO_DISABLE: Jak zakázat 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Použijte šesti-místný kód z aplikace, kterou jste použili k povolení 2FA a zadejte jej níže.
 2FA_HOW_TO_DISABLE_STEP_2: Klikněte na tlačítko!
@@ -12,7 +20,10 @@
 2FA_HOW_TO_ENABLE_STEP_2: Naskenujte QR kód s použitím předešle stažené aplikace.
 2FA_HOW_TO_ENABLE_STEP_3: Budete mít šesti-místný kód. Níže jej musíte vložit.
 2FA_HOW_TO_ENABLE_STEP_4: Klikněte na tlačítko!
+2FA_ISSUE: null
 2FA_MANAGE: Spravovat 2FA
+2FA_MODAL_DESC: null
+2FA_SUPPORT_HELP: null
 ABOUT: Informace o
 ACCOUNT: Účet
 ACCOUNT_ALREADY_CREATED: Již máte založený účet?
@@ -125,6 +136,7 @@ TERMS_OF_SERVICE: Podmínky služby
 UPDATE_BACKGROUND_DESC: Vybrat banner (základním je oranžový)
 UPDATE_BACKGROUND_TITLE: Aktualizovat pozadí
 USERNAME: Uživatelské jméno
+VERIFY: null
 WELCOME: Vítejte v NosWings!
 WELCOME_BACK: Vítejte zpátky v NosWings!
 WELCOME_BACK_DESCRIPTION: Nezapomeňte se připojit k našemu serveru {link}, aby vám neunikla žádná novinka!

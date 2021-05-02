@@ -1,8 +1,16 @@
+2FA: null
+2FA_BACKUP_CODES_MSG: null
+2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: null
+2FA_BACKUP_CODE_WARNING_MSG: null
 2FA_CODE: Kod
 2FA_DISABLE: Włącz 2FA
 2FA_DISABLE_SUCCESS_MSG: Pomyślnie wyłączono 2FA
 2FA_ENABLE: Włącz 2FA
 2FA_ENABLE_SUCCESS_MSG: Pomyślnie włączono 2FA
+2FA_ENTER_BACKUP_CODE: null
+2FA_ENTER_CODE: null
+2FA_ENTER_CODE_OR_BACKUP_CODE: null
+2FA_ENTER_SECRET: null
 2FA_HOW_TO_DISABLE: Jak wyłączyć 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Wpisz sześciocyfrowy kod, który został wygenerowany w aplikacji i wpisz go poniżej
 2FA_HOW_TO_DISABLE_STEP_2: Kliknij przycisk!
@@ -12,7 +20,10 @@
 2FA_HOW_TO_ENABLE_STEP_2: Za pomocą zainstalowanej aplikacji zeskanuj kod QR.
 2FA_HOW_TO_ENABLE_STEP_3: Następnie otrzymasz sześciocyfrowy kod. Wpisz go poniżej.
 2FA_HOW_TO_ENABLE_STEP_4: Kliknij przycisk!
+2FA_ISSUE: null
 2FA_MANAGE: Zarządzaj 2FA
+2FA_MODAL_DESC: null
+2FA_SUPPORT_HELP: null
 ABOUT: Informacje
 ACCOUNT: Konto
 ACCOUNT_ALREADY_CREATED: Posiadasz już konto?
@@ -125,6 +136,7 @@ TERMS_OF_SERVICE: Warunki świadczenia usług
 UPDATE_BACKGROUND_DESC: Wybierz banner (domyślnie jest to pomarańczowy)
 UPDATE_BACKGROUND_TITLE: Zaktualizuj tło
 USERNAME: Nazwa użytkownika
+VERIFY: null
 WELCOME: Witamy w NosWings!
 WELCOME_BACK: Witamy z powrotem w NosWings!
 WELCOME_BACK_DESCRIPTION: Nie zapomnij dołączyć do naszego serwera {link}, aby śledzić nasze najnowsze wiadomości, aktualizacje i więcej!
