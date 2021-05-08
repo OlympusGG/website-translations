@@ -104,7 +104,7 @@ PURCHASE_ERRORS_AMOUNT: Prosím vyberte množství.
 PURCHASE_ERRORS_UNDEFINED: Vyskytla se chyba.
 PURCHASE_LEAVE_MESSAGE: Neopouštějte stránku.
 PURCHASE_SUCCESS: Děkujeme za vaši koupi! Na váš účet přistálo {amount} NWC.
-PURCHASE_TOS_MESSAGE: Zakoupením jste si přečetli a souhlasili s našimi {toslink}.
+PURCHASE_TOS_MESSAGE: Zakoupením jste si přečetli a souhlasíte s: {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Ověřuji současnou transakci...
 REDEEM: Vyzvednout
 REFRESH_DATA: Obnovit data
