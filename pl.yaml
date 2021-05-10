@@ -87,6 +87,7 @@ LANGUAGE_TR: Turecki
 LOGIN: Zaloguj
 LOGOUT: Wyloguj
 LOGS: Historia
+LOGS_COUPON: null
 LOGS_DONATION: Historia Darowizn
 LOGS_SHOP: Historia Sklepu
 NO_RECORDS_FOUND: Nie znaleziono żadnych pozycji

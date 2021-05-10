@@ -87,6 +87,7 @@ LANGUAGE_TR: Türkçe
 LOGIN: Giriş
 LOGOUT: Çıkış
 LOGS: Kayıtlar
+LOGS_COUPON: null
 LOGS_DONATION: Ödeme Kayıtları
 LOGS_SHOP: Dükkan Kayıtları
 NO_RECORDS_FOUND: Kayıt bulunamadı
