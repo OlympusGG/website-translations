@@ -1,16 +1,16 @@
-2FA: null
-2FA_BACKUP_CODES_MSG: null
-2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: null
-2FA_BACKUP_CODE_WARNING_MSG: null
+2FA: Uwierzytelnienie dwuetapowe
+2FA_BACKUP_CODES_MSG: To są twoje zapasowe kody. Zachowaj je gdzieś bezpiecznie!
+2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Pobierz kody zapasowe
+2FA_BACKUP_CODE_WARNING_MSG: Każdy kod można użyć tylko raz.
 2FA_CODE: Kod
-2FA_DISABLE: Włącz 2FA
-2FA_DISABLE_SUCCESS_MSG: Pomyślnie wyłączono 2FA
+2FA_DISABLE: Wyłącz 2FA
+2FA_DISABLE_SUCCESS_MSG: Pomyślnie wyłączono 2FA  
 2FA_ENABLE: Włącz 2FA
 2FA_ENABLE_SUCCESS_MSG: Pomyślnie włączono 2FA
-2FA_ENTER_BACKUP_CODE: null
-2FA_ENTER_CODE: null
-2FA_ENTER_CODE_OR_BACKUP_CODE: null
-2FA_ENTER_SECRET: null
+2FA_ENTER_BACKUP_CODE: Wpisz zamiast tego kod zapasowy
+2FA_ENTER_CODE: Wpisz szcześciocyfrowy kod uwierzytelniający 2FA po zeskanowaniu kodu QR
+2FA_ENTER_CODE_OR_BACKUP_CODE: Wpisz szcześciocyfrowy kod uwierzytelniający 2FA lub kod zapasowy
+2FA_ENTER_SECRET: 'Jakieś problemy ze skanowaniem? Wpisz ten klucz: {key}'
 2FA_HOW_TO_DISABLE: Jak wyłączyć 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Wpisz sześciocyfrowy kod, który został wygenerowany w aplikacji i wpisz go poniżej
 2FA_HOW_TO_DISABLE_STEP_2: Kliknij przycisk!
@@ -20,16 +20,16 @@
 2FA_HOW_TO_ENABLE_STEP_2: Za pomocą zainstalowanej aplikacji zeskanuj kod QR.
 2FA_HOW_TO_ENABLE_STEP_3: Następnie otrzymasz sześciocyfrowy kod. Wpisz go poniżej.
 2FA_HOW_TO_ENABLE_STEP_4: Kliknij przycisk!
-2FA_ISSUE: null
+2FA_ISSUE: Jakiś problem?
 2FA_MANAGE: Zarządzaj 2FA
-2FA_MODAL_DESC: null
-2FA_SUPPORT_HELP: null
+2FA_MODAL_DESC: Otwórz aplikacje 2FA i wpisz twój kod poniżej
+2FA_SUPPORT_HELP: Jeśli masz jakiekolwiek problemy z aktywacją, skontaktuj się z naszym wsparciem.
 ABOUT: Informacje
 ACCOUNT: Konto
 ACCOUNT_ALREADY_CREATED: Posiadasz już konto?
 ACCOUNT_CREATE: Stwórz konto
 ACCOUNT_CREATED: Konto zostało pomyślnie utworzone!
-ACCOUNT_ID: Nazwa użytkownika
+ACCOUNT_ID: Identyfikator konta
 ACCOUNT_SUCCESSFULLY_ACTIVATED: Twoje konto zostało pomyślnie aktywowane! Zaloguj się poniżej.
 ACCOUNT_VERIFICATION_LINK_ERROR: Wystąpił błąd. Zweryfikuj link aktywacyjny.
 ADMIN: Administracja
@@ -53,11 +53,11 @@ COUPON_NOT_VALID: Kupon {coupon} jest już nieważny lub został już użyty
 COUPON_NWC_ADDED: Dodano {coins} NWC do twojego konta.
 COUPON_PLACEHOLDER: Wpisz kod kuponu
 COUPON_REDEEM: Zrealizuj kupon
-COUPON_TUTORIAL_STEP1: null
-COUPON_TUTORIAL_STEP2: null
-COUPON_TUTORIAL_STEP3: null
-COUPON_TUTORIAL_STEP4: null
-COUPON_TUTORIAL_TITLE: null
+COUPON_TUTORIAL_STEP1: Kupony to kody, które można zrealizować aby otrzymać NWC lub przedmioty w grze
+COUPON_TUTORIAL_STEP2: Aby zrealizować kupon, wprowadź kod w poniższym polu
+COUPON_TUTORIAL_STEP3: Jeśli kupon posiada NWC, twoje konto zostanie bezpośrednio zasilone
+COUPON_TUTORIAL_STEP4: Jeśli kupon posiada przedmioty, zostaną one dodane do Twojego ekwipunku kuponów i będziesz mógł odebrać je w dowolnym momencie po wybraniu postaci.
+COUPON_TUTORIAL_TITLE: Co to są kupony i jak mogę je użyć?
 CUSTOMIZE: Spersonalizuj
 DISABLED: Wyłączone
 DISCONNECT: Odłącz
@@ -142,7 +142,7 @@ TERMS_OF_SERVICE: Warunki świadczenia usług
 UPDATE_BACKGROUND_DESC: Wybierz banner (domyślnie jest to pomarańczowy)
 UPDATE_BACKGROUND_TITLE: Zaktualizuj tło
 USERNAME: Nazwa użytkownika
-VERIFY: null
+VERIFY: Zweryfikuj
 WELCOME: Witamy w NosWings!
 WELCOME_BACK: Witamy z powrotem w NosWings!
 WELCOME_BACK_DESCRIPTION: Nie zapomnij dołączyć do naszego serwera {link}, aby śledzić nasze najnowsze wiadomości, aktualizacje i więcej!
