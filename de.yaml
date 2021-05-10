@@ -53,6 +53,11 @@ COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
 COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
 COUPON_PLACEHOLDER: Enter coupon's code
 COUPON_REDEEM: Redeem a coupon
+COUPON_TUTORIAL_STEP1: null
+COUPON_TUTORIAL_STEP2: null
+COUPON_TUTORIAL_STEP3: null
+COUPON_TUTORIAL_STEP4: null
+COUPON_TUTORIAL_TITLE: null
 CUSTOMIZE: Customize
 DISABLED: Disabled
 DISCONNECT: Disconnect

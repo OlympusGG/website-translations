@@ -53,6 +53,11 @@ COUPON_NOT_VALID: Kupón {coupon} není platný nebo byl již použit
 COUPON_NWC_ADDED: Množství {coins} NWC bylo přidáno na váš účet.
 COUPON_PLACEHOLDER: Vložte kód kupónu
 COUPON_REDEEM: Vyzvednout kupón
+COUPON_TUTORIAL_STEP1: null
+COUPON_TUTORIAL_STEP2: null
+COUPON_TUTORIAL_STEP3: null
+COUPON_TUTORIAL_STEP4: null
+COUPON_TUTORIAL_TITLE: null
 CUSTOMIZE: Přizpůsobit
 DISABLED: Zakázáno
 DISCONNECT: Odpojit se

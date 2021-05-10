@@ -53,6 +53,11 @@ COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
 COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
 COUPON_PLACEHOLDER: Enter coupon's code
 COUPON_REDEEM: Redeem a coupon
+COUPON_TUTORIAL_STEP1: Coupons are codes that you can redeem in order to get NWC or in-game items
+COUPON_TUTORIAL_STEP2: To claim, enter the code in the input below
+COUPON_TUTORIAL_STEP3: If the coupon has NWC, your account will be directly credited.
+COUPON_TUTORIAL_STEP4: If the coupon has items, your coupon will be added to your coupon inventory and you can redeem it at any time after choosing on which character you want to use it
+COUPON_TUTORIAL_TITLE: What are coupons and how can I claim them?
 CUSTOMIZE: Customize
 DISABLED: Disabled
 DISCONNECT: Disconnect

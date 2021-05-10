@@ -53,6 +53,11 @@ COUPON_NOT_VALID: Kupon {coupon} jest już nieważny lub został już użyty
 COUPON_NWC_ADDED: Dodano {coins} NWC do twojego konta.
 COUPON_PLACEHOLDER: Wpisz kod kuponu
 COUPON_REDEEM: Zrealizuj kupon
+COUPON_TUTORIAL_STEP1: null
+COUPON_TUTORIAL_STEP2: null
+COUPON_TUTORIAL_STEP3: null
+COUPON_TUTORIAL_STEP4: null
+COUPON_TUTORIAL_TITLE: null
 CUSTOMIZE: Spersonalizuj
 DISABLED: Wyłączone
 DISCONNECT: Odłącz
