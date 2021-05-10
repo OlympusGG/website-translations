@@ -8,7 +8,7 @@
 2FA_ENABLE: Włącz 2FA
 2FA_ENABLE_SUCCESS_MSG: Pomyślnie włączono 2FA
 2FA_ENTER_BACKUP_CODE: Wpisz zamiast tego kod zapasowy
-2FA_ENTER_CODE: Wpisz szcześciocyfrowy kod uwierzytelniający 2FA po zeskanowaniu kodu QR
+2FA_ENTER_CODE: Wpisz szcześciocyfrowy kod uwierzytelniający po zeskanowaniu kodu QR
 2FA_ENTER_CODE_OR_BACKUP_CODE: Wpisz szcześciocyfrowy kod uwierzytelniający 2FA lub kod zapasowy
 2FA_ENTER_SECRET: 'Jakieś problemy ze skanowaniem? Wpisz ten klucz: {key}'
 2FA_HOW_TO_DISABLE: Jak wyłączyć 2FA?
