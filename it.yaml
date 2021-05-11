@@ -18,41 +18,41 @@
 2FA_HOW_TO_ENABLE: How to enable 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Download an 2FA Authenticator App
 2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
-2FA_HOW_TO_ENABLE_STEP_3: You will have a 6 digits code. Enter it below.
-2FA_HOW_TO_ENABLE_STEP_4: Click on the button!
+2FA_HOW_TO_ENABLE_STEP_3: Riceverai un codice a 6 cifre. Inseriscilo qui sotto.
+2FA_HOW_TO_ENABLE_STEP_4: Clicca sul pulsante!
 2FA_ISSUE: null
 2FA_MANAGE: Manage 2FA
 2FA_MODAL_DESC: null
 2FA_SUPPORT_HELP: null
 ABOUT: About
 ACCOUNT: Account
-ACCOUNT_ALREADY_CREATED: Already have an account?
-ACCOUNT_CREATE: Create an account
-ACCOUNT_CREATED: Account created!
+ACCOUNT_ALREADY_CREATED: Hai già un account?
+ACCOUNT_CREATE: Crea un account
+ACCOUNT_CREATED: Account creato!
 ACCOUNT_ID: Account ID
 ACCOUNT_SUCCESSFULLY_ACTIVATED: Your account has been successfully activated! Login below.
 ACCOUNT_VERIFICATION_LINK_ERROR: An error occurred. Please verify your activation link.
 ADMIN: Administration
 AGREE_TO_TOS_AND_PP: I agree to {tos} and {pp}
-ALL_RIGHTS_RESERVED: All rights reserved
+ALL_RIGHTS_RESERVED: Tutti i diritti riservati
 AMOUNT: Amount
-ARE_YOU_NEW: Are you new?
+ARE_YOU_NEW: Sei nuovo?
 AUTHORITY: Authority
 BACK_TO_LOGIN: Back to login
-BUY_NWC: Buy NWC
+BUY_NWC: Compra NWC
 CHARACTERS: Characters
-CONNECT: Connect
+CONNECT: Connetti
 CONNECTIONS: Connections
 COPYRIGHT: Copyright
 COUPON_ADDED: The coupon {coupon} has been added to your coupon inventory.
-COUPON_CLAIM: Claim a coupon
+COUPON_CLAIM: Richiedi un coupon
 COUPON_CLAIM_NOTHING: You have no coupons available
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Coupon Inventory
-COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
+COUPON_NOT_VALID: Il coupon {coupon} non è valido o è già stato utilizzato
 COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
 COUPON_PLACEHOLDER: Enter coupon's code
-COUPON_REDEEM: Redeem a coupon
+COUPON_REDEEM: Riscatta un coupon
 COUPON_TUTORIAL_STEP1: null
 COUPON_TUTORIAL_STEP2: null
 COUPON_TUTORIAL_STEP3: null
@@ -60,30 +60,30 @@ COUPON_TUTORIAL_STEP4: null
 COUPON_TUTORIAL_TITLE: null
 CUSTOMIZE: Customize
 DISABLED: Disabled
-DISCONNECT: Disconnect
+DISCONNECT: Disconnetti
 DOWNLOAD_LAUNCHER: Download Launcher
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x86 version
 DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
-DOWNLOAD_LAUNCHER_x64_VERSION: Download x64 version
-DOWNLOAD_LAUNCHER_x86_VERSION: Download x86 version
+DOWNLOAD_LAUNCHER_x64_VERSION: Download versione x64
+DOWNLOAD_LAUNCHER_x86_VERSION: Download versione x86
 EMAIL:
-  CONFIRM_NEW: Confirm new email
-  CURRENT: Current email
-  NEW: New email
+  CONFIRM_NEW: Conferma nuova email
+  CURRENT: Email attuale
+  NEW: Nuova email
   TITLE: Email
   UPDATE: Update Email
 ENABLED: Enabled
 GAME_ACCOUNTS: Game Accounts
 GENERAL: General
 HOME: Home
-LANGUAGE_CZ: Czech
-LANGUAGE_DE: German
-LANGUAGE_EN: English
-LANGUAGE_ES: Spanish
-LANGUAGE_FR: French
-LANGUAGE_IT: Italian
-LANGUAGE_PL: Polish
-LANGUAGE_TR: Turkish
+LANGUAGE_CZ: Ceco
+LANGUAGE_DE: Tedesco
+LANGUAGE_EN: Inglese
+LANGUAGE_ES: Spagnolo
+LANGUAGE_FR: Francese
+LANGUAGE_IT: Italiano
+LANGUAGE_PL: Polacco
+LANGUAGE_TR: Turco
 LOGIN: Login
 LOGOUT: Logout
 LOGS: Logs
@@ -94,48 +94,48 @@ NO_RECORDS_FOUND: No records found
 NUMBER_OF_CHARACTERS: Number of characters
 PAGINATION_TOTAL_COUNT: Showing from {min} to {max} of {total} entries
 PASSWORD:
-  CONFIRM: Confirm password
-  CONFIRM_NEW: Confirm new password
+  CONFIRM: Conferma password
+  CONFIRM_NEW: Conferma nuova password
   CURRENT: Current password
-  FORGOT: Forgot password?
-  FORGOT_INSTRUCTIONS: Enter your email and we will send you instructions to reset your password
-  NEW: New password
+  FORGOT: Password dimenticata?
+  FORGOT_INSTRUCTIONS: Inserisci la tua email e ti invieremo le istruzioni per resettare la tua password
+  NEW: Nuova password
   TITLE: Password
   UPDATE: Update password
 PRIVACY_POLICY: Privacy Policy
-PROFILE: Profile
-PROFILE_SECTION_TITLE: My profile
+PROFILE: Profilo
+PROFILE_SECTION_TITLE: Il mio profilo
 PURCHASE: Purchase
 PURCHASE_ERRORS_AMOUNT: Please select an amount.
-PURCHASE_ERRORS_UNDEFINED: An error occurred.
+PURCHASE_ERRORS_UNDEFINED: Si è verificato un errore.
 PURCHASE_LEAVE_MESSAGE: Don't leave the page.
 PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} NWC to your account.
 PURCHASE_TOS_MESSAGE: By purchasing, you have read and agreed to our {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verifying the current transaction...
-REDEEM: Redeem
+REDEEM: Riscatta
 REFRESH_DATA: Refresh data
 REGISTER: Register
 RESET: Reset
-SAVE: Save
-SAVE_CHANGES: Save changes
-SECURITY: Security
+SAVE: Salva
+SAVE_CHANGES: Salva modifiche
+SECURITY: Sicurezza
 SELECT_NWC_AMOUNT: Select NWC amount
-SELECT_PURCHASE_METHOD: Select purchase method
+SELECT_PURCHASE_METHOD: Seleziona metodo di pagamento
 SEND_RESET_LINK: Send reset link
-SESSION_EXPIRED: Your session has expired. Please login again.
-SETTINGS: Settings
+SESSION_EXPIRED: La tua sessione è scaduta. Perfavore effettua il login.
+SETTINGS: Impostazioni
 SHOP: Shop
 SHOP_FILTERS: Filters
-SHOP_FILTERS_CATEGORIES: Categories
-SHOP_FILTERS_PRICE: Price
-SHOP_FILTERS_SEARCH: Search
+SHOP_FILTERS_CATEGORIES: Categorie
+SHOP_FILTERS_PRICE: Prezzo
+SHOP_FILTERS_SEARCH: Cerca
 SHOP_FILTERS_SEARCH_PLACEHOLDER: Enter item name
 SHOP_FILTERS_SORT_BY: Sort by
-SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alphabetical (A-Z)
-SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alphabetical (Z-A)
-SHOP_FILTERS_SORT_BY_PRICE_ASC: Price (ascending)
-SHOP_FILTERS_SORT_BY_PRICE_DESC: Price (descending)
-SHOP_RESET_FILTERS: Reset filters
+SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alfabetico (A-Z)
+SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetico (Z-A)
+SHOP_FILTERS_SORT_BY_PRICE_ASC: Prezzo (crescente)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Prezzo (decrescente)
+SHOP_RESET_FILTERS: Resetta filtri
 SHOP_SECTION_TITLE: NosWings Shop
 STAY_LOGGED_IN: Stay logged in?
 TERMS_OF_SERVICE: Terms of Service
@@ -143,7 +143,7 @@ UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
 UPDATE_BACKGROUND_TITLE: Update background
 USERNAME: Username
 VERIFY: null
-WELCOME: Welcome to NosWings!
-WELCOME_BACK: Welcome back to NosWings!
+WELCOME: Benvenuto in NosWings!
+WELCOME_BACK: Bentornato in NosWings!
 WELCOME_BACK_DESCRIPTION: Don't forget to join our {link} server to be aware of our latest news, updates and more!
 YOUR_CHARACTERS: Your characters
