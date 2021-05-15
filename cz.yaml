@@ -65,7 +65,7 @@ DOWNLOAD_LAUNCHER: Stáhnout Launcher
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: Pokud nemáte představu kterou zvolit, stáhněte si verzi x64
 DOWNLOAD_LAUNCHER_VERSION: Stáhnout Launcher NosWings (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Stáhnout verzi x64
-DOWNLOAD_LAUNCHER_x86_VERSION: Stáhnout verzi x84
+DOWNLOAD_LAUNCHER_x86_VERSION: Stáhnout verzi x86
 EMAIL:
   CONFIRM_NEW: Potvrdit nový e-mail
   CURRENT: Současný e-mail
