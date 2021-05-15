@@ -53,11 +53,11 @@ COUPON_NOT_VALID: Kupón {coupon} není platný nebo byl již použit
 COUPON_NWC_ADDED: Množství {coins} NWC bylo přidáno na váš účet.
 COUPON_PLACEHOLDER: Vložte kód kupónu
 COUPON_REDEEM: Vyzvednout kupón
-COUPON_TUTORIAL_STEP1: null
-COUPON_TUTORIAL_STEP2: null
-COUPON_TUTORIAL_STEP3: null
-COUPON_TUTORIAL_STEP4: null
-COUPON_TUTORIAL_TITLE: null
+COUPON_TUTORIAL_STEP1: Kupóny jsou speciální kódy, které se se dají vyzvednout k získání NWC a předmětů ve hře.
+COUPON_TUTORIAL_STEP2: Pro vyzvednutí kupónu zadej kód níže.
+COUPON_TUTORIAL_STEP3: Pokud to byl kupón na NWC, budou okamžitě přičteny na tvůj účet.
+COUPON_TUTORIAL_STEP4: Pokud to byl kupón na předměty, přidá se do inventáře na kupóny. Zde může být následně kdykoliv vyzvednut potom, co zvolíte postavu, na kterou mají předměty přijít.
+COUPON_TUTORIAL_TITLE: Co jsou kupóny a jak je vyzvednout?
 CUSTOMIZE: Přizpůsobit
 DISABLED: Zakázáno
 DISCONNECT: Odpojit se
@@ -87,7 +87,7 @@ LANGUAGE_TR: Turecky
 LOGIN: Přihlášení
 LOGOUT: Odhlášení
 LOGS: Záznamy
-LOGS_COUPON: null
+LOGS_COUPON: Záznamy o kupónech
 LOGS_DONATION: Záznamy o darech
 LOGS_SHOP: Záznamy z obchodu
 NO_RECORDS_FOUND: Nebyly nalezeny žádné záznamy
