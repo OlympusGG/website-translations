@@ -1,149 +1,149 @@
-2FA:
-2FA_BACKUP_CODES_MSG:
-2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG:
-2FA_BACKUP_CODE_WARNING_MSG:
-2FA_CODE:
-2FA_DISABLE:
-2FA_DISABLE_SUCCESS_MSG:
-2FA_ENABLE:
-2FA_ENABLE_SUCCESS_MSG:
-2FA_ENTER_BACKUP_CODE:
-2FA_ENTER_CODE:
-2FA_ENTER_CODE_OR_BACKUP_CODE:
-2FA_ENTER_SECRET:
-2FA_HOW_TO_DISABLE:
-2FA_HOW_TO_DISABLE_STEP_1:
-2FA_HOW_TO_DISABLE_STEP_2:
-2FA_HOW_TO_DISABLE_STEP_3:
-2FA_HOW_TO_ENABLE:
-2FA_HOW_TO_ENABLE_STEP_1:
-2FA_HOW_TO_ENABLE_STEP_2:
-2FA_HOW_TO_ENABLE_STEP_3:
-2FA_HOW_TO_ENABLE_STEP_4:
-2FA_ISSUE:
-2FA_MANAGE:
-2FA_MODAL_DESC:
-2FA_SUPPORT_HELP:
-ABOUT:
-ACCOUNT:
-ACCOUNT_ALREADY_CREATED:
-ACCOUNT_CREATE:
-ACCOUNT_CREATED:
-ACCOUNT_ID:
-ACCOUNT_SUCCESSFULLY_ACTIVATED:
-ACCOUNT_VERIFICATION_LINK_ERROR:
-ADMIN:
-AGREE_TO_TOS_AND_PP:
-ALL_RIGHTS_RESERVED:
-AMOUNT:
-ARE_YOU_NEW:
-AUTHORITY:
-BACK_TO_LOGIN:
-BUY_NWC:
-CHARACTERS:
-CONNECT:
-CONNECTIONS:
-COPYRIGHT:
-COUPON_ADDED:
-COUPON_CLAIM:
-COUPON_CLAIM_NOTHING:
-COUPON_INFORMATION:
-COUPON_NOT_VALID:
-COUPON_NWC_ADDED:
-COUPON_INVENTORY:
-COUPON_PLACEHOLDER:
-COUPON_REDEEM:
-COUPON_TUTORIAL_STEP1:
-COUPON_TUTORIAL_STEP2:
-COUPON_TUTORIAL_STEP3:
-COUPON_TUTORIAL_STEP4:
-COUPON_TUTORIAL_TITLE:
-CUSTOMIZE:
-DISABLED:
-DISCONNECT:
-DOWNLOAD_LAUNCHER:
-DOWNLOAD_LAUNCHER_VERSION:
-DOWNLOAD_LAUNCHER_x64_VERSION:
-DOWNLOAD_LAUNCHER_x86_VERSION:
-DOWNLOAD_LAUNCHER_INFO_MESSAGE:
+2FA: Autenticación a dos pasos
+2FA_BACKUP_CODES_MSG: Aquí tus códigos de seguridad. ¡Guárdalos en un lugar seguro!
+2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Descarga los códigos de seguridad
+2FA_BACKUP_CODE_WARNING_MSG: Cada código se puede utilizar solo una vez.
+2FA_CODE: Código
+2FA_DISABLE: Deshabilitar 2FA
+2FA_DISABLE_SUCCESS_MSG: 2FA ha sido deshabilitado con éxito
+2FA_ENABLE: Habilitar 2FA
+2FA_ENABLE_SUCCESS_MSG: 2FA ha sido habilitado con éxito
+2FA_ENTER_BACKUP_CODE: Ingresa un código de respaldo en su lugar
+2FA_ENTER_CODE: Ingresa el código de autenticación 2FA de 6 dígitos después de escanear el código QR
+2FA_ENTER_CODE_OR_BACKUP_CODE: Ingresa el código de autenticación 2FA de 6 dígitos o un código de respaldo
+2FA_ENTER_SECRET: '¿Algún problema con el escaneo? Ingresa esta clave: {key}'
+2FA_HOW_TO_DISABLE: ¿Cómo deshabilitar 2FA?
+2FA_HOW_TO_DISABLE_STEP_1: Obtén el código de 6 dígitos en la aplicación que utilizaste para habilitar 2FA e ingrésalo a continuación
+2FA_HOW_TO_DISABLE_STEP_2: ¡Haz clic en el botón!
+2FA_HOW_TO_DISABLE_STEP_3: 
+2FA_HOW_TO_ENABLE: ¿Cómo habilitar 2FA?
+2FA_HOW_TO_ENABLE_STEP_1: Descarga una aplicación de autenticación 2FA
+2FA_HOW_TO_ENABLE_STEP_2: Escanea el código QR usando la aplicación descargada previamente.
+2FA_HOW_TO_ENABLE_STEP_3: Tendrás un código de 6 dígitos. Ingrésalo abajo.
+2FA_HOW_TO_ENABLE_STEP_4: ¡Haz clic en el botón!
+2FA_ISSUE: ¿Algún problema?
+2FA_MANAGE: Administrar 2FA
+2FA_MODAL_DESC: Abre tu aplicación 2FA y ingresa tu código a continuación
+2FA_SUPPORT_HELP: Si aún tienes problemas, comuníquese con nuestro soporte.
+ABOUT: Acerca de
+ACCOUNT: Cuenta
+ACCOUNT_ALREADY_CREATED: ¿Ya tienes una cuenta?
+ACCOUNT_CREATE: Crea una cuenta
+ACCOUNT_CREATED: ¡Cuenta creada!
+ACCOUNT_ID: ID de la cuenta
+ACCOUNT_SUCCESSFULLY_ACTIVATED: ¡Tu cuenta se ha activado correctamente! Inicia sesión a continuación.
+ACCOUNT_VERIFICATION_LINK_ERROR: se ha producido un error. Verifica tu enlace de activación.
+ADMIN: Administración
+AGREE_TO_TOS_AND_PP: Acepto los {tos} y {pp}
+ALL_RIGHTS_RESERVED: Todos los derechos reservados
+AMOUNT: Cantidad
+ARE_YOU_NEW: ¿Eres nuevo?
+AUTHORITY: Autoridad
+BACK_TO_LOGIN: Vuelve al inicio de sesión
+BUY_NWC: Compra NWC
+CHARACTERS: Personajes
+CONNECT: Conectar
+CONNECTIONS: Conexiones
+COPYRIGHT: Copyright
+COUPON_ADDED: el cupón {coupon} se ha agregado a tu inventario de cupones.
+COUPON_CLAIM: reclamar un cupón
+COUPON_CLAIM_NOTHING: No tienes cupones disponibles
+COUPON_INFORMATION: null
+COUPON_NOT_VALID: El cupón {coupon} no es válido o ya se ha utilizado
+COUPON_NWC_ADDED: Se ha agregado la cantidad de {coins} en tu cuenta
+COUPON_INVENTORY: Inventario de cupones
+COUPON_PLACEHOLDER: Ingresa el código del cupón
+COUPON_REDEEM: Canjear un cupón
+COUPON_TUTORIAL_STEP1: Los cupones son códigos que puedes canjear para obtener NWC o artículos del juego
+COUPON_TUTORIAL_STEP2: Para reclamar, ingresa el código a continuación
+COUPON_TUTORIAL_STEP3: Si el cupón tiene NWC, tu cuenta se acreditará directamente.
+COUPON_TUTORIAL_STEP4: Si el cupón tiene artículos, tu cupón se agregará a tu inventario de cupones y podrás canjearlo en cualquier momento después de elegir el personaje que deseas usar.
+COUPON_TUTORIAL_TITLE: ¿Qué son los cupones y cómo puedo reclamarlos?
+CUSTOMIZE: Personalizar
+DISABLED: Deshabilitar
+DISCONNECT: Desconectar
+DOWNLOAD_LAUNCHER: Descargar Launcher
+DOWNLOAD_LAUNCHER_VERSION: Descargar NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_x64_VERSION: Descargar la versión x64
+DOWNLOAD_LAUNCHER_x86_VERSION: Descargar la versión x86
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si no tienes idea de tu arquitectura, descarga la versión x64
 EMAIL:
-  CONFIRM_NEW:
-  CURRENT:
-  NEW:
-  TITLE:
-  UPDATE:
-ENABLED:
-GAME_ACCOUNTS:
-GENERAL:
-HOME:
-LANGUAGE_CZ:
-LANGUAGE_DE:
-LANGUAGE_EN:
-LANGUAGE_ES:
-LANGUAGE_FR:
-LANGUAGE_IT:
-LANGUAGE_PL:
-LANGUAGE_TR:
-LOGIN:
-LOGOUT:
-LOGS:
-LOGS_COUPON:
-LOGS_DONATION:
-LOGS_SHOP:
-NO_RECORDS_FOUND:
-NUMBER_OF_CHARACTERS:
-PAGINATION_TOTAL_COUNT:
+  CONFIRM_NEW: Confirma el nuevo correo electrónico
+  CURRENT: Correo electrónico actual
+  NEW: Nuevo correo electrónico
+  TITLE: Correo electrónico
+  UPDATE: Actualizar correo electrónico
+ENABLED: Habilitado
+GAME_ACCOUNTS: Cuentas de juego
+GENERAL: General
+HOME: Inicio
+LANGUAGE_CZ: Checo
+LANGUAGE_DE: Alemán
+LANGUAGE_EN: Inglés
+LANGUAGE_ES: Español
+LANGUAGE_FR: Francés
+LANGUAGE_IT: Italiano
+LANGUAGE_PL: Polaco
+LANGUAGE_TR: Turco
+LOGIN: Iniciar sesión
+LOGOUT: Cerrar sesión
+LOGS: Registros
+LOGS_COUPON: Registro de cupones
+LOGS_DONATION: Registro de donaciones
+LOGS_SHOP: Registro de la tienda
+NO_RECORDS_FOUND: No se han encontrado registros
+NUMBER_OF_CHARACTERS: Numero de caracteres
+PAGINATION_TOTAL_COUNT: Mostrando de {min} a {max} de {total} entradas
 PASSWORD:
-  CONFIRM:
-  CONFIRM_NEW:
-  CURRENT:
-  FORGOT:
-  FORGOT_INSTRUCTIONS:
-  NEW:
-  TITLE:
-  UPDATE:
-PRIVACY_POLICY:
-PURCHASE:
-PURCHASE_ERRORS_UNDEFINED:
-PURCHASE_ERRORS_AMOUNT:
-PURCHASE_LEAVE_MESSAGE:
-PURCHASE_SUCCESS:
-PURCHASE_TOS_MESSAGE:
-PURCHASE_VERIFYING_TRANSACTION_MESSAGE:
-PROFILE:
-PROFILE_SECTION_TITLE:
-REDEEM:
-REFRESH_DATA:
-REGISTER:
-RESET:
-SAVE:
-SAVE_CHANGES:
-SELECT_NWC_AMOUNT:
-SELECT_PURCHASE_METHOD:
-SEND_RESET_LINK:
-SECURITY:
-SESSION_EXPIRED:
-SETTINGS:
-SHOP:
-SHOP_FILTERS:
-SHOP_FILTERS_CATEGORIES:
-SHOP_FILTERS_PRICE:
-SHOP_FILTERS_SEARCH:
-SHOP_FILTERS_SEARCH_PLACEHOLDER:
-SHOP_FILTERS_SORT_BY:
-SHOP_FILTERS_SORT_BY_ALPHA_ASC:
-SHOP_FILTERS_SORT_BY_ALPHA_DESC:
-SHOP_FILTERS_SORT_BY_PRICE_ASC:
-SHOP_FILTERS_SORT_BY_PRICE_DESC:
-SHOP_RESET_FILTERS:
-STAY_LOGGED_IN:
-TERMS_OF_SERVICE:
-USERNAME:
-SHOP_SECTION_TITLE:
-UPDATE_BACKGROUND_TITLE:
-UPDATE_BACKGROUND_DESC:
-VERIFY:
-WELCOME:
-WELCOME_BACK:
-WELCOME_BACK_DESCRIPTION:
-YOUR_CHARACTERS:
+  CONFIRM: Confirmar la contraseña
+  CONFIRM_NEW: Confirmar la nueva contraseña
+  CURRENT: Contraseña actual
+  FORGOT: ¿Has olvidado la contraseña?
+  FORGOT_INSTRUCTIONS: Introduce tu correo electrónico y te enviaremos instrucciones para restablecer tu contraseña
+  NEW: Nueva contraseña
+  TITLE: Contraseña
+  UPDATE: Actualizar contraseña
+PRIVACY_POLICY: Politíca de privacidad
+PURCHASE: Comprar
+PURCHASE_ERRORS_UNDEFINED: Ha ocurrido un error
+PURCHASE_ERRORS_AMOUNT: Por favor, selecciona una cantidad
+PURCHASE_LEAVE_MESSAGE: No abandones la página web
+PURCHASE_SUCCESS: Gracias por tu compra! Hemos añadido {amount} NWC a tu cuenta
+PURCHASE_TOS_MESSAGE: Al comprar, has leido y aceptado nuestro {toslink}
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verificando la transacción actual...
+PROFILE: Perfil
+PROFILE_SECTION_TITLE: Mi perfil
+REDEEM: Canjear
+REFRESH_DATA: Actualizar datos
+REGISTER: Registro
+RESET: Reiniciar
+SAVE: Guardar
+SAVE_CHANGES: Guardar cambios
+SELECT_NWC_AMOUNT: Selecciona la cantidad de NWC
+SELECT_PURCHASE_METHOD: Selecciona el metodo de pago
+SEND_RESET_LINK: Enviar enlace de restablecer
+SECURITY: Seguridad
+SESSION_EXPIRED: Tu sesión ha caducado. Ingresa nuevamente.
+SETTINGS: Ajustes
+SHOP: Tienda
+SHOP_FILTERS: Filtros
+SHOP_FILTERS_CATEGORIES: Categorías
+SHOP_FILTERS_PRICE: Precio
+SHOP_FILTERS_SEARCH: Buscar
+SHOP_FILTERS_SEARCH_PLACEHOLDER: Introduce el nombre del articulo
+SHOP_FILTERS_SORT_BY: Ordenar por
+SHOP_FILTERS_SORT_BY_ALPHA_ASC: Alfabético (A-Z)
+SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetico (Z-A)
+SHOP_FILTERS_SORT_BY_PRICE_ASC: Precio (ascendente)
+SHOP_FILTERS_SORT_BY_PRICE_DESC: Precio (descendente)
+SHOP_RESET_FILTERS: Restablecer filtros
+STAY_LOGGED_IN: ¿Permanecer conectado?
+TERMS_OF_SERVICE: Términos de servicio
+USERNAME: Nombre de usuario
+SHOP_SECTION_TITLE: Tienda NosWings
+UPDATE_BACKGROUND_TITLE: Actualizar fondo
+UPDATE_BACKGROUND_DESC: Elige un fondo (naranja por defecto)
+VERIFY: Verificar
+WELCOME: Bienvenido a NosWings!
+WELCOME_BACK: Bienvenido de nuevo a NosWings!
+WELCOME_BACK_DESCRIPTION: ¡No olvides unirte a nuestro servidor {link} para estar al tanto de nuestras últimas noticias, actualizaciones y más!
+YOUR_CHARACTERS: Tus personajes
