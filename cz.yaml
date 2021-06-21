@@ -1,29 +1,29 @@
-2FA: null
-2FA_BACKUP_CODES_MSG: null
-2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: null
-2FA_BACKUP_CODE_WARNING_MSG: null
+2FA: Dvoufaktorové (2FA) ověření
+2FA_BACKUP_CODES_MSG: Zde jsou záložní kódy, ulož je na bezpečné místo!
+2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Stáhnout záložní kódy
+2FA_BACKUP_CODE_WARNING_MSG: Každý kód může být použit pouze jednou
 2FA_CODE: Kód
 2FA_DISABLE: Zakázat 2FA
 2FA_DISABLE_SUCCESS_MSG: 2FA bylo úspěšně zakázáno
 2FA_ENABLE: Povolit 2FA
 2FA_ENABLE_SUCCESS_MSG: 2FA bylo úspěšně povoleno
-2FA_ENTER_BACKUP_CODE: null
-2FA_ENTER_CODE: null
-2FA_ENTER_CODE_OR_BACKUP_CODE: null
-2FA_ENTER_SECRET: null
+2FA_ENTER_BACKUP_CODE: Zadejte záložní kód
+2FA_ENTER_CODE: Po naskenování QR kódu zadejte 6-místný ověřovací kód 2FA
+2FA_ENTER_CODE_OR_BACKUP_CODE: Zadejte 6-místný ověřovací kód 2FA nebo záložní kód
+2FA_ENTER_SECRET: 'Problém s naskenováním? Zadejte tento klíč: {key}'
 2FA_HOW_TO_DISABLE: Jak zakázat 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Použijte šesti-místný kód z aplikace, kterou jste použili k povolení 2FA a zadejte jej níže.
 2FA_HOW_TO_DISABLE_STEP_2: Klikněte na tlačítko!
-2FA_HOW_TO_DISABLE_STEP_3: Chcete-li kód znovu naskenovat, odstraňte v aplikaci klíč NosWings:VašeUživateslkéJméno.
+2FA_HOW_TO_DISABLE_STEP_3: Chcete-li kód znovu naskenovat, odstraňte v aplikaci klíč NosWings:UživatelskéJméno
 2FA_HOW_TO_ENABLE: Jak povolit 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Stáhněte si 2FA ověřovací aplikaci.
 2FA_HOW_TO_ENABLE_STEP_2: Naskenujte QR kód s použitím předešle stažené aplikace.
 2FA_HOW_TO_ENABLE_STEP_3: Budete mít šesti-místný kód. Níže jej musíte vložit.
 2FA_HOW_TO_ENABLE_STEP_4: Klikněte na tlačítko!
-2FA_ISSUE: null
+2FA_ISSUE: Vyskytl se problém?
 2FA_MANAGE: Spravovat 2FA
-2FA_MODAL_DESC: null
-2FA_SUPPORT_HELP: null
+2FA_MODAL_DESC: Otevřete aplikaci: Two Factor Auth (2FA) a níže zadejte svůj kód
+2FA_SUPPORT_HELP: Pokud se stále vyskytuje nějaký problém, prosím kontaktujte support
 ABOUT: Informace o
 ACCOUNT: Účet
 ACCOUNT_ALREADY_CREATED: Již máte založený účet?
@@ -53,11 +53,11 @@ COUPON_NOT_VALID: Kupón {coupon} není platný nebo byl již použit
 COUPON_NWC_ADDED: Množství {coins} NWC bylo přidáno na váš účet.
 COUPON_PLACEHOLDER: Vložte kód kupónu
 COUPON_REDEEM: Vyzvednout kupón
-COUPON_TUTORIAL_STEP1: null
-COUPON_TUTORIAL_STEP2: null
-COUPON_TUTORIAL_STEP3: null
-COUPON_TUTORIAL_STEP4: null
-COUPON_TUTORIAL_TITLE: null
+COUPON_TUTORIAL_STEP1: Kupóny jsou speciální kódy, které se se dají vyzvednout k získání NWC a předmětů ve hře.
+COUPON_TUTORIAL_STEP2: Pro vyzvednutí kupónu zadej kód níže.
+COUPON_TUTORIAL_STEP3: Pokud to byl kupón na NWC, budou okamžitě přičteny na tvůj účet.
+COUPON_TUTORIAL_STEP4: Pokud to byl kupón na předměty, přidá se do inventáře na kupóny. Zde může být následně kdykoliv vyzvednut potom, co zvolíte postavu, na kterou mají předměty přijít.
+COUPON_TUTORIAL_TITLE: Co jsou kupóny a jak je vyzvednout?
 CUSTOMIZE: Přizpůsobit
 DISABLED: Zakázáno
 DISCONNECT: Odpojit se
@@ -65,7 +65,7 @@ DOWNLOAD_LAUNCHER: Stáhnout Launcher
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: Pokud nemáte představu kterou zvolit, stáhněte si verzi x64
 DOWNLOAD_LAUNCHER_VERSION: Stáhnout Launcher NosWings (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Stáhnout verzi x64
-DOWNLOAD_LAUNCHER_x86_VERSION: Stáhnout verzi x84
+DOWNLOAD_LAUNCHER_x86_VERSION: Stáhnout verzi x86
 EMAIL:
   CONFIRM_NEW: Potvrdit nový e-mail
   CURRENT: Současný e-mail
@@ -87,7 +87,7 @@ LANGUAGE_TR: Turecky
 LOGIN: Přihlášení
 LOGOUT: Odhlášení
 LOGS: Záznamy
-LOGS_COUPON: null
+LOGS_COUPON: Záznamy o kupónech
 LOGS_DONATION: Záznamy o darech
 LOGS_SHOP: Záznamy z obchodu
 NO_RECORDS_FOUND: Nebyly nalezeny žádné záznamy
@@ -110,7 +110,7 @@ PURCHASE_ERRORS_AMOUNT: Prosím vyberte množství.
 PURCHASE_ERRORS_UNDEFINED: Vyskytla se chyba.
 PURCHASE_LEAVE_MESSAGE: Neopouštějte stránku.
 PURCHASE_SUCCESS: Děkujeme za vaši koupi! Na váš účet přistálo {amount} NWC.
-PURCHASE_TOS_MESSAGE: Zakoupením jste si přečetli a souhlasili s našimi {toslink}.
+PURCHASE_TOS_MESSAGE: Zakoupením jste si přečetli a souhlasíte s: {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Ověřuji současnou transakci...
 REDEEM: Vyzvednout
 REFRESH_DATA: Obnovit data
@@ -142,7 +142,7 @@ TERMS_OF_SERVICE: Podmínky služby
 UPDATE_BACKGROUND_DESC: Vybrat banner (základním je oranžový)
 UPDATE_BACKGROUND_TITLE: Aktualizovat pozadí
 USERNAME: Uživatelské jméno
-VERIFY: null
+VERIFY: Ověření
 WELCOME: Vítejte v NosWings!
 WELCOME_BACK: Vítejte zpátky v NosWings!
 WELCOME_BACK_DESCRIPTION: Nezapomeňte se připojit k našemu serveru {link}, aby vám neunikla žádná novinka!
