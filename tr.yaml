@@ -53,6 +53,11 @@ COUPON_NOT_VALID: '{coupon} kuponu geçerli değil veya daha önce kullanıldı.
 COUPON_NWC_ADDED: '{coins}NWC hesabına eklendi.'
 COUPON_PLACEHOLDER: Kupon kodunu gir
 COUPON_REDEEM: Kuponu kullan
+COUPON_TUTORIAL_STEP1: null
+COUPON_TUTORIAL_STEP2: null
+COUPON_TUTORIAL_STEP3: null
+COUPON_TUTORIAL_STEP4: null
+COUPON_TUTORIAL_TITLE: null
 CUSTOMIZE: Özelleştir
 DISABLED: Devre dışı
 DISCONNECT: Bağlantıyı kes
@@ -82,6 +87,7 @@ LANGUAGE_TR: Türkçe
 LOGIN: Giriş
 LOGOUT: Çıkış
 LOGS: Kayıtlar
+LOGS_COUPON: null
 LOGS_DONATION: Ödeme Kayıtları
 LOGS_SHOP: Dükkan Kayıtları
 NO_RECORDS_FOUND: Kayıt bulunamadı

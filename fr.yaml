@@ -39,7 +39,7 @@ AMOUNT: Quantité
 ARE_YOU_NEW: Êtes-vous nouveau?
 AUTHORITY: Rôle
 BACK_TO_LOGIN: Retour à la page de connexion
-BUY_NWC: Acheter des NWC
+BUY_NWC: Achat de NWC
 CHARACTERS: Personnages
 CONNECT: Connecter
 CONNECTIONS: Connexions
@@ -53,12 +53,17 @@ COUPON_NOT_VALID: Le coupon {coupon} n'est pas valide ou à déjà été utilis�
 COUPON_NWC_ADDED: Un montant de {coins} NWC ont été ajoutés à votre compte.
 COUPON_PLACEHOLDER: Entrez le code du coupon
 COUPON_REDEEM: Utiliser un coupon
+COUPON_TUTORIAL_STEP1: Les coupons sont des codes utilisables qui donnent des NWC ou des items in-game.
+COUPON_TUTORIAL_STEP2: Pour les utiliser, entrez le code ci-dessous
+COUPON_TUTORIAL_STEP3: Si votre coupon contient des NWC, votre compte sera directement crédité
+COUPON_TUTORIAL_STEP4: Si votre coupon contient des items, il sera ajouté à votre inventaire de coupons et vous pouvez l'utiliser après avoir choisi le personnage sur lequel vous voulez récupérer vos objets.
+COUPON_TUTORIAL_TITLE: Qu'est-ce que les coupons et comment les utiliser ?
 CUSTOMIZE: Personnaliser
 DISABLED: Désactivé
 DISCONNECT: Se déconnecter
 DOWNLOAD_LAUNCHER: Télécharger le launcher
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x64
-DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_VERSION: Téléchargez le client du jeu (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Téléchargez la version x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Téléchargez la version x86
 EMAIL:
@@ -82,6 +87,7 @@ LANGUAGE_TR: Turc
 LOGIN: Se connecter
 LOGOUT: Se déconnecter
 LOGS: Historique
+LOGS_COUPON: Coupons
 LOGS_DONATION: Donations
 LOGS_SHOP: Achats
 NO_RECORDS_FOUND: Aucun résultat trouvé.
