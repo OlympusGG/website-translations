@@ -50,7 +50,7 @@ COUPON_CLAIM_NOTHING: Non hai coupons disponibili
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Inventario Coupons
 COUPON_NOT_VALID: Il coupon {coupon} non è valido o è già stato usato
-COUPON_NWC_ADDED:  {coins} NWC sono stati aggiunti al tuo account.
+COUPON_NWC_ADDED: "{coins} NWC sono stati aggiunti al tuo account."
 COUPON_PLACEHOLDER: Inserisci il codice coupon
 COUPON_REDEEM: Riscatta un coupon
 COUPON_TUTORIAL_STEP1: I coupons sono codici riscattabili che ti permettono di ottenere NWC o item in gioco
@@ -139,7 +139,7 @@ SHOP_RESET_FILTERS: Resetta i filtri
 SHOP_SECTION_TITLE: Negozio NosWings
 STAY_LOGGED_IN: Rimani loggato?
 TERMS_OF_SERVICE: Termini di Servizio
-UPDATE_BACKGROUND_DESC: Seleziona un banner (predefinito: arancione)
+UPDATE_BACKGROUND_DESC: 'Seleziona un banner (predefinito: arancione)'
 UPDATE_BACKGROUND_TITLE: Aggiorna il background
 USERNAME: Nome Utente
 VERIFY: Verifica
