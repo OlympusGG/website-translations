@@ -73,6 +73,10 @@ EMAIL:
   TITLE: E-mail
   UPDATE: Mettre à jour l'adresse e-mail
 ENABLED: Activé
+FAQ_DOWNLOAD_ANSWER_1: Cela dépend de votre architecture de votre système d'exploitation.
+FAQ_DOWNLOAD_ANSWER_2: Merci d'ouvrir un ticket, catégorie launcher-tickets sur notre support Discord
+FAQ_DOWNLOAD_QUESTION_1: Quelle version dois-je choisir ?
+FAQ_DOWNLOAD_QUESTION_2: Je rencontre des difficultés non mentionnés dans cette FAQ
 GAME_ACCOUNTS: Comptes jeu
 GENERAL: Général
 HOME: Accueil

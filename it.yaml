@@ -14,7 +14,7 @@
 2FA_HOW_TO_DISABLE: Come disabilitare 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Ottieni il codice composto da 6 caratteri dall'app che hai utilizzato per abilitare 2FA e inseriscilo qui sotto
 2FA_HOW_TO_DISABLE_STEP_2: Premi il bottone!
-2FA_HOW_TO_DISABLE_STEP_3:  Cancella la chiave relativa al tuo account NosWings per poter riscannerizzare il codice.
+2FA_HOW_TO_DISABLE_STEP_3: Cancella la chiave relativa al tuo account NosWings per poter riscannerizzare il codice.
 2FA_HOW_TO_ENABLE: Come abilitare 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Scarica un'applicazione per l'autenticazione a due fattori
 2FA_HOW_TO_ENABLE_STEP_2: Scannerizza il QR con l'app appena scaricata.
@@ -50,7 +50,7 @@ COUPON_CLAIM_NOTHING: Non hai coupons disponibili
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Inventario Coupons
 COUPON_NOT_VALID: Il coupon {coupon} non è valido o è già stato usato
-COUPON_NWC_ADDED: "{coins} NWC sono stati aggiunti al tuo account."
+COUPON_NWC_ADDED: '{coins} NWC sono stati aggiunti al tuo account.'
 COUPON_PLACEHOLDER: Inserisci il codice coupon
 COUPON_REDEEM: Riscatta un coupon
 COUPON_TUTORIAL_STEP1: I coupons sono codici riscattabili che ti permettono di ottenere NWC o item in gioco
@@ -73,6 +73,10 @@ EMAIL:
   TITLE: Email
   UPDATE: Aggiorna email
 ENABLED: Abilitato
+FAQ_DOWNLOAD_ANSWER_1: null
+FAQ_DOWNLOAD_ANSWER_2: null
+FAQ_DOWNLOAD_QUESTION_1: null
+FAQ_DOWNLOAD_QUESTION_2: null
 GAME_ACCOUNTS: Accounts di gioco
 GENERAL: Generale
 HOME: Home
@@ -109,9 +113,9 @@ PURCHASE: Acquista
 PURCHASE_ERRORS_AMOUNT: Inserisci la quantità
 PURCHASE_ERRORS_UNDEFINED: C'è un errore.
 PURCHASE_LEAVE_MESSAGE: Non chiudere la pagina.
-PURCHASE_SUCCESS:  Grazie per l'acquisto, abbiamo aggiunto {amount} NWC al tuo account!
+PURCHASE_SUCCESS: Grazie per l'acquisto, abbiamo aggiunto {amount} NWC al tuo account!
 PURCHASE_TOS_MESSAGE: Acquistando accetti i nostri {toslink}.
-PURCHASE_VERIFYING_TRANSACTION_MESSAGE:  Sto verificando il tuo acquisto...
+PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Sto verificando il tuo acquisto...
 REDEEM: Riscatta
 REFRESH_DATA: Aggiorna
 REGISTER: Registrati

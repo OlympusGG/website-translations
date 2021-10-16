@@ -4,7 +4,7 @@
 2FA_BACKUP_CODE_WARNING_MSG: Każdy kod można użyć tylko raz.
 2FA_CODE: Kod
 2FA_DISABLE: Wyłącz 2FA
-2FA_DISABLE_SUCCESS_MSG: Pomyślnie wyłączono 2FA  
+2FA_DISABLE_SUCCESS_MSG: Pomyślnie wyłączono 2FA
 2FA_ENABLE: Włącz 2FA
 2FA_ENABLE_SUCCESS_MSG: Pomyślnie włączono 2FA
 2FA_ENTER_BACKUP_CODE: Wpisz zamiast tego kod zapasowy
@@ -73,6 +73,10 @@ EMAIL:
   TITLE: E-mail
   UPDATE: Zaktualizuj E-mail
 ENABLED: Włączone
+FAQ_DOWNLOAD_ANSWER_1: null
+FAQ_DOWNLOAD_ANSWER_2: null
+FAQ_DOWNLOAD_QUESTION_1: null
+FAQ_DOWNLOAD_QUESTION_2: null
 GAME_ACCOUNTS: Konta Gry
 GENERAL: Ogólne
 HOME: Główna
