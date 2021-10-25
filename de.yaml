@@ -39,7 +39,7 @@ AMOUNT: Amount
 ARE_YOU_NEW: Are you new?
 AUTHORITY: Authority
 BACK_TO_LOGIN: Back to login
-BUY_NWC: Buy NWC
+BUY_OC: Buy OC
 CHARACTERS: Characters
 CONNECT: Connect
 CONNECTIONS: Connections
@@ -50,7 +50,7 @@ COUPON_CLAIM_NOTHING: You have no coupons available
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Coupon Inventory
 COUPON_NOT_VALID: The coupon {coupon} is not valid or has already been used
-COUPON_NWC_ADDED: The amount of {coins} NWC has been added to your account.
+COUPON_OC_ADDED: The amount of {coins} OC has been added to your account.
 COUPON_PLACEHOLDER: Enter coupon's code
 COUPON_REDEEM: Redeem a coupon
 COUPON_TUTORIAL_STEP1: null
@@ -113,7 +113,7 @@ PURCHASE: Purchase
 PURCHASE_ERRORS_AMOUNT: Please select an amount.
 PURCHASE_ERRORS_UNDEFINED: An error occurred.
 PURCHASE_LEAVE_MESSAGE: Don't leave the page.
-PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} NWC to your account.
+PURCHASE_SUCCESS: Thanks for your purchase! We added {amount} OC to your account.
 PURCHASE_TOS_MESSAGE: By purchasing, you have read and agreed to our {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verifying the current transaction...
 REDEEM: Redeem
@@ -123,7 +123,7 @@ RESET: Reset
 SAVE: Save
 SAVE_CHANGES: Save changes
 SECURITY: Security
-SELECT_NWC_AMOUNT: Select NWC amount
+SELECT_OC_AMOUNT: Select Olympus Coins amount
 SELECT_PURCHASE_METHOD: Select purchase method
 SEND_RESET_LINK: Send reset link
 SESSION_EXPIRED: Your session has expired. Please login again.

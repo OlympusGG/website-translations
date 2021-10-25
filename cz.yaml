@@ -39,7 +39,7 @@ AMOUNT: Množství
 ARE_YOU_NEW: Jste tu poprvé?
 AUTHORITY: Oprávnění
 BACK_TO_LOGIN: Zpátky k přihlášení
-BUY_NWC: Koupit NWC
+BUY_OC: Koupit OC
 CHARACTERS: Postavy
 CONNECT: Připojit
 CONNECTIONS: Připojení
@@ -50,12 +50,12 @@ COUPON_CLAIM_NOTHING: Nemáte dostupné žádné kupóny
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Inventář kupónů
 COUPON_NOT_VALID: Kupón {coupon} není platný nebo byl již použit
-COUPON_NWC_ADDED: Množství {coins} NWC bylo přidáno na váš účet.
+COUPON_OC_ADDED: Množství {coins} OC bylo přidáno na váš účet.
 COUPON_PLACEHOLDER: Vložte kód kupónu
 COUPON_REDEEM: Vyzvednout kupón
-COUPON_TUTORIAL_STEP1: Kupóny jsou speciální kódy, které se se dají vyzvednout k získání NWC a předmětů ve hře.
+COUPON_TUTORIAL_STEP1: Kupóny jsou speciální kódy, které se se dají vyzvednout k získání OC a předmětů ve hře.
 COUPON_TUTORIAL_STEP2: Pro vyzvednutí kupónu zadej kód níže.
-COUPON_TUTORIAL_STEP3: Pokud to byl kupón na NWC, budou okamžitě přičteny na tvůj účet.
+COUPON_TUTORIAL_STEP3: Pokud to byl kupón na OC, budou okamžitě přičteny na tvůj účet.
 COUPON_TUTORIAL_STEP4: Pokud to byl kupón na předměty, přidá se do inventáře na kupóny. Zde může být následně kdykoliv vyzvednut potom, co zvolíte postavu, na kterou mají předměty přijít.
 COUPON_TUTORIAL_TITLE: Co jsou kupóny a jak je vyzvednout?
 CUSTOMIZE: Přizpůsobit
@@ -113,7 +113,7 @@ PURCHASE: Koupit
 PURCHASE_ERRORS_AMOUNT: Prosím vyberte množství.
 PURCHASE_ERRORS_UNDEFINED: Vyskytla se chyba.
 PURCHASE_LEAVE_MESSAGE: Neopouštějte stránku.
-PURCHASE_SUCCESS: Děkujeme za vaši koupi! Na váš účet přistálo {amount} NWC.
+PURCHASE_SUCCESS: Děkujeme za vaši koupi! Na váš účet přistálo {amount} OC.
 PURCHASE_TOS_MESSAGE: 'Zakoupením jste si přečetli a souhlasíte s: {toslink}.'
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Ověřuji současnou transakci...
 REDEEM: Vyzvednout
@@ -123,7 +123,7 @@ RESET: Resetovat
 SAVE: Uložit
 SAVE_CHANGES: Uložit změny
 SECURITY: Zabezpečení
-SELECT_NWC_AMOUNT: Vybrat množství NWC
+SELECT_OC_AMOUNT: Vybrat množství OC
 SELECT_PURCHASE_METHOD: Vyberte způsob platby
 SEND_RESET_LINK: Odeslat resetovací odkaz
 SESSION_EXPIRED: Vaše relace vypršela. Přihlaste se prosím znovu.

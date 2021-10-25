@@ -39,7 +39,7 @@ AMOUNT: Quantità
 ARE_YOU_NEW: Sei nuovo?
 AUTHORITY: Autorità
 BACK_TO_LOGIN: Torna al login
-BUY_NWC: Acquista NWC
+BUY_OC: Acquista OC
 CHARACTERS: Personaggi
 CONNECT: Connettiti
 CONNECTIONS: Connessioni
@@ -50,12 +50,12 @@ COUPON_CLAIM_NOTHING: Non hai coupons disponibili
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Inventario Coupons
 COUPON_NOT_VALID: Il coupon {coupon} non è valido o è già stato usato
-COUPON_NWC_ADDED: '{coins} NWC sono stati aggiunti al tuo account.'
+COUPON_OC_ADDED: '{coins} OC sono stati aggiunti al tuo account.'
 COUPON_PLACEHOLDER: Inserisci il codice coupon
 COUPON_REDEEM: Riscatta un coupon
-COUPON_TUTORIAL_STEP1: I coupons sono codici riscattabili che ti permettono di ottenere NWC o item in gioco
+COUPON_TUTORIAL_STEP1: I coupons sono codici riscattabili che ti permettono di ottenere OC o item in gioco
 COUPON_TUTORIAL_STEP2: Per riscattare il coupon inserisci il codice qui sotto
-COUPON_TUTORIAL_STEP3: Se il coupon contiene NWC, verranno accreditati sul tuo account
+COUPON_TUTORIAL_STEP3: Se il coupon contiene OC, verranno accreditati sul tuo account
 COUPON_TUTORIAL_STEP4: Se il coupon contiene items verrà aggiunto al tuo Inventario Coupons e, scegliendo il personaggio, potrai riscattarlo quando vuoi
 COUPON_TUTORIAL_TITLE: Cosa sono i coupons e come posso riscattarli?
 CUSTOMIZE: Personalizzazione
@@ -113,7 +113,7 @@ PURCHASE: Acquista
 PURCHASE_ERRORS_AMOUNT: Inserisci la quantità
 PURCHASE_ERRORS_UNDEFINED: C'è un errore.
 PURCHASE_LEAVE_MESSAGE: Non chiudere la pagina.
-PURCHASE_SUCCESS: Grazie per l'acquisto, abbiamo aggiunto {amount} NWC al tuo account!
+PURCHASE_SUCCESS: Grazie per l'acquisto, abbiamo aggiunto {amount} OC al tuo account!
 PURCHASE_TOS_MESSAGE: Acquistando accetti i nostri {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Sto verificando il tuo acquisto...
 REDEEM: Riscatta
@@ -123,7 +123,7 @@ RESET: Reset
 SAVE: Salva
 SAVE_CHANGES: Salva i cambiamenti
 SECURITY: Sicurezza
-SELECT_NWC_AMOUNT: Seleziona la quantità di NWC
+SELECT_OC_AMOUNT: Seleziona la quantità di OC
 SELECT_PURCHASE_METHOD: Seleziona la modalità di pagamento
 SEND_RESET_LINK: Invia un link per il reset
 SESSION_EXPIRED: La tua sessione è scaduta, effettua il login.

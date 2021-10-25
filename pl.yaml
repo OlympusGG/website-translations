@@ -39,7 +39,7 @@ AMOUNT: Ilość
 ARE_YOU_NEW: Jesteś nowy?
 AUTHORITY: Uprawnienie
 BACK_TO_LOGIN: Powrót do logowania
-BUY_NWC: Kup NWC
+BUY_OC: Kup OC
 CHARACTERS: Postacie
 CONNECT: Połącz
 CONNECTIONS: Połączenia
@@ -50,12 +50,12 @@ COUPON_CLAIM_NOTHING: Nie masz dostępnych kuponów
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Ekwipunek Kuponów
 COUPON_NOT_VALID: Kupon {coupon} jest już nieważny lub został już użyty
-COUPON_NWC_ADDED: Dodano {coins} NWC do twojego konta.
+COUPON_OC_ADDED: Dodano {coins} OC do twojego konta.
 COUPON_PLACEHOLDER: Wpisz kod kuponu
 COUPON_REDEEM: Zrealizuj kupon
-COUPON_TUTORIAL_STEP1: Kupony to kody, które można zrealizować aby otrzymać NWC lub przedmioty w grze
+COUPON_TUTORIAL_STEP1: Kupony to kody, które można zrealizować aby otrzymać OC lub przedmioty w grze
 COUPON_TUTORIAL_STEP2: Aby zrealizować kupon, wprowadź kod w poniższym polu
-COUPON_TUTORIAL_STEP3: Jeśli kupon posiada NWC, twoje konto zostanie bezpośrednio zasilone
+COUPON_TUTORIAL_STEP3: Jeśli kupon posiada OC, twoje konto zostanie bezpośrednio zasilone
 COUPON_TUTORIAL_STEP4: Jeśli kupon posiada przedmioty, zostaną one dodane do Twojego ekwipunku kuponów i będziesz mógł odebrać je w dowolnym momencie po wybraniu postaci.
 COUPON_TUTORIAL_TITLE: Co to są kupony i jak mogę je użyć?
 CUSTOMIZE: Spersonalizuj
@@ -113,7 +113,7 @@ PURCHASE: Zakup
 PURCHASE_ERRORS_AMOUNT: Proszę wybrać ilość.
 PURCHASE_ERRORS_UNDEFINED: Wystąpił błąd.
 PURCHASE_LEAVE_MESSAGE: Nie zamykaj strony.
-PURCHASE_SUCCESS: Dziękujemy za zakup! Dodaliśmy {amount} NWC do twojego konta.
+PURCHASE_SUCCESS: Dziękujemy za zakup! Dodaliśmy {amount} OC do twojego konta.
 PURCHASE_TOS_MESSAGE: Dokonując zakupu oświadczasz, że zapoznałeś(-aś) się i wyraziłeś(-aś) zgodę na nasze {toslink}.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Weryfikuję aktualną transakcję...
 REDEEM: Zrealizuj
@@ -123,7 +123,7 @@ RESET: Reset
 SAVE: Zapisz
 SAVE_CHANGES: Zapisz zmiany
 SECURITY: Bezpieczeństwo
-SELECT_NWC_AMOUNT: Wybierz ilość NWC
+SELECT_OC_AMOUNT: Wybierz ilość OC
 SELECT_PURCHASE_METHOD: Wybierz formę płatności
 SEND_RESET_LINK: Wyślij link resetujący
 SESSION_EXPIRED: Twoja sesja wygasła. Proszę zalogować się ponownie.

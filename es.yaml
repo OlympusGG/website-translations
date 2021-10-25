@@ -39,7 +39,7 @@ AMOUNT: Cantidad
 ARE_YOU_NEW: ¿Eres nuevo?
 AUTHORITY: Autoridad
 BACK_TO_LOGIN: Vuelve al inicio de sesión
-BUY_NWC: Compra NWC
+BUY_OC: Compra OC
 CHARACTERS: Personajes
 CONNECT: Conectar
 CONNECTIONS: Conexiones
@@ -49,13 +49,13 @@ COUPON_CLAIM: reclamar un cupón
 COUPON_CLAIM_NOTHING: No tienes cupones disponibles
 COUPON_INFORMATION: null
 COUPON_NOT_VALID: El cupón {coupon} no es válido o ya se ha utilizado
-COUPON_NWC_ADDED: Se ha agregado la cantidad de {coins} en tu cuenta
+COUPON_OC_ADDED: Se ha agregado la cantidad de {coins} en tu cuenta
 COUPON_INVENTORY: Inventario de cupones
 COUPON_PLACEHOLDER: Ingresa el código del cupón
 COUPON_REDEEM: Canjear un cupón
-COUPON_TUTORIAL_STEP1: Los cupones son códigos que puedes canjear para obtener NWC o artículos del juego
+COUPON_TUTORIAL_STEP1: Los cupones son códigos que puedes canjear para obtener OC o artículos del juego
 COUPON_TUTORIAL_STEP2: Para reclamar, ingresa el código a continuación
-COUPON_TUTORIAL_STEP3: Si el cupón tiene NWC, tu cuenta se acreditará directamente.
+COUPON_TUTORIAL_STEP3: Si el cupón tiene OC, tu cuenta se acreditará directamente.
 COUPON_TUTORIAL_STEP4: Si el cupón tiene artículos, tu cupón se agregará a tu inventario de cupones y podrás canjearlo en cualquier momento después de elegir el personaje que deseas usar.
 COUPON_TUTORIAL_TITLE: ¿Qué son los cupones y cómo puedo reclamarlos?
 CUSTOMIZE: Personalizar
@@ -107,7 +107,7 @@ PURCHASE: Comprar
 PURCHASE_ERRORS_UNDEFINED: Ha ocurrido un error
 PURCHASE_ERRORS_AMOUNT: Por favor, selecciona una cantidad
 PURCHASE_LEAVE_MESSAGE: No abandones la página web
-PURCHASE_SUCCESS: Gracias por tu compra! Hemos añadido {amount} NWC a tu cuenta
+PURCHASE_SUCCESS: Gracias por tu compra! Hemos añadido {amount} OC a tu cuenta
 PURCHASE_TOS_MESSAGE: Al comprar, has leido y aceptado nuestro {toslink}
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verificando la transacción actual...
 PROFILE: Perfil
@@ -118,7 +118,7 @@ REGISTER: Registro
 RESET: Reiniciar
 SAVE: Guardar
 SAVE_CHANGES: Guardar cambios
-SELECT_NWC_AMOUNT: Selecciona la cantidad de NWC
+SELECT_OC_AMOUNT: Selecciona la cantidad de OC
 SELECT_PURCHASE_METHOD: Selecciona el metodo de pago
 SEND_RESET_LINK: Enviar enlace de restablecer
 SECURITY: Seguridad

@@ -39,7 +39,7 @@ AMOUNT: Quantité
 ARE_YOU_NEW: Êtes-vous nouveau?
 AUTHORITY: Rôle
 BACK_TO_LOGIN: Retour à la page de connexion
-BUY_NWC: Achat de NWC
+BUY_OC: Achat de OC
 CHARACTERS: Personnages
 CONNECT: Connecter
 CONNECTIONS: Connexions
@@ -50,12 +50,12 @@ COUPON_CLAIM_NOTHING: Vous n'avez aucun coupon disponible.
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Inventaire de coupons
 COUPON_NOT_VALID: Le coupon {coupon} n'est pas valide ou à déjà été utilisé.
-COUPON_NWC_ADDED: Un montant de {coins} NWC ont été ajoutés à votre compte.
+COUPON_OC_ADDED: Un montant de {coins} OC ont été ajoutés à votre compte.
 COUPON_PLACEHOLDER: Entrez le code du coupon
 COUPON_REDEEM: Utiliser un coupon
-COUPON_TUTORIAL_STEP1: Les coupons sont des codes utilisables qui donnent des NWC ou des items in-game.
+COUPON_TUTORIAL_STEP1: Les coupons sont des codes utilisables qui donnent des OC ou des items in-game.
 COUPON_TUTORIAL_STEP2: Pour les utiliser, entrez le code ci-dessous
-COUPON_TUTORIAL_STEP3: Si votre coupon contient des NWC, votre compte sera directement crédité
+COUPON_TUTORIAL_STEP3: Si votre coupon contient des OC, votre compte sera directement crédité
 COUPON_TUTORIAL_STEP4: Si votre coupon contient des items, il sera ajouté à votre inventaire de coupons et vous pouvez l'utiliser après avoir choisi le personnage sur lequel vous voulez récupérer vos objets.
 COUPON_TUTORIAL_TITLE: Qu'est-ce que les coupons et comment les utiliser ?
 CUSTOMIZE: Personnaliser
@@ -109,11 +109,11 @@ PASSWORD:
 PRIVACY_POLICY: Politique de confidentialité
 PROFILE: Profil
 PROFILE_SECTION_TITLE: Mon profil
-PURCHASE: Acheter des NWC
+PURCHASE: Acheter des OC
 PURCHASE_ERRORS_AMOUNT: Merci de choisir un montant.
 PURCHASE_ERRORS_UNDEFINED: Une erreur est survenue.
 PURCHASE_LEAVE_MESSAGE: Merci de ne pas quitter la page
-PURCHASE_SUCCESS: Merci pour votre achat ! Votre compte a été crédité de {amount} NWC.
+PURCHASE_SUCCESS: Merci pour votre achat ! Votre compte a été crédité de {amount} OC.
 PURCHASE_TOS_MESSAGE: null
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Vérification de la transaction...
 REDEEM: Récupérer
@@ -123,7 +123,7 @@ RESET: Réinitialiser
 SAVE: Sauvegarder
 SAVE_CHANGES: Sauvegarder les changements
 SECURITY: Sécurité
-SELECT_NWC_AMOUNT: Sélectionnez un montant de NWC
+SELECT_OC_AMOUNT: Sélectionnez un montant de OC
 SELECT_PURCHASE_METHOD: Sélectionnez un moyen de paiement
 SEND_RESET_LINK: Envoyer un lien de réinitialisation
 SESSION_EXPIRED: Session expirée

@@ -39,7 +39,7 @@ AMOUNT: Miktar
 ARE_YOU_NEW: Yeni misin?
 AUTHORITY: Yetki
 BACK_TO_LOGIN: Girişe geri dön
-BUY_NWC: NWC satın al
+BUY_OC: OC satın al
 CHARACTERS: Karakterler
 CONNECT: Bağlan
 CONNECTIONS: Bağlantılar
@@ -50,7 +50,7 @@ COUPON_CLAIM_NOTHING: Mevcut bir kuponun yok.
 COUPON_INFORMATION: null
 COUPON_INVENTORY: Kupon envanteri
 COUPON_NOT_VALID: '{coupon} kuponu geçerli değil veya daha önce kullanıldı.'
-COUPON_NWC_ADDED: '{coins}NWC hesabına eklendi.'
+COUPON_OC_ADDED: '{coins}OC hesabına eklendi.'
 COUPON_PLACEHOLDER: Kupon kodunu gir
 COUPON_REDEEM: Kuponu kullan
 COUPON_TUTORIAL_STEP1: null
@@ -113,7 +113,7 @@ PURCHASE: Satın al
 PURCHASE_ERRORS_AMOUNT: Lütfen miktar seçin.
 PURCHASE_ERRORS_UNDEFINED: Bir hata oluştu.
 PURCHASE_LEAVE_MESSAGE: Lütfen sayfayı kapatmayın.
-PURCHASE_SUCCESS: Desteğin için teşekkürler! Hesabına {amount}NWC ekledik.
+PURCHASE_SUCCESS: Desteğin için teşekkürler! Hesabına {amount}OC ekledik.
 PURCHASE_TOS_MESSAGE: Satın aldığınzda {toslink} belgesini okuduğunu ve kabul ettiğini onaylamış olursun.
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Mevcut işlem doğrulanıyor...
 REDEEM: Kullan
@@ -123,7 +123,7 @@ RESET: Sıfırla
 SAVE: Kaydet
 SAVE_CHANGES: Değişiklikleri kaydet
 SECURITY: Güvenlik
-SELECT_NWC_AMOUNT: NWC miktarını seç
+SELECT_OC_AMOUNT: OC miktarını seç
 SELECT_PURCHASE_METHOD: Alım yöntemini seç
 SEND_RESET_LINK: Sıfırlama link'ini gönder
 SESSION_EXPIRED: Oturumunuz sona erdi. Lütfen tekrar giriş yapın
