@@ -14,7 +14,7 @@
 2FA_HOW_TO_DISABLE: Comment désactiver l'A2F ?
 2FA_HOW_TO_DISABLE_STEP_1: Récupérez le code depuis l'application et entrez le ci-dessous
 2FA_HOW_TO_DISABLE_STEP_2: Cliquez sur le bouton
-2FA_HOW_TO_DISABLE_STEP_3: Supprimez la clé NosWings:YourUsername sur l'application pour pouvoir rescanner le QR Code si besoin
+2FA_HOW_TO_DISABLE_STEP_3: Supprimez la clé Olympus:YourUsername sur l'application pour pouvoir rescanner le QR Code si besoin
 2FA_HOW_TO_ENABLE: Comment activer l'A2F ?
 2FA_HOW_TO_ENABLE_STEP_1: Téléchargez une application qui gère l'A2F
 2FA_HOW_TO_ENABLE_STEP_2: Scannez le QR Code ci-dessous grâce à l'application précédemment téléchargée
@@ -140,14 +140,14 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Trier par ordre alphabétique (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Trier par prix (croissant)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Trier par prix (décroissant)
 SHOP_RESET_FILTERS: Réinitialiser les filtres
-SHOP_SECTION_TITLE: NosWings Shop
+SHOP_SECTION_TITLE: Olympus Shop
 STAY_LOGGED_IN: Rester connecté ?
 TERMS_OF_SERVICE: conditions générales d'utilisation
 UPDATE_BACKGROUND_DESC: Choisissez une bannière (couleur orange par défaut)
 UPDATE_BACKGROUND_TITLE: Mettre à jour la bannière
 USERNAME: Nom d'utilisateur
 VERIFY: Vérifier
-WELCOME: Bienvenue sur NosWings !
+WELCOME: Bienvenue sur Olympus !
 WELCOME_BACK: De retour ?
 WELCOME_BACK_DESCRIPTION: N'hésite pas à rejoindre notre {link} serveur pour te tenir au courant des dernières news, mises à jour et plus encore!
 YOUR_CHARACTERS: Vos personnages

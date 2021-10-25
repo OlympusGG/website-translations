@@ -14,7 +14,7 @@
 2FA_HOW_TO_DISABLE: 2FA nasıl devre dışı bırakılır?
 2FA_HOW_TO_DISABLE_STEP_1: 2FA'yı etkinleştirmek için uygulamadaki 6 basamaklı kodu aşağıdaki alana gir.
 2FA_HOW_TO_DISABLE_STEP_2: Butona basın.
-2FA_HOW_TO_DISABLE_STEP_3: Kodu tekrar taratabilmek için uygulamadan NosWings:YourUsername anahtarını silin.
+2FA_HOW_TO_DISABLE_STEP_3: Kodu tekrar taratabilmek için uygulamadan Olympus:YourUsername anahtarını silin.
 2FA_HOW_TO_ENABLE: 2FA nasıl etkinleştirilir?
 2FA_HOW_TO_ENABLE_STEP_1: Telefonunuza bir 2FA uygulaması indirin.
 2FA_HOW_TO_ENABLE_STEP_2: Uygulamaya girip QR kodunu okutun.
@@ -63,7 +63,7 @@ DISABLED: Devre dışı
 DISCONNECT: Bağlantıyı kes
 DOWNLOAD_LAUNCHER: İndir
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: Hangi versiyonu kullanman gerektiğini bilmiyorsan x86'yı indirmeni öneririrz.
-DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_VERSION: Download Olympus Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: x64 versiyonunu indir
 DOWNLOAD_LAUNCHER_x86_VERSION: x86 versiyonunu indir
 EMAIL:
@@ -140,14 +140,14 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetik (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Fiyat (yükselen)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Fiyat (azalan)
 SHOP_RESET_FILTERS: Filtreleri sıfırla
-SHOP_SECTION_TITLE: NosWings Dükkanı
+SHOP_SECTION_TITLE: Olympus Dükkanı
 STAY_LOGGED_IN: Beni hatırla
 TERMS_OF_SERVICE: Kullanım Şartları
 UPDATE_BACKGROUND_DESC: Bir sembol seçin (varsayılan turuncu)
 UPDATE_BACKGROUND_TITLE: Arkaplanı yenile
 USERNAME: Kullanıcı Adı
 VERIFY: null
-WELCOME: NosWings'e hoş geldin!
-WELCOME_BACK: NosWings'e tekrar hoş geldin!
+WELCOME: Olympus'e hoş geldin!
+WELCOME_BACK: Olympus'e tekrar hoş geldin!
 WELCOME_BACK_DESCRIPTION: Duyurulardan ve yeniliklerden haberdar olmak için {link} sunucumuza katılmayı unutmayın!
 YOUR_CHARACTERS: Karakterlerin

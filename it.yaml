@@ -14,7 +14,7 @@
 2FA_HOW_TO_DISABLE: Come disabilitare 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Ottieni il codice composto da 6 caratteri dall'app che hai utilizzato per abilitare 2FA e inseriscilo qui sotto
 2FA_HOW_TO_DISABLE_STEP_2: Premi il bottone!
-2FA_HOW_TO_DISABLE_STEP_3: Cancella la chiave relativa al tuo account NosWings per poter riscannerizzare il codice.
+2FA_HOW_TO_DISABLE_STEP_3: Cancella la chiave relativa al tuo account Olympus per poter riscannerizzare il codice.
 2FA_HOW_TO_ENABLE: Come abilitare 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Scarica un'applicazione per l'autenticazione a due fattori
 2FA_HOW_TO_ENABLE_STEP_2: Scannerizza il QR con l'app appena scaricata.
@@ -63,7 +63,7 @@ DISABLED: Disabilitato
 DISCONNECT: Disconnettiti
 DOWNLOAD_LAUNCHER: Scarica il launcher
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: Se non hai idea sull'architettura del tuo sistema operativo allora scarica la x64
-DOWNLOAD_LAUNCHER_VERSION: Scarica il  NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_VERSION: Scarica il  Olympus Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Scarica la versione x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Scarica la versione x86
 EMAIL:
@@ -140,14 +140,14 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetico (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Prezzo (ascendente)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Prezzo (descendente)
 SHOP_RESET_FILTERS: Resetta i filtri
-SHOP_SECTION_TITLE: Negozio NosWings
+SHOP_SECTION_TITLE: Negozio Olympus
 STAY_LOGGED_IN: Rimani loggato?
 TERMS_OF_SERVICE: Termini di Servizio
 UPDATE_BACKGROUND_DESC: 'Seleziona un banner (predefinito: arancione)'
 UPDATE_BACKGROUND_TITLE: Aggiorna il background
 USERNAME: Nome Utente
 VERIFY: Verifica
-WELCOME: Benvenuto su NosWings!
-WELCOME_BACK: Bentornato su NosWings!
+WELCOME: Benvenuto su Olympus!
+WELCOME_BACK: Bentornato su Olympus!
 WELCOME_BACK_DESCRIPTION: Non dimenticare di entrare sul nostro {link} per essere sempre aggiornato sulle più recenti news, gli aggiornamenti e molto altro!
 YOUR_CHARACTERS: I tuoi personaggi

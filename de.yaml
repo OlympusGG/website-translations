@@ -14,7 +14,7 @@
 2FA_HOW_TO_DISABLE: How to disable 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Get the 6 digits code on the app you used to enable 2FA and enter it below
 2FA_HOW_TO_DISABLE_STEP_2: Click on the button!
-2FA_HOW_TO_DISABLE_STEP_3: Delete the NosWings:YourUsername key on the app to be able to scan the code again.
+2FA_HOW_TO_DISABLE_STEP_3: Delete the Olympus:YourUsername key on the app to be able to scan the code again.
 2FA_HOW_TO_ENABLE: How to enable 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Download an 2FA Authenticator App
 2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
@@ -63,7 +63,7 @@ DISABLED: Disabled
 DISCONNECT: Disconnect
 DOWNLOAD_LAUNCHER: Download Launcher
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: If you have no idea about architecture, please download the x64 version
-DOWNLOAD_LAUNCHER_VERSION: Download NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_VERSION: Download Olympus Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Download x64 version
 DOWNLOAD_LAUNCHER_x86_VERSION: Download x86 version
 EMAIL:
@@ -140,14 +140,14 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alphabetical (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Price (ascending)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Price (descending)
 SHOP_RESET_FILTERS: Reset filters
-SHOP_SECTION_TITLE: NosWings Shop
+SHOP_SECTION_TITLE: Olympus Shop
 STAY_LOGGED_IN: Stay logged in?
 TERMS_OF_SERVICE: Terms of Service
 UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
 UPDATE_BACKGROUND_TITLE: Update background
 USERNAME: Username
 VERIFY: null
-WELCOME: Welcome to NosWings!
-WELCOME_BACK: Welcome back to NosWings!
+WELCOME: Welcome to Olympus!
+WELCOME_BACK: Welcome back to Olympus!
 WELCOME_BACK_DESCRIPTION: Don't forget to join our {link} server to be aware of our latest news, updates and more!
 YOUR_CHARACTERS: Your characters

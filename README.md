@@ -1,4 +1,4 @@
-# NosWings.Dashboard.Translations
+# Olympus.Dashboard.Translations
 
 ## **PLEASE READ RULES BEFORE TRANSLATING.**
 
@@ -29,4 +29,4 @@ We are working with Pull Requests. If you want to participate and you don't know
 Don't hesitate to fix missing values!
 
 Thanks in advance, \
-NosWings Team.
+Olympus Team.

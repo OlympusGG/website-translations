@@ -62,7 +62,7 @@ CUSTOMIZE: Personalizar
 DISABLED: Deshabilitar
 DISCONNECT: Desconectar
 DOWNLOAD_LAUNCHER: Descargar Launcher
-DOWNLOAD_LAUNCHER_VERSION: Descargar NosWings Launcher (v.{version})
+DOWNLOAD_LAUNCHER_VERSION: Descargar Olympus Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Descargar la versión x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Descargar la versión x86
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si no tienes idea de tu arquitectura, descarga la versión x64
@@ -139,11 +139,11 @@ SHOP_RESET_FILTERS: Restablecer filtros
 STAY_LOGGED_IN: ¿Permanecer conectado?
 TERMS_OF_SERVICE: Términos de servicio
 USERNAME: Nombre de usuario
-SHOP_SECTION_TITLE: Tienda NosWings
+SHOP_SECTION_TITLE: Tienda Olympus
 UPDATE_BACKGROUND_TITLE: Actualizar fondo
 UPDATE_BACKGROUND_DESC: Elige un fondo (naranja por defecto)
 VERIFY: Verificar
-WELCOME: Bienvenido a NosWings!
-WELCOME_BACK: Bienvenido de nuevo a NosWings!
+WELCOME: Bienvenido a Olympus!
+WELCOME_BACK: Bienvenido de nuevo a Olympus!
 WELCOME_BACK_DESCRIPTION: ¡No olvides unirte a nuestro servidor {link} para estar al tanto de nuestras últimas noticias, actualizaciones y más!
 YOUR_CHARACTERS: Tus personajes
