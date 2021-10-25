@@ -143,6 +143,32 @@ SHOP_RESET_FILTERS: Reset filters
 SHOP_SECTION_TITLE: Olympus Shop
 STAY_LOGGED_IN: Stay logged in?
 TERMS_OF_SERVICE: Terms of Service
+TOTAL_ARENA_DEATHS: deaths in Arena
+TOTAL_ARENA_KILLS: kills in Arena
+TOTAL_DAMAGE_DEALT: damage dealt
+TOTAL_DEATHS_BY_MONSTER: deaths by monsters
+TOTAL_DEATHS_BY_PLAYER: deaths by players
+TOTAL_FOOD_USED: food used
+TOTAL_GOLD_DROPPED: gold dropped
+TOTAL_GOLD_EARNED_IN_BAZAAR_ITEMS: gold earned from NosBazar
+TOTAL_GOLD_SPENT: gold spent
+TOTAL_GOLD_SPENT_IN_BAZAAR_FEES: gold spent in NosBazar fees
+TOTAL_GOLD_SPENT_IN_BAZAAR_ITEMS: gold spent in NosBazar items
+TOTAL_GOLD_SPENT_IN_NPC_SHOP: gold spent in NPC Shops
+TOTAL_GOLD_SPENT_WISHING_FOUNTAIN: null
+TOTAL_ICEBREAKER_WON: Icebreakers won
+TOTAL_INSTANT_BATTLE_WON: Instant Battle won
+TOTAL_ITEMS_USED: items used
+TOTAL_MINILAND_VISITS: Mini-Land visits
+TOTAL_MONSTERS_KILLED: monsters killed
+TOTAL_PLAYERS_KILLED: players killed
+TOTAL_POTIONS_USED: potions used
+TOTAL_RAIDS_LOST: raids lost
+TOTAL_RAIDS_WON: raids won
+TOTAL_SKILLS_CASTED: skills casted
+TOTAL_SNACKS_USED: snacks used
+TOTAL_TIMESPACES_LOST: Time-Spaces lost
+TOTAL_TIMESPACES_WON: Time-Spaces won
 UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)
 UPDATE_BACKGROUND_TITLE: Update background
 USERNAME: Username

@@ -14,7 +14,7 @@
 2FA_HOW_TO_DISABLE: ¿Cómo deshabilitar 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Obtén el código de 6 dígitos en la aplicación que utilizaste para habilitar 2FA e ingrésalo a continuación
 2FA_HOW_TO_DISABLE_STEP_2: ¡Haz clic en el botón!
-2FA_HOW_TO_DISABLE_STEP_3: 
+2FA_HOW_TO_DISABLE_STEP_3: null
 2FA_HOW_TO_ENABLE: ¿Cómo habilitar 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Descarga una aplicación de autenticación 2FA
 2FA_HOW_TO_ENABLE_STEP_2: Escanea el código QR usando la aplicación descargada previamente.
@@ -48,9 +48,9 @@ COUPON_ADDED: el cupón {coupon} se ha agregado a tu inventario de cupones.
 COUPON_CLAIM: reclamar un cupón
 COUPON_CLAIM_NOTHING: No tienes cupones disponibles
 COUPON_INFORMATION: null
+COUPON_INVENTORY: Inventario de cupones
 COUPON_NOT_VALID: El cupón {coupon} no es válido o ya se ha utilizado
 COUPON_OC_ADDED: Se ha agregado la cantidad de {coins} en tu cuenta
-COUPON_INVENTORY: Inventario de cupones
 COUPON_PLACEHOLDER: Ingresa el código del cupón
 COUPON_REDEEM: Canjear un cupón
 COUPON_TUTORIAL_STEP1: Los cupones son códigos que puedes canjear para obtener OC o artículos del juego
@@ -62,10 +62,10 @@ CUSTOMIZE: Personalizar
 DISABLED: Deshabilitar
 DISCONNECT: Desconectar
 DOWNLOAD_LAUNCHER: Descargar Launcher
+DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si no tienes idea de tu arquitectura, descarga la versión x64
 DOWNLOAD_LAUNCHER_VERSION: Descargar Olympus Launcher (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Descargar la versión x64
 DOWNLOAD_LAUNCHER_x86_VERSION: Descargar la versión x86
-DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si no tienes idea de tu arquitectura, descarga la versión x64
 EMAIL:
   CONFIRM_NEW: Confirma el nuevo correo electrónico
   CURRENT: Correo electrónico actual
@@ -73,6 +73,10 @@ EMAIL:
   TITLE: Correo electrónico
   UPDATE: Actualizar correo electrónico
 ENABLED: Habilitado
+FAQ_DOWNLOAD_ANSWER_1: null
+FAQ_DOWNLOAD_ANSWER_2: null
+FAQ_DOWNLOAD_QUESTION_1: null
+FAQ_DOWNLOAD_QUESTION_2: null
 GAME_ACCOUNTS: Cuentas de juego
 GENERAL: General
 HOME: Inicio
@@ -103,25 +107,25 @@ PASSWORD:
   TITLE: Contraseña
   UPDATE: Actualizar contraseña
 PRIVACY_POLICY: Politíca de privacidad
+PROFILE: Perfil
+PROFILE_SECTION_TITLE: Mi perfil
 PURCHASE: Comprar
-PURCHASE_ERRORS_UNDEFINED: Ha ocurrido un error
 PURCHASE_ERRORS_AMOUNT: Por favor, selecciona una cantidad
+PURCHASE_ERRORS_UNDEFINED: Ha ocurrido un error
 PURCHASE_LEAVE_MESSAGE: No abandones la página web
 PURCHASE_SUCCESS: Gracias por tu compra! Hemos añadido {amount} OC a tu cuenta
 PURCHASE_TOS_MESSAGE: Al comprar, has leido y aceptado nuestro {toslink}
 PURCHASE_VERIFYING_TRANSACTION_MESSAGE: Verificando la transacción actual...
-PROFILE: Perfil
-PROFILE_SECTION_TITLE: Mi perfil
 REDEEM: Canjear
 REFRESH_DATA: Actualizar datos
 REGISTER: Registro
 RESET: Reiniciar
 SAVE: Guardar
 SAVE_CHANGES: Guardar cambios
+SECURITY: Seguridad
 SELECT_OC_AMOUNT: Selecciona la cantidad de OC
 SELECT_PURCHASE_METHOD: Selecciona el metodo de pago
 SEND_RESET_LINK: Enviar enlace de restablecer
-SECURITY: Seguridad
 SESSION_EXPIRED: Tu sesión ha caducado. Ingresa nuevamente.
 SETTINGS: Ajustes
 SHOP: Tienda
@@ -136,12 +140,38 @@ SHOP_FILTERS_SORT_BY_ALPHA_DESC: Alfabetico (Z-A)
 SHOP_FILTERS_SORT_BY_PRICE_ASC: Precio (ascendente)
 SHOP_FILTERS_SORT_BY_PRICE_DESC: Precio (descendente)
 SHOP_RESET_FILTERS: Restablecer filtros
+SHOP_SECTION_TITLE: Tienda Olympus
 STAY_LOGGED_IN: ¿Permanecer conectado?
 TERMS_OF_SERVICE: Términos de servicio
-USERNAME: Nombre de usuario
-SHOP_SECTION_TITLE: Tienda Olympus
-UPDATE_BACKGROUND_TITLE: Actualizar fondo
+TOTAL_ARENA_DEATHS: null
+TOTAL_ARENA_KILLS: null
+TOTAL_DAMAGE_DEALT: null
+TOTAL_DEATHS_BY_MONSTER: null
+TOTAL_DEATHS_BY_PLAYER: null
+TOTAL_FOOD_USED: null
+TOTAL_GOLD_DROPPED: null
+TOTAL_GOLD_EARNED_IN_BAZAAR_ITEMS: null
+TOTAL_GOLD_SPENT: null
+TOTAL_GOLD_SPENT_IN_BAZAAR_FEES: null
+TOTAL_GOLD_SPENT_IN_BAZAAR_ITEMS: null
+TOTAL_GOLD_SPENT_IN_NPC_SHOP: null
+TOTAL_GOLD_SPENT_WISHING_FOUNTAIN: null
+TOTAL_ICEBREAKER_WON: null
+TOTAL_INSTANT_BATTLE_WON: null
+TOTAL_ITEMS_USED: null
+TOTAL_MINILAND_VISITS: null
+TOTAL_MONSTERS_KILLED: null
+TOTAL_PLAYERS_KILLED: null
+TOTAL_POTIONS_USED: null
+TOTAL_RAIDS_LOST: null
+TOTAL_RAIDS_WON: null
+TOTAL_SKILLS_CASTED: null
+TOTAL_SNACKS_USED: null
+TOTAL_TIMESPACES_LOST: null
+TOTAL_TIMESPACES_WON: null
 UPDATE_BACKGROUND_DESC: Elige un fondo (naranja por defecto)
+UPDATE_BACKGROUND_TITLE: Actualizar fondo
+USERNAME: Nombre de usuario
 VERIFY: Verificar
 WELCOME: Bienvenido a Olympus!
 WELCOME_BACK: Bienvenido de nuevo a Olympus!

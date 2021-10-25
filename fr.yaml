@@ -39,7 +39,7 @@ AMOUNT: Quantité
 ARE_YOU_NEW: Êtes-vous nouveau?
 AUTHORITY: Rôle
 BACK_TO_LOGIN: Retour à la page de connexion
-BUY_OC: Achat de OC
+BUY_OC: Acheter des OC
 CHARACTERS: Personnages
 CONNECT: Connecter
 CONNECTIONS: Connexions
@@ -61,7 +61,7 @@ COUPON_TUTORIAL_TITLE: Qu'est-ce que les coupons et comment les utiliser ?
 CUSTOMIZE: Personnaliser
 DISABLED: Désactivé
 DISCONNECT: Se déconnecter
-DOWNLOAD_LAUNCHER: Télécharger le launcher
+DOWNLOAD_LAUNCHER: Télécharger
 DOWNLOAD_LAUNCHER_INFO_MESSAGE: Si vous n'avez aucune idée à propos des architectures, prenez la version x64
 DOWNLOAD_LAUNCHER_VERSION: Téléchargez le client du jeu (v.{version})
 DOWNLOAD_LAUNCHER_x64_VERSION: Téléchargez la version x64
@@ -143,6 +143,32 @@ SHOP_RESET_FILTERS: Réinitialiser les filtres
 SHOP_SECTION_TITLE: Olympus Shop
 STAY_LOGGED_IN: Rester connecté ?
 TERMS_OF_SERVICE: conditions générales d'utilisation
+TOTAL_ARENA_DEATHS: morts en arène
+TOTAL_ARENA_KILLS: tués en arène
+TOTAL_DAMAGE_DEALT: dégâts infligés
+TOTAL_DEATHS_BY_MONSTER: morts par monstres (PvE)
+TOTAL_DEATHS_BY_PLAYER: morts par joueurs (PvP)
+TOTAL_FOOD_USED: Nourriture utilisée
+TOTAL_GOLD_DROPPED: or ramassé
+TOTAL_GOLD_EARNED_IN_BAZAAR_ITEMS: or gagné au NosBazar
+TOTAL_GOLD_SPENT: or dépensé
+TOTAL_GOLD_SPENT_IN_BAZAAR_FEES: or dépensé en frais au NosBazar
+TOTAL_GOLD_SPENT_IN_BAZAAR_ITEMS: or dépensé au NosBazar
+TOTAL_GOLD_SPENT_IN_NPC_SHOP: or dépensé chez les PNJ
+TOTAL_GOLD_SPENT_WISHING_FOUNTAIN: null
+TOTAL_ICEBREAKER_WON: Icebreaker gagnés
+TOTAL_INSTANT_BATTLE_WON: Combat instantané gagnés
+TOTAL_ITEMS_USED: Items utilisés
+TOTAL_MINILAND_VISITS: visites de Mini-pays
+TOTAL_MONSTERS_KILLED: monstres tués
+TOTAL_PLAYERS_KILLED: joueurs tués
+TOTAL_POTIONS_USED: potions utilisées
+TOTAL_RAIDS_LOST: raids perdus
+TOTAL_RAIDS_WON: raids gagnés
+TOTAL_SKILLS_CASTED: compétences lancées
+TOTAL_SNACKS_USED: snacks utilisés
+TOTAL_TIMESPACES_LOST: Espaces-Temps perdus
+TOTAL_TIMESPACES_WON: Espaces-Temps gagnés
 UPDATE_BACKGROUND_DESC: Choisissez une bannière (couleur orange par défaut)
 UPDATE_BACKGROUND_TITLE: Mettre à jour la bannière
 USERNAME: Nom d'utilisateur
