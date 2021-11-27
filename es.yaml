@@ -43,6 +43,9 @@ BUY_OC: Compra OC
 CHARACTERS: Personajes
 CONNECT: Conectar
 CONNECTIONS: Conexiones
+CONTACT_SUPPORT: null
+CONTACT_SUPPORT_CREATE_TICKET: null
+CONTACT_SUPPORT_WIKI_AVAILABLE: null
 COPYRIGHT: Copyright
 COUPON_ADDED: el cupón {coupon} se ha agregado a tu inventario de cupones.
 COUPON_CLAIM: reclamar un cupón
@@ -78,6 +81,7 @@ FAQ_DOWNLOAD_ANSWER_2: null
 FAQ_DOWNLOAD_QUESTION_1: null
 FAQ_DOWNLOAD_QUESTION_2: null
 GAME_ACCOUNTS: Cuentas de juego
+GAME_RULES: null
 GENERAL: General
 HOME: Inicio
 LANGUAGE_CZ: Checo

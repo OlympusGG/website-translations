@@ -43,6 +43,9 @@ BUY_OC: Buy OC
 CHARACTERS: Characters
 CONNECT: Connect
 CONNECTIONS: Connections
+CONTACT_SUPPORT: Contact our Support
+CONTACT_SUPPORT_CREATE_TICKET: Any issues encountered? Create a ticket on our Discord support!
+CONTACT_SUPPORT_WIKI_AVAILABLE: For any game questions, don't forget that we have a {link} available!
 COPYRIGHT: Copyright
 COUPON_ADDED: The coupon {coupon} has been added to your coupon inventory.
 COUPON_CLAIM: Claim a coupon
@@ -73,11 +76,12 @@ EMAIL:
   TITLE: Email
   UPDATE: Update Email
 ENABLED: Enabled
-FAQ_DOWNLOAD_ANSWER_1: null
-FAQ_DOWNLOAD_ANSWER_2: null
-FAQ_DOWNLOAD_QUESTION_1: null
-FAQ_DOWNLOAD_QUESTION_2: null
+FAQ_DOWNLOAD_ANSWER_1: It depends of your OS.
+FAQ_DOWNLOAD_ANSWER_2: Please open a launcher-ticket on our support.
+FAQ_DOWNLOAD_QUESTION_1: Which version should I choose?
+FAQ_DOWNLOAD_QUESTION_2: I'm encountering issues not mentioned on this FAQ.
 GAME_ACCOUNTS: Game Accounts
+GAME_RULES: Game Rules
 GENERAL: General
 HOME: Home
 LANGUAGE_CZ: Czech

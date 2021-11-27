@@ -43,6 +43,9 @@ BUY_OC: Acheter des OC
 CHARACTERS: Personnages
 CONNECT: Connecter
 CONNECTIONS: Connexions
+CONTACT_SUPPORT: Contactez notre support
+CONTACT_SUPPORT_CREATE_TICKET: Un problème ? Créez un ticket sur notre support Discord !
+CONTACT_SUPPORT_WIKI_AVAILABLE: Pour des questions en rapport avec le jeu, n'oubliez pas que nous avons un {link} disponible!
 COPYRIGHT: Droits d'auteur
 COUPON_ADDED: Le coupon {coupon} à été ajouté à votre inventaire de coupons.
 COUPON_CLAIM: Utiliser un coupon
@@ -78,6 +81,7 @@ FAQ_DOWNLOAD_ANSWER_2: Merci d'ouvrir un ticket, catégorie launcher-tickets sur
 FAQ_DOWNLOAD_QUESTION_1: Quelle version dois-je choisir ?
 FAQ_DOWNLOAD_QUESTION_2: Je rencontre des difficultés non mentionnés dans cette FAQ
 GAME_ACCOUNTS: Comptes jeu
+GAME_RULES: Règlement du jeu
 GENERAL: Général
 HOME: Accueil
 LANGUAGE_CZ: Tchèque

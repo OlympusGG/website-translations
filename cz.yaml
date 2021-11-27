@@ -43,6 +43,9 @@ BUY_OC: Koupit OC
 CHARACTERS: Postavy
 CONNECT: Připojit
 CONNECTIONS: Připojení
+CONTACT_SUPPORT: null
+CONTACT_SUPPORT_CREATE_TICKET: null
+CONTACT_SUPPORT_WIKI_AVAILABLE: null
 COPYRIGHT: Copyright
 COUPON_ADDED: Kupón {coupon} byl přidán do vašeho inventáře kupónů.
 COUPON_CLAIM: Vyzvednout kupón
@@ -78,6 +81,7 @@ FAQ_DOWNLOAD_ANSWER_2: null
 FAQ_DOWNLOAD_QUESTION_1: null
 FAQ_DOWNLOAD_QUESTION_2: null
 GAME_ACCOUNTS: Herní účty
+GAME_RULES: null
 GENERAL: Obecné
 HOME: Domů
 LANGUAGE_CZ: Česky
