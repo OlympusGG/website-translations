@@ -159,6 +159,7 @@ TOTAL_GOLD_EARNED_IN_BAZAAR_ITEMS: gold earned from NosBazar
 TOTAL_GOLD_SPENT: gold spent
 TOTAL_GOLD_SPENT_IN_BAZAAR_FEES: gold spent in NosBazar fees
 TOTAL_GOLD_SPENT_IN_BAZAAR_ITEMS: gold spent in NosBazar items
+TOTAL_GOLD_SPENT_IN_MYSTERY_BOX: gold spent in mystery boxes
 TOTAL_GOLD_SPENT_IN_NPC_SHOP: gold spent in NPC Shops
 TOTAL_GOLD_SPENT_WISHING_FOUNTAIN: null
 TOTAL_ICEBREAKER_WON: Icebreakers won
@@ -166,12 +167,14 @@ TOTAL_INSTANT_BATTLE_WON: Instant Battle won
 TOTAL_ITEMS_USED: items used
 TOTAL_MINILAND_VISITS: Mini-Land visits
 TOTAL_MONSTERS_KILLED: monsters killed
+TOTAL_MYSTERY_BOX_USAGE: mystery boxes used
 TOTAL_PLAYERS_KILLED: players killed
 TOTAL_POTIONS_USED: potions used
 TOTAL_RAIDS_LOST: raids lost
 TOTAL_RAIDS_WON: raids won
 TOTAL_SKILLS_CASTED: skills casted
 TOTAL_SNACKS_USED: snacks used
+TOTAL_SUPER_REWARDS_EARNED: super rewards earned
 TOTAL_TIMESPACES_LOST: Time-Spaces lost
 TOTAL_TIMESPACES_WON: Time-Spaces won
 UPDATE_BACKGROUND_DESC: Choose a banner (orange by default)

@@ -159,6 +159,7 @@ TOTAL_GOLD_EARNED_IN_BAZAAR_ITEMS: or gagné au NosBazar
 TOTAL_GOLD_SPENT: or dépensé
 TOTAL_GOLD_SPENT_IN_BAZAAR_FEES: or dépensé en frais au NosBazar
 TOTAL_GOLD_SPENT_IN_BAZAAR_ITEMS: or dépensé au NosBazar
+TOTAL_GOLD_SPENT_IN_MYSTERY_BOX: or dépensé dans des boîtes mystères
 TOTAL_GOLD_SPENT_IN_NPC_SHOP: or dépensé chez les PNJ
 TOTAL_GOLD_SPENT_WISHING_FOUNTAIN: null
 TOTAL_ICEBREAKER_WON: Icebreaker gagnés
@@ -166,12 +167,14 @@ TOTAL_INSTANT_BATTLE_WON: Combat instantané gagnés
 TOTAL_ITEMS_USED: Items utilisés
 TOTAL_MINILAND_VISITS: visites de Mini-pays
 TOTAL_MONSTERS_KILLED: monstres tués
+TOTAL_MYSTERY_BOX_USAGE: boîtes mystère ouvertes
 TOTAL_PLAYERS_KILLED: joueurs tués
 TOTAL_POTIONS_USED: potions utilisées
 TOTAL_RAIDS_LOST: raids perdus
 TOTAL_RAIDS_WON: raids gagnés
 TOTAL_SKILLS_CASTED: compétences lancées
 TOTAL_SNACKS_USED: snacks utilisés
+TOTAL_SUPER_REWARDS_EARNED: super-récompenses obtenues
 TOTAL_TIMESPACES_LOST: Espaces-Temps perdus
 TOTAL_TIMESPACES_WON: Espaces-Temps gagnés
 UPDATE_BACKGROUND_DESC: Choisissez une bannière (couleur orange par défaut)
