@@ -1,6 +1,7 @@
 2FA: Autenticación a dos pasos
 2FA_BACKUP_CODES_MSG: Aquí tus códigos de seguridad. ¡Guárdalos en un lugar seguro!
 2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Descarga los códigos de seguridad
+2FA_BACKUP_CODE_ONE_TIME_POPUP_MSG: null
 2FA_BACKUP_CODE_WARNING_MSG: Cada código se puede utilizar solo una vez.
 2FA_CODE: Código
 2FA_DISABLE: Deshabilitar 2FA

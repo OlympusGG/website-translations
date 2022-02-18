@@ -1,6 +1,7 @@
 2FA: Two-factor Authentication
 2FA_BACKUP_CODES_MSG: Here your backup codes. Store them somewhere safe!
 2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Download Backup Codes
+2FA_BACKUP_CODE_ONE_TIME_POPUP_MSG: This pop-up will be shown only once.
 2FA_BACKUP_CODE_WARNING_MSG: Each code can be used only once.
 2FA_CODE: Code
 2FA_DISABLE: Disable 2FA

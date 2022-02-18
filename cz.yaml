@@ -1,6 +1,7 @@
 2FA: Dvoufaktorové (2FA) ověření
 2FA_BACKUP_CODES_MSG: Zde jsou záložní kódy, ulož je na bezpečné místo!
 2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Stáhnout záložní kódy
+2FA_BACKUP_CODE_ONE_TIME_POPUP_MSG: null
 2FA_BACKUP_CODE_WARNING_MSG: Každý kód může být použit pouze jednou
 2FA_CODE: Kód
 2FA_DISABLE: Zakázat 2FA

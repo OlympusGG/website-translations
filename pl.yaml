@@ -1,6 +1,7 @@
 2FA: Uwierzytelnienie dwuetapowe
 2FA_BACKUP_CODES_MSG: To są twoje zapasowe kody. Zachowaj je gdzieś bezpiecznie!
 2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Pobierz kody zapasowe
+2FA_BACKUP_CODE_ONE_TIME_POPUP_MSG: null
 2FA_BACKUP_CODE_WARNING_MSG: Każdy kod można użyć tylko raz.
 2FA_CODE: Kod
 2FA_DISABLE: Wyłącz 2FA

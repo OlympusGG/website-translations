@@ -1,6 +1,7 @@
 2FA: Authentification à deux facteurs
 2FA_BACKUP_CODES_MSG: Voici vos codes de secours. Gardez-les dans un endroit sécurisé!
 2FA_BACKUP_CODE_DOWNLOAD_CODES_MSG: Télécharger les codes de secours
+2FA_BACKUP_CODE_ONE_TIME_POPUP_MSG: Cette pop-up ne sera affichée qu'une seule fois
 2FA_BACKUP_CODE_WARNING_MSG: Chaque code ne peut être utilisé qu'une seule fois
 2FA_CODE: Code
 2FA_DISABLE: Désactiver l'A2F
