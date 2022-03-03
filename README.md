@@ -1,10 +1,10 @@
-# Olympus.Dashboard.Translations
+# Olympus.Web.Translations
 
 ## **PLEASE READ RULES BEFORE TRANSLATING.**
 
 [![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/RUk4r4T)
 
-This is our Dashboard translations repository.
+This is our global Web translations repository
 
 ## How to
 
