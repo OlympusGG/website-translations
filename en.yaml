@@ -15,7 +15,9 @@
 2FA_HOW_TO_DISABLE: How to disable 2FA?
 2FA_HOW_TO_DISABLE_STEP_1: Get the 6 digits code on the app you used to enable 2FA and enter it below
 2FA_HOW_TO_DISABLE_STEP_2: Click on the button!
-2FA_HOW_TO_DISABLE_STEP_3: Delete the Olympus:YourUsername key on the app to be able to scan the code again.
+2FA_HOW_TO_DISABLE_STEP_3: >-
+  Delete the Olympus:YourUsername key on the app to be able to scan the code
+  again.
 2FA_HOW_TO_ENABLE: How to enable 2FA?
 2FA_HOW_TO_ENABLE_STEP_1: Download an 2FA Authenticator App
 2FA_HOW_TO_ENABLE_STEP_2: Scan the QR Code using your application previously downloaded.
@@ -60,7 +62,10 @@ COUPON_REDEEM: Redeem a coupon
 COUPON_TUTORIAL_STEP1: Coupons are codes that you can redeem in order to get OC or in-game items
 COUPON_TUTORIAL_STEP2: To claim, enter the code in the input below
 COUPON_TUTORIAL_STEP3: If the coupon has OC, your account will be directly credited.
-COUPON_TUTORIAL_STEP4: If the coupon has items, your coupon will be added to your coupon inventory and you can redeem it at any time after choosing on which character you want to use it
+COUPON_TUTORIAL_STEP4: >-
+  If the coupon has items, your coupon will be added to your coupon inventory
+  and you can redeem it at any time after choosing on which character you want
+  to use it
 COUPON_TUTORIAL_TITLE: What are coupons and how can I claim them?
 CUSTOMIZE: Customize
 DISABLED: Disabled
@@ -184,5 +189,8 @@ USERNAME: Username
 VERIFY: Verify
 WELCOME: Welcome to Olympus!
 WELCOME_BACK: Welcome back to Olympus!
-WELCOME_BACK_DESCRIPTION: Don't forget to join our {link} server to be aware of our latest news, updates and more!
+WELCOME_BACK_DESCRIPTION: >-
+  Don't forget to join our {link} server to be aware of our latest news, updates
+  and more!
 YOUR_CHARACTERS: Your characters
+DEVICE_ACTIVITY: Device Activity
