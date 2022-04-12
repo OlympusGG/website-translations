@@ -131,6 +131,23 @@ REFRESH_DATA: Refresh data
 REGISTER: Register
 REMEMBER_ME: Remember my email
 RESET: Reset
+RESPONSE_MESSAGES:
+  OGG_SUCCESS:
+  OGG_BAD_REQUEST:
+  OGG_UNAUTHORIZED:
+  OGG_NOT_FOUND:
+  OGG_INTERNAL_SERVER_ERROR:
+  OGG_BAD_REQUEST_INVALID_EMAIL_FORMAT: You entered an invalid email, please try again
+  OGG_BAD_REQUEST_WRONG_PASSWORD: You entered a wrong password, please try again
+  OGG_BAD_REQUEST_2FA_ERROR: An error occured while verifying your 2FA, please try again
+  OGG_BAD_REQUEST_SESSION_HANDLE_ERROR: An error occured while handling session request, please try again
+  OGG_BAD_REQUEST_SESSION_REFRESH_ERROR: An error occured while refreshing your session, please reconnect
+  OGG_BAD_REQUEST_LOGOUT_ERROR: An error occured on logout
+  OGG_NOT_FOUND_ACCOUNT_BY_EMAIL: No account found for this email, please try again
+  OGG_UNAUTHORIZED_BANNED_ACCOUNT: Your account has been banned, please contact the support for more details
+  OGG_UNAUTHORIZED_NOT_ACTIVATED_ACCOUNT: You need to validate your account before logging in
+  OGG_UNAUTHORIZED_SESSION_EXPIRED: Your session has expired, please reconnect
+  OGG_INTERNAL_SERVER_ERROR_SESSION_REFRESH: n error occured while refreshing your session, please reconnect
 SAVE: Save
 SAVE_CHANGES: Save changes
 SECURITY: Security
