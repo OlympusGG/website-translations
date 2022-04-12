@@ -15,9 +15,7 @@
 2FA_HOW_TO_DISABLE: Comment désactiver l'A2F ?
 2FA_HOW_TO_DISABLE_STEP_1: Récupérez le code depuis l'application et entrez le ci-dessous
 2FA_HOW_TO_DISABLE_STEP_2: Cliquez sur le bouton
-2FA_HOW_TO_DISABLE_STEP_3: >-
-  Supprimez la clé Olympus:YourUsername sur l'application pour pouvoir rescanner
-  le QR Code si besoin
+2FA_HOW_TO_DISABLE_STEP_3: Supprimez la clé Olympus:YourUsername sur l'application pour pouvoir rescanner le QR Code si besoin
 2FA_HOW_TO_ENABLE: Comment activer l'A2F ?
 2FA_HOW_TO_ENABLE_STEP_1: Téléchargez une application qui gère l'A2F
 2FA_HOW_TO_ENABLE_STEP_2: Scannez le QR Code ci-dessous grâce à l'application précédemment téléchargée
@@ -26,9 +24,7 @@
 2FA_ISSUE: Un souci?
 2FA_MANAGE: Gérer l'A2F
 2FA_MODAL_DESC: Entrez votre code A2F ci-dessous
-2FA_SUPPORT_HELP: >-
-  Si vous avez toujours des problèmes, merci de bien vouloir contacter notre
-  support.
+2FA_SUPPORT_HELP: Si vous avez toujours des problèmes, merci de bien vouloir contacter notre support.
 ABOUT: A propos
 ACCOUNT: Mon compte
 ACCOUNT_ALREADY_CREATED: Vous possédez déjà un compte?
@@ -50,9 +46,7 @@ CONNECT: Connecter
 CONNECTIONS: Connexions
 CONTACT_SUPPORT: Contactez notre support
 CONTACT_SUPPORT_CREATE_TICKET: Un problème ? Créez un ticket sur notre support Discord !
-CONTACT_SUPPORT_WIKI_AVAILABLE: >-
-  Pour des questions en rapport avec le jeu, n'oubliez pas que nous avons un
-  {link} disponible!
+CONTACT_SUPPORT_WIKI_AVAILABLE: Pour des questions en rapport avec le jeu, n'oubliez pas que nous avons un {link} disponible!
 COPYRIGHT: Droits d'auteur
 COUPON_ADDED: Le coupon {coupon} à été ajouté à votre inventaire de coupons.
 COUPON_CLAIM: Utiliser un coupon
@@ -63,17 +57,13 @@ COUPON_NOT_VALID: Le coupon {coupon} n'est pas valide ou à déjà été utilis�
 COUPON_OC_ADDED: Un montant de {coins} OC ont été ajoutés à votre compte.
 COUPON_PLACEHOLDER: Entrez le code du coupon
 COUPON_REDEEM: Utiliser un coupon
-COUPON_TUTORIAL_STEP1: >-
-  Les coupons sont des codes utilisables qui donnent des OC ou des items
-  in-game.
+COUPON_TUTORIAL_STEP1: Les coupons sont des codes utilisables qui donnent des OC ou des items in-game.
 COUPON_TUTORIAL_STEP2: Pour les utiliser, entrez le code ci-dessous
 COUPON_TUTORIAL_STEP3: Si votre coupon contient des OC, votre compte sera directement crédité
-COUPON_TUTORIAL_STEP4: >-
-  Si votre coupon contient des items, il sera ajouté à votre inventaire de
-  coupons et vous pouvez l'utiliser après avoir choisi le personnage sur lequel
-  vous voulez récupérer vos objets.
+COUPON_TUTORIAL_STEP4: Si votre coupon contient des items, il sera ajouté à votre inventaire de coupons et vous pouvez l'utiliser après avoir choisi le personnage sur lequel vous voulez récupérer vos objets.
 COUPON_TUTORIAL_TITLE: Qu'est-ce que les coupons et comment les utiliser ?
 CUSTOMIZE: Personnaliser
+DEVICE_ACTIVITY: Vos appareils
 DISABLED: Désactivé
 DISCONNECT: Se déconnecter
 DOWNLOAD_LAUNCHER: Télécharger
@@ -118,9 +108,7 @@ PASSWORD:
   CONFIRM_NEW: Confirmer le nouveau mot de passe
   CURRENT: Mot de passe actuel
   FORGOT: Mot de passe oublié ?
-  FORGOT_INSTRUCTIONS: >-
-    Entrez votre adresse e-mail et nous vous enverrons les instructions à suivre
-    pour réinitialiser votre mot de passe.
+  FORGOT_INSTRUCTIONS: Entrez votre adresse e-mail et nous vous enverrons les instructions à suivre pour réinitialiser votre mot de passe.
   NEW: Nouveau mot de passe
   TITLE: Mot de passe
   UPDATE: Mettre à jour le mot de passe
@@ -140,22 +128,22 @@ REGISTER: S'inscrire
 REMEMBER_ME: Se souvenir de moi
 RESET: Réinitialiser
 RESPONSE_MESSAGES:
-  OGG_SUCCESS:
-  OGG_BAD_REQUEST:
-  OGG_UNAUTHORIZED:
-  OGG_NOT_FOUND:
-  OGG_INTERNAL_SERVER_ERROR:
-  OGG_BAD_REQUEST_INVALID_EMAIL_FORMAT:
-  OGG_BAD_REQUEST_WRONG_PASSWORD:
-  OGG_BAD_REQUEST_2FA_ERROR:
-  OGG_BAD_REQUEST_SESSION_HANDLE_ERROR:
-  OGG_BAD_REQUEST_SESSION_REFRESH_ERROR:
-  OGG_BAD_REQUEST_LOGOUT_ERROR:
-  OGG_NOT_FOUND_ACCOUNT_BY_EMAIL:
-  OGG_UNAUTHORIZED_BANNED_ACCOUNT:
-  OGG_UNAUTHORIZED_NOT_ACTIVATED_ACCOUNT:
-  OGG_UNAUTHORIZED_SESSION_EXPIRED:
-  OGG_INTERNAL_SERVER_ERROR_SESSION_REFRESH:
+  OGG_BAD_REQUEST: null
+  OGG_BAD_REQUEST_2FA_ERROR: null
+  OGG_BAD_REQUEST_INVALID_EMAIL_FORMAT: null
+  OGG_BAD_REQUEST_LOGOUT_ERROR: null
+  OGG_BAD_REQUEST_SESSION_HANDLE_ERROR: null
+  OGG_BAD_REQUEST_SESSION_REFRESH_ERROR: null
+  OGG_BAD_REQUEST_WRONG_PASSWORD: null
+  OGG_INTERNAL_SERVER_ERROR: null
+  OGG_INTERNAL_SERVER_ERROR_SESSION_REFRESH: null
+  OGG_NOT_FOUND: null
+  OGG_NOT_FOUND_ACCOUNT_BY_EMAIL: null
+  OGG_SUCCESS: null
+  OGG_UNAUTHORIZED: null
+  OGG_UNAUTHORIZED_BANNED_ACCOUNT: null
+  OGG_UNAUTHORIZED_NOT_ACTIVATED_ACCOUNT: null
+  OGG_UNAUTHORIZED_SESSION_EXPIRED: null
 SAVE: Sauvegarder
 SAVE_CHANGES: Sauvegarder les changements
 SECURITY: Sécurité
@@ -214,8 +202,5 @@ USERNAME: Nom d'utilisateur
 VERIFY: Vérifier
 WELCOME: Bienvenue sur Olympus !
 WELCOME_BACK: De retour ?
-WELCOME_BACK_DESCRIPTION: >-
-  N'hésite pas à rejoindre notre {link} serveur pour te tenir au courant des
-  dernières news, mises à jour et plus encore!
+WELCOME_BACK_DESCRIPTION: N'hésite pas à rejoindre notre {link} serveur pour te tenir au courant des dernières news, mises à jour et plus encore!
 YOUR_CHARACTERS: Vos personnages
-DEVICE_ACTIVITY: Vos appareils
