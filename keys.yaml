@@ -85,6 +85,7 @@ GAME_ACCOUNTS: null
 GAME_RULES: null
 GENERAL: null
 HOME: null
+LANGUAGE_CN: null
 LANGUAGE_CZ: null
 LANGUAGE_DE: null
 LANGUAGE_EN: null
@@ -93,7 +94,7 @@ LANGUAGE_FR: null
 LANGUAGE_IT: null
 LANGUAGE_PL: null
 LANGUAGE_TR: null
-LEADERBOARD: Leaderboards
+LEADERBOARD: null
 LOGIN: null
 LOGOUT: null
 LOGS: null
