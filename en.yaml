@@ -137,6 +137,7 @@ RESPONSE_MESSAGES:
   OGG_BAD_REQUEST_LOGOUT_ERROR: An error occured on logout
   OGG_BAD_REQUEST_SESSION_HANDLE_ERROR: An error occured while handling session request, please try again
   OGG_BAD_REQUEST_SESSION_REFRESH_ERROR: An error occured while refreshing your session, please reconnect
+  OGG_BAD_REQUEST_UNKNOWN_CREDENTIALS: Unknown credentials
   OGG_BAD_REQUEST_WRONG_PASSWORD: You entered a wrong password, please try again
   OGG_INTERNAL_SERVER_ERROR: null
   OGG_INTERNAL_SERVER_ERROR_SESSION_REFRESH: An error occured while refreshing your session, please reconnect
